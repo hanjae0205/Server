@@ -1,0 +1,27 @@
+[17:28:23] [ServerMain/INFO]: Building unoptimized datafixer
+[17:28:24] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[17:28:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:28:27] [ServerMain/INFO]: Loaded 7 recipes
+[17:28:27] [ServerMain/INFO]: Loaded 1179 advancements
+[17:28:28] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[17:28:28] [Server thread/INFO]: Loading properties
+[17:28:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:28:28] [Server thread/INFO]: Generating keypair
+[17:28:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:28:28] [Server thread/INFO]: Using default channel type
+[17:28:28] [Server thread/INFO]: Preparing level "world"
+[17:28:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:28:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:28:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:28:35] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[17:28:35] [Worker-Main-5/INFO]: Preparing spawn area: 49%
+[17:28:36] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[17:28:36] [Server thread/INFO]: Time elapsed: 5532 ms
+[17:28:36] [Server thread/INFO]: Done (7.639s)! For help, type "help"
