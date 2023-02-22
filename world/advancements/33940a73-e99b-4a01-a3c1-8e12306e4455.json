@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-02-22 12:45:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-13 12:35:38 +0900"
@@ -62,6 +68,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2023-02-14 09:55:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-02-22 12:24:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2023-02-12 14:44:45 +0900"
@@ -347,9 +365,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-02-22 12:45:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-13 12:35:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-02-22 12:45:07 +0900"
     },
     "done": true
   },
@@ -489,10 +519,12 @@
     "criteria": {
       "minecraft:pillager": "2023-02-14 14:02:58 +0900",
       "minecraft:skeleton": "2023-02-11 23:14:22 +0900",
+      "minecraft:ghast": "2023-02-22 12:45:07 +0900",
       "minecraft:vindicator": "2023-02-15 13:04:54 +0900",
       "minecraft:spider": "2023-02-11 22:59:45 +0900",
       "minecraft:creeper": "2023-02-11 23:12:18 +0900",
       "minecraft:zombified_piglin": "2023-02-20 12:39:10 +0900",
+      "minecraft:wither_skeleton": "2023-02-22 12:54:09 +0900",
       "minecraft:piglin": "2023-02-14 19:52:52 +0900",
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
       "minecraft:zombie": "2023-02-11 23:32:10 +0900",
@@ -578,6 +610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2023-02-14 14:02:58 +0900"
@@ -599,6 +637,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2023-02-13 13:16:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
     },
     "done": true
   },
@@ -725,6 +769,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2023-02-13 13:16:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
     },
     "done": true
   },
@@ -956,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2023-02-13 11:47:30 +0900"
@@ -1168,7 +1224,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2023-02-14 14:04:11 +0900"
+      "minecraft:nether_wastes": "2023-02-14 14:04:11 +0900",
+      "minecraft:warped_forest": "2023-02-22 12:19:48 +0900"
     },
     "done": false
   },
@@ -1352,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-12 15:00:03 +0900"
@@ -1418,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-02-22 12:45:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2023-02-13 12:53:26 +0900"
@@ -1455,9 +1524,11 @@
       "cooked_beef": "2023-02-13 13:27:55 +0900",
       "beef": "2023-02-15 12:52:52 +0900",
       "porkchop": "2023-02-11 22:58:56 +0900",
+      "mutton": "2023-02-22 12:20:44 +0900",
       "bread": "2023-02-15 12:13:42 +0900",
       "rotten_flesh": "2023-02-11 23:30:15 +0900",
       "glow_berries": "2023-02-15 23:35:10 +0900",
+      "salmon": "2023-02-22 12:20:57 +0900",
       "cooked_chicken": "2023-02-12 14:38:16 +0900",
       "cooked_salmon": "2023-02-14 10:20:16 +0900",
       "carrot": "2023-02-12 18:50:38 +0900"
@@ -1593,6 +1664,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2023-02-12 14:15:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-02-22 12:45:27 +0900"
     },
     "done": true
   },
@@ -1890,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-02-22 12:24:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-13 13:21:15 +0900"
@@ -1980,6 +2063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2023-02-11 22:57:18 +0900"
@@ -2001,6 +2090,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-02-12 14:15:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-02-22 12:53:16 +0900"
     },
     "done": true
   },
@@ -2184,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-02-22 12:45:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2023-02-13 12:09:18 +0900"
@@ -2199,6 +2300,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-02-11 23:23:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
     },
     "done": true
   },
@@ -2274,6 +2381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-02-22 12:45:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-02-12 14:15:57 +0900"
@@ -2286,6 +2399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-12 15:00:03 +0900"
@@ -2295,6 +2414,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2023-02-12 14:39:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2023-02-22 12:33:23 +0900"
     },
     "done": true
   },
