@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-02-23 13:22:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2023-02-12 14:44:45 +0900"
@@ -314,6 +320,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-02-11 23:04:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-02-23 13:48:14 +0900"
     },
     "done": true
   },
@@ -479,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-02-23 13:48:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2023-02-20 12:51:09 +0900"
@@ -518,9 +536,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-02-14 14:02:58 +0900",
+      "minecraft:blaze": "2023-02-23 13:28:17 +0900",
       "minecraft:skeleton": "2023-02-11 23:14:22 +0900",
       "minecraft:ghast": "2023-02-22 12:45:07 +0900",
       "minecraft:vindicator": "2023-02-15 13:04:54 +0900",
+      "minecraft:magma_cube": "2023-02-23 13:11:24 +0900",
       "minecraft:spider": "2023-02-11 22:59:45 +0900",
       "minecraft:creeper": "2023-02-11 23:12:18 +0900",
       "minecraft:zombified_piglin": "2023-02-20 12:39:10 +0900",
@@ -531,6 +551,12 @@
       "minecraft:zombie_villager": "2023-02-14 10:20:51 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-02-23 13:44:22 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -721,6 +747,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2023-02-13 13:16:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-02-23 13:44:14 +0900"
     },
     "done": true
   },
@@ -1042,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-02-23 13:44:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-13 12:35:38 +0900"
@@ -1225,9 +1263,16 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2023-02-14 14:04:11 +0900",
-      "minecraft:warped_forest": "2023-02-22 12:19:48 +0900"
+      "minecraft:warped_forest": "2023-02-22 12:19:48 +0900",
+      "minecraft:basalt_deltas": "2023-02-23 13:20:45 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2023-02-23 13:13:18 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -1298,6 +1343,18 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2023-02-12 14:40:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-02-23 13:44:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-02-23 13:22:49 +0900"
     },
     "done": true
   },
@@ -1745,6 +1802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-02-23 13:22:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2023-02-12 14:15:57 +0900"
@@ -1901,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-02-23 14:07:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-12 15:00:03 +0900"
@@ -1934,6 +2003,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-02-12 14:15:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-02-23 14:07:50 +0900"
     },
     "done": true
   },
@@ -2141,6 +2216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2023-02-23 13:13:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-02-11 22:48:17 +0900"
@@ -2195,6 +2276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-02-23 13:48:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-02-11 22:44:51 +0900"
@@ -2228,6 +2315,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-02-14 13:46:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-02-23 13:44:14 +0900"
     },
     "done": true
   },
@@ -2270,6 +2363,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2023-02-15 12:26:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-02-23 13:44:14 +0900"
     },
     "done": true
   },
