@@ -1,148 +1,129 @@
-[13:00:28] [ServerMain/INFO]: Building unoptimized datafixer
-[13:00:30] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[13:00:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:00:32] [ServerMain/INFO]: Loaded 7 recipes
-[13:00:32] [ServerMain/INFO]: Loaded 1179 advancements
-[13:00:33] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[13:00:33] [Server thread/INFO]: Loading properties
-[13:00:33] [Server thread/INFO]: Default game type: SURVIVAL
-[13:00:33] [Server thread/INFO]: Generating keypair
-[13:00:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:00:33] [Server thread/INFO]: Using default channel type
-[13:00:33] [Server thread/INFO]: Preparing level "world"
-[13:00:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:00:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:00:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:00:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:00:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[13:00:41] [Worker-Main-3/INFO]: Preparing spawn area: 20%
-[13:00:41] [Worker-Main-4/INFO]: Preparing spawn area: 81%
-[13:00:41] [Server thread/INFO]: Time elapsed: 6167 ms
-[13:00:41] [Server thread/INFO]: Done (8.168s)! For help, type "help"
-[13:02:16] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[13:02:17] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:64938] logged in with entity id 158 at (-12.70772635454678, 79.0, 9.355653300262205)
-[13:02:17] [Server thread/INFO]: Mwolbwa1130 joined the game
-[13:02:56] [Server thread/INFO]: Mwolbwa1130 went up in flames
-[13:02:57] [Server thread/INFO]: [Not Secure] [Server] My name is Gim Mustle
-[13:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[13:04:23] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[13:04:23] [Server thread/INFO]: WhoWM[/192.168.0.1:64729] logged in with entity id 1475 at (-27.314524869279925, 87.0, 35.91862298461619)
-[13:04:23] [Server thread/INFO]: WhoWM joined the game
-[13:07:39] [Server thread/INFO]: WhoWM fell from a high place
-[13:07:48] [Server thread/INFO]: WhoWM fell from a high place
-[13:08:33] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
-[13:09:04] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
-[13:10:29] [Server thread/INFO]: WhoWM was slain by Magma Cube
-[13:11:16] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[13:13:54] [Server thread/INFO]: WhoWM fell from a high place
-[13:17:14] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[13:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[13:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
-[13:19:54] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[13:20:45] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[13:20:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[13:20:53] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[13:24:34] [Server thread/INFO]: WhoWM fell from a high place
-[13:25:23] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[13:27:12] [Server thread/INFO]: [WhoWM: Applied effect Regeneration to WhoWM]
-[13:28:32] [Server thread/INFO]: WhoWM withered away
-[13:29:04] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
-[13:31:36] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[13:32:00] [Server thread/INFO]: Mwolbwa1130 was fireballed by Ghast
-[13:32:17] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[13:32:17] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[13:32:17] [Server thread/INFO]: WhoWM left the game
-[13:32:18] [Server thread/WARN]: handleDisconnection() called twice
-[13:32:18] [Server thread/INFO]: WhoWM[/192.168.0.1:55955] logged in with entity id 9820 at (-224.6991198025756, 75.0, -100.69999998807907)
-[13:32:18] [Server thread/INFO]: WhoWM joined the game
-[13:32:49] [Server thread/INFO]: WhoWM lost connection: Timed out
-[13:32:49] [Server thread/INFO]: WhoWM left the game
-[13:37:37] [User Authenticator #4/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[13:37:38] [Server thread/INFO]: WhoWM[/192.168.0.1:55836] logged in with entity id 11518 at (-224.6991198025756, 75.0, -100.69999998807907)
-[13:37:38] [Server thread/INFO]: WhoWM joined the game
-[13:37:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:42] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:37:42] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-42, y=81, z=120} gp{x=-42, y=82, z=119}
-[13:38:01] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to WhoWM]
-[13:38:38] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[13:38:59] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to WhoWM]
-[13:41:17] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[13:41:47] [Server thread/INFO]: WhoWM was slain by Zombified Piglin
-[13:43:10] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -251.500000, 67.000000, -100.500000]
-[13:43:26] [Server thread/INFO]: [Mwolbwa1130: Teleported Mwolbwa1130 to -251.500000, 67.000000, -100.500000]
-[13:43:26] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -251.500000, 67.000000, -100.500000]
-[13:43:27] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -39.938553184287,12.0,-75.1870596564341
-[13:44:14] [Server thread/INFO]: WhoWM has made the advancement [Into Fire]
-[13:47:26] [Server thread/INFO]: Mwolbwa1130 was shot by WhoWM using [무한 짱짱쎈 활]
-[13:47:42] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -321.771979, 67.000000, -98.492285]
-[13:50:11] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -308.834712, 67.000000, -108.539903]
-[13:50:40] [Server thread/INFO]: WhoWM fell from a high place
-[13:50:54] [Server thread/INFO]: [WhoWM: Teleported 2 entities to Mwolbwa1130]
-[13:51:39] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[13:51:45] [Server thread/INFO]: [WhoWM: Teleported 2 entities to WhoWM]
-[13:52:43] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -389.700000, 77.000000, -115.300000]
-[13:52:43] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.4193198224077719,27.0,0.9297466061559305
-[13:53:17] [Server thread/INFO]: WhoWM fell from a high place
-[13:53:30] [Server thread/INFO]: [WhoWM: Teleported 2 entities to Mwolbwa1130]
-[13:53:32] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava to escape Ghast
-[13:54:24] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -369.395421, 67.000000, -116.792664]
-[13:55:49] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[13:56:04] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -287.700000, 70.000000, -130.498353]
-[13:56:24] [Server thread/INFO]: WhoWM tried to swim in lava
-[13:56:35] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -32.500000, 106.562500, -0.500000]
-[13:56:59] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[13:57:01] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[13:57:38] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 13 ms
-[13:57:43] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -287.500000, 96.059433, 256.500000]
-[13:58:01] [Server thread/INFO]: Locating element minecraft:fortress took 50 ms
-[13:58:03] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -287.500000, 79.565101, -127.500000]
-[13:58:32] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -262.869109, 74.695425, -115.423735]
-[13:58:40] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[13:58:53] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[13:59:42] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[13:59:55] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -321.565674, 67.000000, -92.631249]
-[14:00:24] [Server thread/INFO]: WhoWM fell from a high place
-[14:00:38] [Server thread/INFO]: [WhoWM: Teleported 2 entities to Mwolbwa1130]
-[14:00:43] [Server thread/INFO]: Mwolbwa1130 was fireballed by Blaze
-[14:01:23] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:01:26] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:01:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:01:46] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:02:19] [Server thread/INFO]: [WhoWM: Teleported 2 entities to WhoWM]
-[14:02:39] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[14:02:44] [Server thread/INFO]: [WhoWM: Teleported 2 entities to WhoWM]
-[14:03:31] [Server thread/INFO]: WhoWM fell from a high place
-[14:03:43] [Server thread/INFO]: [WhoWM: Teleported 2 entities to Mwolbwa1130]
-[14:04:02] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -307.711809, 73.000000, -186.535251]
-[14:04:23] [Server thread/INFO]: WhoWM fell from a high place
-[14:04:45] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[14:06:09] [Server thread/INFO]: Mwolbwa1130 hit the ground too hard
-[14:06:16] [Server thread/INFO]: [WhoWM: Teleported 2 entities to -251.999925, 60.000000, -135.007283]
-[14:07:16] [Server thread/INFO]: WhoWM fell out of the world
-[14:07:16] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[14:07:16] [Server thread/INFO]: [WhoWM: Killed 2 entities]
-[14:08:34] [Server thread/INFO]: Stopping the server
-[14:08:34] [Server thread/INFO]: Stopping server
-[14:08:34] [Server thread/INFO]: Saving players
-[14:08:34] [Server thread/INFO]: WhoWM lost connection: Server closed
-[14:08:34] [Server thread/INFO]: WhoWM left the game
-[14:08:34] [Server thread/INFO]: Saving worlds
-[14:08:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[14:08:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[14:08:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[14:08:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:08:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:08:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:08:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:35:49] [ServerMain/INFO]: Building unoptimized datafixer
+[12:35:53] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[12:35:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:35:57] [ServerMain/INFO]: Loaded 7 recipes
+[12:35:58] [ServerMain/INFO]: Loaded 1179 advancements
+[12:35:59] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[12:35:59] [Server thread/INFO]: Loading properties
+[12:35:59] [Server thread/INFO]: Default game type: SURVIVAL
+[12:35:59] [Server thread/INFO]: Generating keypair
+[12:36:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:36:00] [Server thread/INFO]: Using default channel type
+[12:36:01] [Server thread/INFO]: Preparing level "world"
+[12:36:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:36:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:36:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:36:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:36:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:36:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:36:13] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[12:36:13] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[12:36:14] [Worker-Main-7/INFO]: Preparing spawn area: 56%
+[12:36:14] [Server thread/INFO]: Time elapsed: 9521 ms
+[12:36:14] [Server thread/INFO]: Done (13.365s)! For help, type "help"
+[12:37:14] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[12:37:14] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50476] logged in with entity id 178 at (-31.92245355247579, 106.5625, -2.1126800407201016)
+[12:37:14] [Server thread/INFO]: Mwolbwa1130 joined the game
+[12:38:17] [Server thread/INFO]: <Mwolbwa1130> ?
+[12:38:51] [Server thread/INFO]: Seed: [1972]
+[12:39:58] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[12:39:59] [Server thread/INFO]: WhoWM[/192.168.0.1:51176] logged in with entity id 993 at (-32.29087822316652, 106.5625, -0.3107737376512367)
+[12:39:59] [Server thread/INFO]: WhoWM joined the game
+[12:41:41] [Server thread/INFO]: <WhoWM> 1824 ~ -480
+[12:43:13] [Server thread/INFO]: [WhoWM: Applied effect Regeneration to 2 targets]
+[12:45:46] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
+[12:55:22] [Server thread/INFO]: Mwolbwa1130 has made the advancement [What a Deal!]
+[12:55:31] [Server thread/INFO]: Villager bwc['Farmer'/6168, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=914.40, y=78.94, z=892.36] died, message: 'Farmer was slain by Mwolbwa1130'
+[13:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[13:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[13:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[13:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[13:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
+[13:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5196ms or 103 ticks behind
+[13:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5245ms or 104 ticks behind
+[13:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[13:04:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5130ms or 102 ticks behind
+[13:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4360ms or 87 ticks behind
+[13:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[13:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[13:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3876ms or 77 ticks behind
+[13:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6035ms or 120 ticks behind
+[13:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7744ms or 154 ticks behind
+[13:06:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6370ms or 127 ticks behind
+[13:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4373ms or 87 ticks behind
+[13:07:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4814ms or 96 ticks behind
+[13:07:49] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.12456329388169252,0.0,-10.024206938699422
+[13:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11986ms or 239 ticks behind
+[13:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[13:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
+[13:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3628ms or 72 ticks behind
+[13:10:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[13:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[13:10:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[13:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[13:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[13:11:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[13:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2999ms or 59 ticks behind
+[13:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[13:12:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[13:12:41] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 1793.729196, 74.000000, -381.545903]
+[13:15:20] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Eye Spy]
+[13:15:20] [Server thread/INFO]: WhoWM has made the advancement [Eye Spy]
+[13:17:07] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[13:17:07] [Server thread/INFO]: Mwolbwa1130 left the game
+[13:17:24] [User Authenticator #3/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[13:17:24] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50571] logged in with entity id 18621 at (1795.699431139117, -7.0, -504.28777323168185)
+[13:17:24] [Server thread/INFO]: Mwolbwa1130 joined the game
+[13:17:26] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
+[13:18:51] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[13:18:51] [Server thread/INFO]: WhoWM left the game
+[13:20:56] [User Authenticator #4/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[13:20:56] [Server thread/INFO]: WhoWM[/192.168.0.1:58375] logged in with entity id 19081 at (1798.3335138862303, -4.0, -504.8290251635097)
+[13:20:56] [Server thread/INFO]: WhoWM joined the game
+[13:22:11] [Server thread/INFO]: WhoWM burned to death
+[13:22:55] [Server thread/INFO]: WhoWM has made the advancement [The End?]
+[13:22:55] [Server thread/INFO]: Mwolbwa1130 has made the advancement [The End?]
+[13:22:55] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1696.2906290768456,53.39260454995134,504.0112235855366
+[13:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[13:22:59] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[13:22:59] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[13:25:12] [Server thread/INFO]: WhoWM was killed by Ender Dragon using magic
+[13:25:26] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[13:25:26] [Server thread/INFO]: WhoWM left the game
+[13:26:32] [Server thread/INFO]: Mwolbwa1130 was killed by Ender Dragon using magic
+[13:28:48] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[13:31:07] [Server thread/INFO]: Applied effect Jump Boost to Mwolbwa1130
+[13:32:37] [Server thread/INFO]: Mwolbwa1130 was blown up by Mwolbwa1130
+[13:34:16] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[13:37:08] [Server thread/INFO]: Mwolbwa1130 was killed by Ender Dragon using magic
+[13:37:38] [Server thread/INFO]: Mwolbwa1130 was killed by Ender Dragon using magic
+[13:38:03] [Server thread/INFO]: Mwolbwa1130 was killed by Ender Dragon using magic
+[13:40:05] [Server thread/INFO]: Mwolbwa1130 was slain by Enderman
+[13:43:40] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Free the End]
+[13:57:07] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[13:57:07] [Server thread/INFO]: Mwolbwa1130 left the game
+[20:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16360938ms or 327218 ticks behind
+[20:10:21] [Server thread/INFO]: Seed: [1972]
+[20:11:07] [Server thread/INFO]: Stopping the server
+[20:11:07] [Server thread/INFO]: Stopping server
+[20:11:07] [Server thread/INFO]: Saving players
+[20:11:07] [Server thread/INFO]: Saving worlds
+[20:11:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[20:11:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[20:11:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[20:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
