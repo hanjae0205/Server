@@ -553,6 +553,7 @@
       "minecraft:wither_skeleton": "2023-02-22 12:54:09 +0900",
       "minecraft:piglin": "2023-02-14 19:52:52 +0900",
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
+      "minecraft:silverfish": "2023-02-24 20:56:13 +0900",
       "minecraft:zombie": "2023-02-11 23:32:10 +0900",
       "minecraft:zombie_villager": "2023-02-14 10:20:51 +0900"
     },
@@ -1255,6 +1256,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-13 13:21:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-02-24 20:35:07 +0900"
     },
     "done": true
   },
