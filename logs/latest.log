@@ -1,221 +1,92 @@
-[20:17:44] [ServerMain/INFO]: Building unoptimized datafixer
-[20:17:51] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[20:17:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:17:59] [ServerMain/INFO]: Loaded 7 recipes
-[20:18:00] [ServerMain/INFO]: Loaded 1179 advancements
-[20:18:03] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[20:18:03] [Server thread/INFO]: Loading properties
-[20:18:03] [Server thread/INFO]: Default game type: SURVIVAL
-[20:18:03] [Server thread/INFO]: Generating keypair
-[20:18:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:18:05] [Server thread/INFO]: Using default channel type
-[20:18:06] [Server thread/INFO]: Preparing level "world"
-[20:18:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:18:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:18:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:18:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:24] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:18:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:18:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:18:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:18:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:18:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:18:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:18:28] [Worker-Main-7/INFO]: Preparing spawn area: 1%
-[20:18:28] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[20:18:29] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[20:18:29] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[20:18:30] [Worker-Main-4/INFO]: Preparing spawn area: 5%
-[20:18:30] [Worker-Main-4/INFO]: Preparing spawn area: 34%
-[20:18:31] [Worker-Main-4/INFO]: Preparing spawn area: 70%
-[20:18:32] [Server thread/INFO]: Time elapsed: 19117 ms
-[20:18:32] [Server thread/INFO]: Done (26.342s)! For help, type "help"
-[20:19:18] [User Authenticator #1/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[20:19:18] [Server thread/INFO]: hanjin0220[/192.168.0.1:58548] logged in with entity id 54 at (21.30000001192093, 65.0, 47.369961265486815)
-[20:19:18] [Server thread/INFO]: hanjin0220 joined the game
-[20:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[20:19:45] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
-[20:19:45] [Server thread/INFO]: hanjin0220 left the game
-[20:19:54] [User Authenticator #2/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[20:19:54] [Server thread/INFO]: hanjin0220[/192.168.0.1:58579] logged in with entity id 459 at (21.30000001192093, 65.0, 47.369961265486815)
-[20:19:54] [Server thread/INFO]: hanjin0220 joined the game
-[20:20:20] [Server thread/INFO]: Teleported hanjin0220 to 0.000000, 576.000000, 0.000000
-[20:20:20] [Server thread/WARN]: hanjin0220 moved too quickly! -23.191177396243,510.49493601806967,-43.30000001192093
-[20:20:29] [Server thread/INFO]: hanjin0220 fell from a high place
-[20:20:31] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[20:20:32] [Server thread/INFO]: WhoWM[/192.168.0.1:49464] logged in with entity id 928 at (1794.95341183279, -4.0, -504.95027398078753)
-[20:20:32] [Server thread/INFO]: WhoWM joined the game
-[20:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7921ms or 158 ticks behind
-[20:20:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
-[20:21:12] [Server thread/INFO]: hanjin0220 has made the advancement [Diamonds!]
-[20:21:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4610ms or 92 ticks behind
-[20:21:54] [Server thread/INFO]: [WhoWM: Gave 1 [Piston] to WhoWM]
-[20:22:27] [Server thread/INFO]: [WhoWM: Gave 1 [Stone Button] to WhoWM]
-[20:24:00] [Server thread/INFO]: hanjin0220 was shot by Skeleton
-[20:27:02] [Server thread/INFO]: hanjin0220 fell from a high place
-[20:30:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=17, y=71, z=16} gp{x=16, y=72, z=15}
-[20:30:58] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=17, y=71, z=16} gp{x=15, y=72, z=16}
-[20:30:59] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=15, y=72, z=18} gp{x=15, y=72, z=16}
-[20:31:17] [Server thread/INFO]: [WhoWM: Gave 1 [Stone Button] to WhoWM]
-[20:31:30] [Server thread/INFO]: [WhoWM: Gave 1 [Piston] to WhoWM]
-[20:31:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=16, y=70, z=17} gp{x=16, y=70, z=16}
-[20:32:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=16, y=70, z=17} gp{x=16, y=70, z=15}
-[20:32:22] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=16, y=70, z=17} gp{x=16, y=70, z=16}
-[20:32:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=16, y=70, z=17} gp{x=15, y=69, z=16}
-[20:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[20:33:11] [Server thread/WARN]: WhoWM moved too quickly! -1696.8877809666642,53.46415937495544,503.79359605855024
-[20:33:25] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=17, y=68, z=18} gp{x=16, y=69, z=16}
-[20:33:25] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=17, y=68, z=18} gp{x=16, y=70, z=16}
-[20:35:03] [Server thread/INFO]: [WhoWM: Changed the block at 0, 66, 0]
-[20:35:07] [Server thread/INFO]: WhoWM has reached the goal [The Next Generation]
-[20:38:16] [Server thread/INFO]: hanjin0220 fell from a high place
-[20:38:47] [Server thread/INFO]: hanjin0220 fell from a high place
-[20:40:16] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
-[20:40:16] [Server thread/INFO]: hanjin0220 left the game
-[20:41:17] [Server thread/INFO]: [WhoWM: Applied effect Haste to WhoWM]
-[20:42:36] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=57, z=-1} gp{x=4, y=59, z=-1}
-[20:42:36] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=57, z=-1} gp{x=4, y=59, z=-1}
-[20:43:49] [Server thread/INFO]: [WhoWM: Applied effect Haste to WhoWM]
-[20:44:29] [Server thread/INFO]: [WhoWM: Applied effect Haste to WhoWM]
-[20:49:16] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[20:49:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[20:49:44] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[20:50:01] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[20:50:05] [Server thread/INFO]: [WhoWM: Successfully filled 2943 blocks]
-[20:50:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[20:51:28] [Server thread/INFO]: [WhoWM: Applied effect Haste to WhoWM]
-[20:51:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-6, z=-503}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-6, z=-505}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1818, y=-6, z=-506}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-6, z=-506}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1818, y=-6, z=-507}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-6, z=-507}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1818, y=-5, z=-506}
-[20:51:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1819, y=-6, z=-506}
-[20:51:46] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-5, z=-505}
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-5, z=-506}
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1817, y=-5, z=-507}
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1816, y=-5, z=-506}
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-6, z=-504} gp{x=1816, y=-6, z=-506}
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1815, y=-6, z=-506}
-[20:51:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1815, y=-6, z=-507}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1815, y=-6, z=-508}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1814, y=-6, z=-508}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1814, y=-6, z=-509}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1814, y=-6, z=-507}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1813, y=-6, z=-508}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1814, y=-6, z=-506}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1813, y=-6, z=-509}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1816, y=-6, z=-508}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1816, y=-6, z=-507}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1817, y=-6, z=-508}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1816, y=-6, z=-506} gp{x=1817, y=-7, z=-508}
-[20:51:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1818, y=-6, z=-508}
-[20:51:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1815, y=-7, z=-508}
-[20:51:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1814, y=-7, z=-507}
-[20:51:51] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1814, y=-7, z=-506}
-[20:51:53] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[20:54:21] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[20:54:23] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-6, z=-508}
-[20:54:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-5, z=-508}
-[20:54:25] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-4, z=-508}
-[20:54:26] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-7, z=-508}
-[20:54:29] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-7, z=-509}
-[20:54:40] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1801, y=-7, z=-505}
-[20:54:40] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1800, y=-7, z=-505}
-[20:54:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1800, y=-6, z=-505}
-[20:54:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1800, y=-6, z=-504}
-[20:54:42] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1799, y=-6, z=-505}
-[20:54:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1799, y=-7, z=-505}
-[20:54:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1807, y=-7, z=-506}
-[20:54:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1807, y=-7, z=-507}
-[20:54:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1808, y=-7, z=-506}
-[20:54:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1808, y=-7, z=-507}
-[20:54:51] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1809, y=-7, z=-506}
-[20:54:52] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1810, y=-7, z=-506}
-[20:54:52] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1811, y=-8, z=-506}
-[20:55:00] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1811, y=-6, z=-506}
-[20:55:00] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1812, y=-6, z=-506}
-[20:55:01] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1811, y=-5, z=-506}
-[20:55:02] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1812, y=-5, z=-506}
-[20:55:02] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1812, y=-5, z=-507}
-[20:55:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1810, y=-5, z=-506}
-[20:55:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1810, y=-5, z=-507}
-[20:55:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1810, y=-6, z=-506}
-[20:55:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1810, y=-6, z=-507}
-[20:55:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1809, y=-5, z=-506}
-[20:55:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1809, y=-6, z=-506}
-[20:55:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1808, y=-6, z=-506}
-[20:55:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1808, y=-5, z=-506}
-[20:55:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1807, y=-5, z=-506}
-[20:55:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1807, y=-6, z=-506}
-[20:55:09] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-5, z=-506}
-[20:55:09] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-6, z=-506}
-[20:55:16] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1806, y=-7, z=-506}
-[20:55:29] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1812, y=-7, z=-506}
-[20:55:29] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1813, y=-7, z=-506}
-[20:55:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1813, y=-6, z=-506}
-[20:55:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1813, y=-6, z=-507}
-[20:55:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1817, y=-7, z=-508} gp{x=1813, y=-5, z=-506}
-[20:55:42] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-5, z=-502}
-[20:55:42] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-4, z=-500}
-[20:55:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-7, z=-502}
-[20:55:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-8, z=-501}
-[20:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-5, z=-501}
-[20:55:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-5, z=-501}
-[20:55:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1810, y=-4, z=-501}
-[20:56:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1811, y=-8, z=-501}
-[20:56:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1811, y=-9, z=-501}
-[20:56:11] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1811, y=-9, z=-502}
-[20:56:11] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-6, z=-502} gp{x=1811, y=-10, z=-502}
-[20:56:20] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1811, y=-10, z=-501} gp{x=1811, y=-8, z=-500}
-[20:56:20] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1811, y=-10, z=-501} gp{x=1811, y=-9, z=-500}
-[20:56:20] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1811, y=-10, z=-501} gp{x=1811, y=-8, z=-499}
-[20:56:20] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1811, y=-10, z=-501} gp{x=1810, y=-8, z=-499}
-[20:56:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1811, y=-10, z=-501} gp{x=1810, y=-8, z=-500}
-[20:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-8, z=-501}
-[20:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-9, z=-501}
-[20:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-8, z=-500}
-[20:56:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-8, z=-499}
-[20:56:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-9, z=-499}
-[20:56:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1809, y=-8, z=-499}
-[20:56:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-5, z=-502}
-[20:56:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-6, z=-502}
-[20:56:44] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-7, z=-502}
-[20:56:44] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1808, y=-8, z=-503}
-[20:57:04] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1810, y=-8, z=-501} gp{x=1809, y=-8, z=-502}
-[20:57:24] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[20:57:24] [Server thread/INFO]: WhoWM left the game
-[20:57:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[20:57:35] [Server thread/INFO]: sto<--[HERE]
-[20:57:38] [Server thread/INFO]: Stopping the server
-[20:57:38] [Server thread/INFO]: Stopping server
-[20:57:38] [Server thread/INFO]: Saving players
-[20:57:38] [Server thread/INFO]: Saving worlds
-[20:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[20:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[20:57:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[20:57:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:57:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:57:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:57:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:46:32] [ServerMain/INFO]: Building unoptimized datafixer
+[17:46:33] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[17:46:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:46:36] [ServerMain/INFO]: Loaded 7 recipes
+[17:46:36] [ServerMain/INFO]: Loaded 1179 advancements
+[17:46:37] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[17:46:37] [Server thread/INFO]: Loading properties
+[17:46:37] [Server thread/INFO]: Default game type: SURVIVAL
+[17:46:37] [Server thread/INFO]: Generating keypair
+[17:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:46:38] [Server thread/INFO]: Using default channel type
+[17:46:38] [Server thread/INFO]: Preparing level "world"
+[17:46:41] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[17:46:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:46:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:46] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:46:47] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:46:47] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[17:46:48] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[17:46:48] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[17:46:48] [Server thread/INFO]: Time elapsed: 7631 ms
+[17:46:48] [Server thread/INFO]: Done (10.315s)! For help, type "help"
+[17:46:49] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:56182] logged in with entity id 53 at (1800.5796940450414, -6.4375, -506.44941894058746)
+[17:46:49] [Server thread/INFO]: Mwolbwa1130 joined the game
+[17:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3595ms or 71 ticks behind
+[17:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[17:49:15] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Remote Getaway]
+[17:50:00] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[17:50:01] [Server thread/INFO]: WhoWM[/192.168.0.1:52195] logged in with entity id 808 at (100.5, 49.0, 0.5)
+[17:50:01] [Server thread/INFO]: WhoWM joined the game
+[17:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[17:50:20] [Server thread/INFO]: <Mwolbwa1130> 야야
+[17:50:25] [Server thread/INFO]: <Mwolbwa1130> 나 엔더시티
+[17:53:31] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[17:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[17:53:44] [Server thread/INFO]: <Mwolbwa1130> 너여디
+[17:53:50] [Server thread/INFO]: <WhoWM> 나엔더맨잡는중
+[17:53:55] [Server thread/INFO]: <Mwolbwa1130> 티피좀
+[17:54:10] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 32.507397, 62.523142, -4.198928]
+[17:57:43] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
+[17:58:05] [Server thread/INFO]: <Mwolbwa1130> 너 포탈 뿌순다
+[17:58:16] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 35.364499, 63.000000, -5.700131]
+[17:58:40] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
+[17:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[17:59:20] [Server thread/WARN]: WhoWM moved too quickly! -1696.9782177883214,53.46415937495544,504.27516757218245
+[17:59:43] [Server thread/INFO]: [WhoWM: Teleported 73 entities to Mwolbwa1130]
+[18:00:31] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -10.700000, 160.000000, 36.700000]
+[18:00:31] [Server thread/WARN]: WhoWM moved too quickly! 0.0,100.0,0.0
+[18:00:31] [Server thread/WARN]: WhoWM moved too quickly! 0.0,100.0,0.0
+[18:00:31] [Server thread/WARN]: WhoWM moved too quickly! 0.0,100.0,0.0
+[18:01:00] [Server thread/INFO]: [WhoWM: Teleported 76 entities to Mwolbwa1130]
+[18:01:15] [Server thread/INFO]: WhoWM fell from a high place
+[18:01:19] [Server thread/INFO]: <Mwolbwa1130> 찐자 재현아
+[18:01:33] [Server thread/INFO]: [WhoWM: Killed 75 entities]
+[18:01:39] [Server thread/INFO]: <Mwolbwa1130> 나 내구도 없어
+[18:02:12] [Server thread/INFO]: Mwolbwa1130 has reached the goal [The Next Generation]
+[18:03:20] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[18:03:20] [Server thread/INFO]: Mwolbwa1130 left the game
+[18:03:31] [User Authenticator #3/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[18:03:32] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:56244] logged in with entity id 4656 at (1799.699999988079, -6.951917681046033, -503.30000001192093)
+[18:03:32] [Server thread/INFO]: Mwolbwa1130 joined the game
+[18:03:37] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
+[18:04:35] [Server thread/INFO]: <Mwolbwa1130> 나 야투좀
+[18:04:48] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
+[18:05:13] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Tactical Fishing]
+[18:05:28] [Server thread/INFO]: WhoWM burned to death
+[18:06:37] [Server thread/INFO]: <WhoWM> 나꺼야함 ㅂㅇ
+[18:06:38] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[18:06:38] [Server thread/INFO]: WhoWM left the game
+[18:06:53] [Server thread/INFO]: Stopping the server
+[18:06:53] [Server thread/INFO]: Stopping server
+[18:06:53] [Server thread/INFO]: Saving players
+[18:06:53] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[18:06:53] [Server thread/INFO]: Mwolbwa1130 left the game
+[18:06:53] [Server thread/INFO]: Saving worlds
+[18:06:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[18:06:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[18:06:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[18:06:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:06:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:06:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:06:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
