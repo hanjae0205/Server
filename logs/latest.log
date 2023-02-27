@@ -1,483 +1,78 @@
-[15:39:08] [ServerMain/INFO]: Building unoptimized datafixer
-[15:39:09] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[15:39:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:39:11] [ServerMain/INFO]: Loaded 7 recipes
-[15:39:11] [ServerMain/INFO]: Loaded 1179 advancements
-[15:39:12] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[15:39:12] [Server thread/INFO]: Loading properties
-[15:39:12] [Server thread/INFO]: Default game type: SURVIVAL
-[15:39:12] [Server thread/INFO]: Generating keypair
-[15:39:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:39:13] [Server thread/INFO]: Using default channel type
-[15:39:13] [Server thread/INFO]: Preparing level "world"
-[15:39:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:39:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:39:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:39:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:39:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:39:22] [Worker-Main-5/INFO]: Preparing spawn area: 18%
-[15:39:22] [Worker-Main-6/INFO]: Preparing spawn area: 61%
-[15:39:22] [Server thread/INFO]: Time elapsed: 7289 ms
-[15:39:22] [Server thread/INFO]: Done (9.622s)! For help, type "help"
-[15:41:38] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[15:41:39] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:54824] logged in with entity id 52 at (1817.7836962557417, -6.799999952316284, -504.1009727709761)
-[15:41:39] [Server thread/INFO]: Mwolbwa1130 joined the game
-[15:41:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
-[15:43:24] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[15:43:25] [Server thread/INFO]: WhoWM[/192.168.0.1:49645] logged in with entity id 695 at (1808.699999988079, -6.0, -505.0757731248049)
-[15:43:25] [Server thread/INFO]: WhoWM joined the game
-[15:44:32] [Server thread/INFO]: <Mwolbwa1130> 나 브,ㄹ럭좀 구함
-[15:44:35] [Server thread/INFO]: WhoWM burned to death
-[15:44:57] [Server thread/INFO]: <Mwolbwa1130> 너 뭐함
-[15:45:09] [Server thread/INFO]: <Mwolbwa1130> 바보 같아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-[15:45:16] [Server thread/INFO]: WhoWM burned to death
-[15:45:32] [Server thread/INFO]: <Mwolbwa1130> 야
-[15:45:39] [Server thread/INFO]: <Mwolbwa1130> 책찾자
-[15:46:02] [Server thread/INFO]: WhoWM tried to swim in lava
-[15:46:34] [Server thread/INFO]: [WhoWM: Created new objective [PlayerHealth]]
-[15:46:45] [Server thread/INFO]: <Mwolbwa1130> 어?
-[15:47:46] [Server thread/INFO]: <Mwolbwa1130> 내 말 안들림?
-[15:48:29] [Server thread/INFO]: <Mwolbwa1130> 때리지 말ㄹ라고
-[15:48:53] [Server thread/INFO]: [WhoWM: Set display slot list to show objective PlayerHealth]
-[15:49:08] [Server thread/INFO]: <WhoWM> 야
-[15:49:15] [Server thread/INFO]: <Mwolbwa1130> ㅇ
-[15:49:20] [Server thread/INFO]: <WhoWM> tab 키 눌러봐
-[15:49:26] [Server thread/INFO]: <Mwolbwa1130> 오
-[15:49:45] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
-[15:50:27] [Server thread/INFO]: <Mwolbwa1130> 책 찾자
-[15:50:42] [Server thread/INFO]: <WhoWM> stronghold 에 도서관 있어
-[15:50:52] [Server thread/INFO]: <Mwolbwa1130> ?
-[15:50:55] [Server thread/INFO]: <WhoWM> stronghold는 엔더포탈이라 생각하면 편함
-[15:51:05] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:51:24] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:52:11] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[15:53:12] [Server thread/INFO]: <Mwolbwa1130> 8dia hni
-[15:53:39] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:54:36] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:54:59] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:55:12] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:55:41] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:57:43] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:58:13] [Server thread/INFO]: <Mwolbwa1130> 너 어디
-[15:58:15] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:58:45] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:59:25] [Server thread/INFO]: <WhoWM> I find books
-[15:59:29] [Server thread/INFO]: <Mwolbwa1130> ok
-[15:59:34] [Server thread/INFO]: <WhoWM> 야
-[15:59:41] [Server thread/INFO]: <WhoWM> 포탈로 가서
-[15:59:44] [Server thread/INFO]: <Mwolbwa1130> o
-[15:59:59] [Server thread/INFO]: <WhoWM> 엔드돌을 따라와
-[16:00:02] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:00:14] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:03:32] [Server thread/INFO]: <Mwolbwa1130> 나 밥먹고옴
-[16:06:41] [Server thread/INFO]: WhoWM went up in flames
-[16:07:08] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[16:08:53] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:09:05] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:09:58] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:10:16] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:10:55] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:12:01] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:13:00] [Server thread/INFO]: WhoWM has made the advancement [Tactical Fishing]
-[16:23:00] [Server thread/INFO]: [WhoWM: Gave 1 [Diamond] to WhoWM]
-[16:25:03] [Server thread/INFO]: WhoWM fell out of the world
-[16:25:36] [User Authenticator #3/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[16:25:36] [Server thread/INFO]: hanjin0220[/192.168.0.1:54259] logged in with entity id 7352 at (-10.15442773528396, 69.0, 55.233356808834145)
-[16:25:36] [Server thread/INFO]: hanjin0220 joined the game
-[16:26:56] [Server thread/INFO]: [WhoWM: Killed Silverfish]
-[16:27:43] [Server thread/INFO]: hanjin0220 fell from a high place
-[16:28:13] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -28.873857, 106.000000, -0.577298]
-[16:28:38] [Server thread/INFO]: [WhoWM: Teleported WhoWM to hanjin0220]
-[16:28:44] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[16:28:47] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:28:57] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 3 targets]
-[16:29:16] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:29:46] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:29:50] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:29:51] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:29:53] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:30:04] [Server thread/INFO]: hanjin0220 fell from a high place
-[16:30:11] [Server thread/INFO]: WhoWM hit the ground too hard
-[16:30:30] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 3 targets]
-[16:30:41] [Server thread/INFO]: hanjin0220 hit the ground too hard
-[16:32:06] [Server thread/INFO]: [WhoWM: Gave 1 [Stick] to WhoWM]
-[16:32:57] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[16:32:59] [Server thread/INFO]: <Mwolbwa1130> 애들아
-[16:33:02] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:33:03] [Server thread/INFO]: <Mwolbwa1130> 어디니
-[16:33:05] [Server thread/INFO]: <WhoWM> 외
-[16:33:06] [Server thread/INFO]: hanjin0220 burned to death
-[16:33:14] [Server thread/INFO]: <Mwolbwa1130> 얻지냐고
-[16:33:21] [Server thread/INFO]: <Mwolbwa1130> 진현이 하이
-[16:33:35] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[16:33:42] [Server thread/INFO]: <hanjin0220> 나 우리집
-[16:33:52] [Server thread/INFO]: <Mwolbwa1130> 그나저나 더서관 찾음?
-[16:33:55] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[16:34:03] [Server thread/INFO]: <WhoWM> 책 약 1세트
-[16:34:04] [Server thread/INFO]: <hanjin0220> 근데 님들 어디임
-[16:34:13] [Server thread/INFO]: <WhoWM> 엔드포탈
-[16:34:15] [Server thread/INFO]: <Mwolbwa1130> 엔딩 봄 ㅋㅋㅋ
-[16:34:45] [Server thread/INFO]: <hanjin0220> 그거보다 나 과거 우리집 였던것인데
-[16:35:08] [Server thread/INFO]: <hanjin0220> 님들 나 님들 위치로 워프좀
-[16:35:18] [Server thread/INFO]: <Mwolbwa1130> 진현이
-[16:35:24] [Server thread/INFO]: <Mwolbwa1130> 내위치로 ㄱㄱ
-[16:35:25] [Server thread/INFO]: <WhoWM> 티피노노
-[16:35:34] [Server thread/INFO]: <Mwolbwa1130> 외
-[16:35:46] [Server thread/INFO]: <WhoWM> 네더포탈로 집이랑 여기랑 잇게
-[16:35:57] [Server thread/INFO]: <WhoWM> 그리고 디코되면 디콕
-[16:36:00] [Server thread/INFO]: <Mwolbwa1130> 나 너 쫏으로 티피 안돼?
-[16:36:18] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 1846.829858, -5.000000, -490.092505]
-[16:36:29] [Server thread/INFO]: <Mwolbwa1130> 다야 1세트 반
-[16:36:43] [Server thread/INFO]: <Mwolbwa1130> ㅇㅋ?
-[16:36:55] [Server thread/INFO]: <WhoWM> discord ro ha sem
-[16:38:35] [Server thread/INFO]: <WhoWM> Discord an dwae nya?
-[16:38:40] [Server thread/INFO]: <Mwolbwa1130> ㅇㅇㅇ
-[16:38:45] [Server thread/INFO]: <WhoWM> Whe
-[16:38:50] [Server thread/INFO]: <Mwolbwa1130> MOTHER
-[16:38:55] [Server thread/INFO]: <WhoWM> Okay
-[16:39:10] [Server thread/INFO]: <WhoWM> Um Ma nun mot cham ge
-[16:39:10] [Server thread/INFO]: <Mwolbwa1130> 상자 줘요
-[16:39:26] [Server thread/WARN]: Tried to add entity minecraft:item but it was marked as removed already
-[16:39:26] [Server thread/INFO]: [WhoWM: Summoned new Air]
-[16:39:35] [Server thread/INFO]: [WhoWM: Gave 1 [Chest] to Mwolbwa1130]
-[16:40:22] [Server thread/INFO]: [WhoWM: Gave 2 [Obsidian] to WhoWM]
-[16:40:37] [Server thread/INFO]: <Mwolbwa1130> mine
-[16:41:55] [Server thread/INFO]: <WhoWM> ME an hab ni da
-[16:42:58] [Server thread/INFO]: <WhoWM> Mul geng bal ham
-[16:43:44] [Server thread/INFO]: <WhoWM> NoNONONO
-[16:43:59] [Server thread/INFO]: <Mwolbwa1130> sam go bim
-[16:44:07] [Server thread/INFO]: <WhoWM> toca
-[16:44:41] [Server thread/INFO]: [WhoWM: Gave 64 [Stone] to WhoWM]
-[16:45:25] [Server thread/INFO]: <WhoWM> -28 106 -0
-[16:45:50] [Server thread/INFO]: hanjin0220 fell from a high place
-[16:46:10] [Server thread/INFO]: WhoWM tried to swim in lava
-[16:46:26] [Server thread/INFO]: <Mwolbwa1130> are you babo?
-[16:46:40] [Server thread/INFO]: <WhoWM> Ya
-[16:46:43] [Server thread/INFO]: <Mwolbwa1130> give bed
-[16:46:48] [Server thread/INFO]: <WhoWM> Whe BBu shou
-[16:47:08] [Server thread/INFO]: <Mwolbwa1130> whait
-[16:47:10] [Server thread/INFO]: <WhoWM> bu shi zi ma
-[16:47:43] [Server thread/INFO]: <Mwolbwa1130> zaza
-[16:47:44] [Server thread/INFO]: <WhoWM> BBAL LI za
-[16:48:06] [Server thread/INFO]: <Mwolbwa1130> give me yatoo
-[16:48:27] [Server thread/INFO]: hanjin0220 fell from a high place
-[16:48:51] [Server thread/INFO]: <WhoWM> 0 16 0
-[16:49:08] [Server thread/INFO]: [WhoWM: Gave 10 [Obsidian] to WhoWM]
-[16:49:41] [Server thread/INFO]: <WhoWM> we go to 0 106 0
-[16:49:44] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[16:49:44] [Server thread/INFO]: Mwolbwa1130 left the game
-[16:49:54] [User Authenticator #4/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[16:49:54] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:54986] logged in with entity id 18641 at (229.69999998807907, 30.394762574498127, -51.68346022973392)
-[16:49:54] [Server thread/INFO]: Mwolbwa1130 joined the game
-[16:50:01] [User Authenticator #5/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[16:50:01] [Server thread/INFO]: WhoWM lost connection: You logged in from another location
-[16:50:01] [Server thread/INFO]: WhoWM left the game
-[16:50:01] [Server thread/INFO]: WhoWM[/192.168.0.1:61363] logged in with entity id 18672 at (237.25522671527213, 36.0, -49.080271266875755)
-[16:50:01] [Server thread/INFO]: WhoWM joined the game
-[16:50:03] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[16:50:31] [Server thread/INFO]: WhoWM lost connection: Timed out
-[16:50:31] [Server thread/INFO]: WhoWM left the game
-[16:50:44] [Server thread/INFO]: hanjin0220 burned to death
-[16:51:00] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[16:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
-[16:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[16:52:37] [Server thread/INFO]: <Mwolbwa1130> 진현아 어디?
-[16:52:43] [Server thread/INFO]: <hanjin0220> w비
-[16:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
-[16:53:00] [Server thread/INFO]: <hanjin0220> jip
-[16:53:06] [Server thread/INFO]: <hanjin0220> na jipim
-[16:53:15] [Server thread/INFO]: <Mwolbwa1130> o
-[16:53:31] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[16:53:48] [User Authenticator #6/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[16:53:48] [Server thread/INFO]: WhoWM[/192.168.0.1:61422] logged in with entity id 21844 at (237.25522671527213, 36.0, -49.080271266875755)
-[16:53:48] [Server thread/INFO]: WhoWM joined the game
-[16:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
-[16:54:10] [Server thread/INFO]: <Mwolbwa1130> where jae hun
-[16:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7545ms or 150 ticks behind
-[16:54:17] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1696.5754796751971,53.39260454995134,505.19999998807907
-[16:54:17] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1696.5754796751971,53.39260454995134,505.19999998807907
-[16:54:17] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1696.5754796751971,53.39260454995134,505.19999998807907
-[16:54:21] [Server thread/INFO]: <hanjin0220> mollu
-[16:54:27] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.0,-17.37894040892286,0.0
-[16:54:30] [Server thread/INFO]: <Mwolbwa1130> zi ok?
-[16:54:30] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[16:54:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22645ms or 452 ticks behind
-[16:55:00] [Server thread/INFO]: <Mwolbwa1130> na yatoo zom zoo ra
-[16:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19825ms or 396 ticks behind
-[16:55:45] [Server thread/INFO]: WhoWM tried to swim in lava to escape Piglin
-[16:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11446ms or 228 ticks behind
-[16:56:10] [Server thread/INFO]: <WhoWM> A rack gul leo
-[16:56:20] [Server thread/INFO]: <WhoWM> 0 ~ 0
-[16:56:21] [Server thread/INFO]: <Mwolbwa1130> 방패없음
-[16:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[16:57:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[16:57:29] [Server thread/INFO]: <Mwolbwa1130> \
-[16:59:21] [Server thread/INFO]: [WhoWM: Gave 64 [Stone] to WhoWM]
-[16:59:50] [Server thread/INFO]: WhoWM tried to swim in lava
-[16:59:54] [Server thread/INFO]: hanjin0220 fell from a high place
-[17:00:14] [Server thread/INFO]: <Mwolbwa1130> 나무좀
-[17:00:29] [Server thread/INFO]: <WhoWM> 어ㅄ어
-[17:00:40] [Server thread/INFO]: <Mwolbwa1130> 야
-[17:00:44] [Server thread/INFO]: <Mwolbwa1130> 나 야투라도
-[17:00:47] [Server thread/INFO]: [WhoWM: Gave 256 [Stone] to WhoWM]
-[17:00:56] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 3 targets]
-[17:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:01:43] [Server thread/INFO]: <Mwolbwa1130> ㅇ씨네
-[17:02:22] [Server thread/INFO]: Mwolbwa1130 burned to death
-[17:02:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
-[17:02:57] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[17:02:57] [Server thread/INFO]: WhoWM left the game
-[17:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[17:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[17:05:03] [User Authenticator #7/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[17:05:04] [Server thread/INFO]: WhoWM[/192.168.0.1:61026] logged in with entity id 27897 at (215.78385465630151, 33.0, -0.8583214428387302)
-[17:05:04] [Server thread/INFO]: WhoWM joined the game
-[17:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[17:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7751ms or 155 ticks behind
-[17:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3913ms or 78 ticks behind
-[17:06:33] [Server thread/INFO]: <WhoWM> Jom nawa
-[17:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[17:06:53] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5487ms or 109 ticks behind
-[17:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
-[17:07:26] [Server thread/INFO]: [WhoWM: Killed 724 entities]
-[17:07:33] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:07:55] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[17:07:55] [Server thread/INFO]: Mwolbwa1130 left the game
-[17:08:01] [User Authenticator #8/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[17:08:02] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50466] logged in with entity id 29911 at (228.39503151047293, 30.110000033937407, 0.44917043683471186)
-[17:08:02] [Server thread/INFO]: Mwolbwa1130 joined the game
-[17:08:05] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[17:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[17:08:40] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-25, y=78, z=20} gp{x=-10, y=79, z=0}
-[17:08:40] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-25, y=78, z=20} gp{x=-10, y=79, z=1}
-[17:08:40] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-25, y=78, z=20} gp{x=-10, y=79, z=2}
-[17:08:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-25, y=78, z=20} gp{x=-10, y=79, z=3}
-[17:08:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-25, y=78, z=20} gp{x=-10, y=78, z=4}
-[17:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4847ms or 96 ticks behind
-[17:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8162ms or 163 ticks behind
-[17:10:01] [Server thread/INFO]: hanjin0220 fell from a high place
-[17:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:10:26] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:10:58] [Server thread/INFO]: <Mwolbwa1130> 재현이 겜모쓴다
-[17:10:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:11:20] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava to escape Zombified Piglin
-[17:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17:11:53] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
-[17:11:53] [Server thread/INFO]: hanjin0220 left the game
-[17:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
-[17:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
-[17:12:59] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:13:32] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:13:34] [Server thread/INFO]: WhoWM tried to swim in lava
-[17:13:35] [Server thread/INFO]: <Mwolbwa1130> 뭐하냐
-[17:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[17:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
-[17:14:37] [Server thread/INFO]: WhoWM hit the ground too hard
-[17:15:01] [Server thread/INFO]: [WhoWM: Gave 128 [Stone] to WhoWM]
-[17:15:14] [Server thread/INFO]: WhoWM tried to swim in lava to escape Ghast
-[17:15:48] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[17:15:48] [Server thread/INFO]: WhoWM left the game
-[17:15:58] [Server thread/INFO]: Mwolbwa1130 was fireballed by Ghast
-[17:19:13] [User Authenticator #9/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[17:19:14] [Server thread/INFO]: WhoWM[/192.168.0.1:61093] logged in with entity id 34874 at (236.83537351416274, 33.231523797587016, -40.91991504680627)
-[17:19:14] [Server thread/INFO]: WhoWM joined the game
-[17:21:18] [Server thread/INFO]: [WhoWM: Killed Ghast]
-[17:21:34] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[17:22:53] [Server thread/INFO]: <Mwolbwa1130> 뭐하시는거죠?
-[17:23:05] [Server thread/INFO]: <WhoWM> 0 0으로 이동해 집으로 가는 네더포탈과 연결하려고
-[17:23:12] [Server thread/INFO]: <Mwolbwa1130> 오오]\
-[17:23:32] [Server thread/INFO]: <WhoWM> Ya GHAST Sound zom An na gae he ra!!!!!!!
-[17:24:14] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[17:24:17] [Server thread/INFO]: WhoWM tried to swim in lava
-[17:26:08] [Server thread/INFO]: <WhoWM> Shim Ceng Am SSe Ge Ma
-[17:26:24] [Server thread/INFO]: <Mwolbwa1130> \
-[17:26:26] [Server thread/INFO]: <Mwolbwa1130> ?
-[17:28:00] [Server thread/INFO]: <Mwolbwa1130> 침대뒤에 다이야 빠큐 반듬
-[17:31:44] [Server thread/INFO]: WhoWM tried to swim in lava
-[17:31:53] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[17:32:07] [Server thread/INFO]: <WhoWM> YA
-[17:32:10] [Server thread/INFO]: <WhoWM> discord
-[17:32:13] [Server thread/INFO]: <WhoWM> Haja
-[17:32:44] [Server thread/INFO]: [WhoWM: Gave 128 [Stone] to WhoWM]
-[17:38:32] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:38:36] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:38:58] [Server thread/INFO]: Mwolbwa1130 burned to death
-[17:39:23] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:45:13] [Server thread/INFO]: Mwolbwa1130 burned to death
-[17:48:20] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:50:36] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:51:55] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[17:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[17:57:16] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:57:43] [Server thread/INFO]: Mwolbwa1130 burned to death
-[17:59:02] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[17:59:29] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[17:59:44] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[18:00:01] [Server thread/INFO]: <WhoWM> 됬따
-[18:00:01] [Server thread/INFO]: <Mwolbwa1130> 오
-[18:00:38] [Server thread/INFO]: <WhoWM> Diamond 좀주셈
-[18:01:20] [Server thread/INFO]: <Mwolbwa1130> 엄
-[18:01:28] [Server thread/INFO]: WhoWM fell out of the world
-[18:01:28] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[18:01:28] [Server thread/INFO]: [WhoWM: Killed 2 entities]
-[18:01:34] [Server thread/INFO]: <Mwolbwa1130> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-[18:02:25] [Server thread/INFO]: [WhoWM: Applied effect Speed to WhoWM]
-[18:02:44] [Server thread/INFO]: [WhoWM: Removed every effect from WhoWM]
-[18:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[18:02:47] [Server thread/INFO]: <Mwolbwa1130> 너어디?
-[18:02:58] [Server thread/INFO]: <WhoWM> Going to House
-[18:05:20] [Server thread/INFO]: <WhoWM> 집이랑 그포탈로 완전히 링크시킴
-[18:05:25] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[18:05:27] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[18:05:56] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[18:05:59] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[18:06:42] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[18:06:43] [Server thread/INFO]: <Mwolbwa1130> 너어더?
-[18:06:46] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[18:06:51] [Server thread/INFO]: <WhoWM> 그 포탈
-[18:09:25] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[18:09:49] [Server thread/INFO]: <WhoWM> Shet Go Om
-[18:10:11] [Server thread/INFO]: <Mwolbwa1130> ok
-[18:20:28] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[18:20:28] [Server thread/WARN]: WhoWM moved too quickly! -1832.3917525278534,110.0,505.1822203286103
-[18:20:39] [Server thread/INFO]: <Mwolbwa1130> 내나무 내놔
-[18:20:43] [Server thread/INFO]: <WhoWM> 다이아좀
-[18:21:23] [Server thread/INFO]: <Mwolbwa1130> 아
-[18:21:28] [Server thread/INFO]: <WhoWM> 내 칼은 날카3에 힘3이지
-[18:21:32] [Server thread/INFO]: <Mwolbwa1130> 나 침대 안가꼬옴
-[18:21:39] [Server thread/INFO]: <WhoWM> 그래서 공1격이 9
-[18:23:09] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[18:23:11] [Server thread/INFO]: <Mwolbwa1130> where are you?
-[18:23:24] [Server thread/INFO]: <WhoWM> I'm going to get beds
-[18:23:38] [Server thread/INFO]: <Mwolbwa1130> 나 집짔ㄴ은다
-[18:25:27] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[18:25:47] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[18:27:15] [Server thread/INFO]: <WhoWM> 책가져오자
-[18:30:31] [Server thread/INFO]: <WhoWM> 야
-[18:30:40] [Server thread/INFO]: <WhoWM> 책이없는디
-[18:30:59] [Server thread/INFO]: <Mwolbwa1130> ?
-[18:31:05] [Server thread/INFO]: <Mwolbwa1130> 일딴오샘
-[18:31:53] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[18:32:36] [Server thread/INFO]: <Mwolbwa1130> 너어디
-[18:33:12] [Server thread/INFO]: <Mwolbwa1130> ?
-[18:33:22] [Server thread/INFO]: <Mwolbwa1130> 야 왜 우리 아홀로틀 없냐
-[18:34:33] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:34:40] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:34:46] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:34:49] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:34:51] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:34:53] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:34:55] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:34:57] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:34:59] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:01] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:03] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:05] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:07] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:09] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:12] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:13] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:14] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:15] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:16] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:17] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:18] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:20] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:21] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:23] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:25] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:27] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:28] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:30] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:31] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:33] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:34] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:36] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:38] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:39] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:41] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:35:42] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[18:35:44] [Server thread/INFO]: <Mwolbwa1130> WhoWM
-[18:38:50] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[18:38:53] [Server thread/INFO]: <Mwolbwa1130> Who
-[18:39:01] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[18:39:18] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[18:39:26] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[18:40:24] [Server thread/INFO]: [WhoWM: Gave 1 [Stone Axe] to WhoWM]
-[18:40:46] [Server thread/INFO]: <Mwolbwa1130> 야
-[18:42:09] [Server thread/INFO]: <Mwolbwa1130> 나 간다]
-[18:42:13] [Server thread/INFO]: <WhoWM> 외
-[18:42:19] [Server thread/INFO]: <Mwolbwa1130> 답이없어 임마]
-[18:42:26] [Server thread/INFO]: <WhoWM> Sorry
-[18:42:31] [Server thread/INFO]: <Mwolbwa1130> 너 어디
-[18:42:38] [Server thread/INFO]: <WhoWM> Library
-[18:43:19] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-26, y=108, z=-2} gp{x=-4, y=77, z=11}
-[18:43:20] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-26, y=108, z=-2} gp{x=-5, y=77, z=12}
-[18:44:19] [Server thread/INFO]: <Mwolbwa1130> 뭐하는데
-[18:44:41] [User Authenticator #10/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[18:44:41] [Server thread/INFO]: WhoWM lost connection: You logged in from another location
-[18:44:41] [Server thread/INFO]: WhoWM left the game
-[18:44:41] [Server thread/INFO]: WhoWM[/192.168.0.1:62111] logged in with entity id 67791 at (1804.6611383534912, 3.0, -512.844019808386)
-[18:44:41] [Server thread/INFO]: WhoWM joined the game
-[18:44:56] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[18:45:11] [Server thread/INFO]: WhoWM lost connection: Timed out
-[18:45:11] [Server thread/INFO]: WhoWM left the game
-[18:50:23] [User Authenticator #11/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[18:50:24] [Server thread/INFO]: WhoWM[/192.168.0.1:55405] logged in with entity id 69495 at (1804.6611383534912, 3.0, -512.844019808386)
-[18:50:24] [Server thread/INFO]: WhoWM joined the game
-[18:50:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5545ms or 110 ticks behind
-[18:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[18:50:51] [Server thread/INFO]: <Mwolbwa1130> 야 나 그만한다
-[18:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7197ms or 143 ticks behind
-[18:51:21] [Server thread/INFO]: <WhoWM> 나 랙거려려서죽을거같에
-[18:51:26] [Server thread/INFO]: <Mwolbwa1130> zzzzzz
-[18:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5949ms or 118 ticks behind
-[18:51:34] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[18:51:34] [Server thread/INFO]: WhoWM left the game
-[18:51:34] [Server thread/INFO]: <Mwolbwa1130> 나끔 ㅂㅂ
-[18:51:41] [Server thread/INFO]: <Mwolbwa1130> 야
-[18:51:50] [Server thread/INFO]: <Mwolbwa1130> 그나저나 아홀로틀 어디감?
-[18:52:45] [Server thread/INFO]: Mwolbwa1130 went up in flames
-[18:52:48] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[18:52:48] [Server thread/INFO]: Mwolbwa1130 left the game
-[18:53:05] [User Authenticator #12/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[18:53:06] [Server thread/INFO]: WhoWM[/192.168.0.1:55441] logged in with entity id 70520 at (1801.386807685433, 3.0, -510.1498357393718)
-[18:53:06] [Server thread/INFO]: WhoWM joined the game
-[18:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[18:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3976ms or 79 ticks behind
-[18:56:41] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[18:57:33] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:05:23] [Server thread/INFO]: [WhoWM: Gave 19721107 experience levels to WhoWM]
-[19:05:34] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:06:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:07:24] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:07:31] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:08:04] [Server thread/INFO]: WhoWM tried to swim in lava
-[19:08:31] [Server thread/INFO]: [WhoWM: Set 14 experience points on WhoWM]
-[19:08:58] [Server thread/INFO]: [WhoWM: Set 16 experience levels on WhoWM]
-[19:09:28] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[19:09:28] [Server thread/INFO]: WhoWM left the game
-[19:18:24] [Server thread/INFO]: Stopping the server
-[19:18:24] [Server thread/INFO]: Stopping server
-[19:18:24] [Server thread/INFO]: Saving players
-[19:18:24] [Server thread/INFO]: Saving worlds
-[19:18:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[19:18:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[19:18:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[19:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:05:00] [ServerMain/INFO]: Building unoptimized datafixer
+[13:05:01] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[13:05:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:05:04] [ServerMain/INFO]: Loaded 7 recipes
+[13:05:04] [ServerMain/INFO]: Loaded 1179 advancements
+[13:05:05] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[13:05:05] [Server thread/INFO]: Loading properties
+[13:05:05] [Server thread/INFO]: Default game type: SURVIVAL
+[13:05:05] [Server thread/INFO]: Generating keypair
+[13:05:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:05:05] [Server thread/INFO]: Using default channel type
+[13:05:05] [Server thread/INFO]: Preparing level "world"
+[13:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:05:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:05:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:05:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:05:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:05:13] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[13:05:13] [Worker-Main-5/INFO]: Preparing spawn area: 23%
+[13:05:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:05:14] [Server thread/INFO]: Time elapsed: 6694 ms
+[13:05:14] [Server thread/INFO]: Done (8.761s)! For help, type "help"
+[13:07:33] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[13:07:33] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:56047] logged in with entity id 124 at (-32.558612328867, 79.0, 32.17331383641233)
+[13:07:33] [Server thread/INFO]: Mwolbwa1130 joined the game
+[13:09:01] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[13:09:01] [Server thread/INFO]: WhoWM[/192.168.0.1:59777] logged in with entity id 348 at (-29.70056056447152, 106.0, 1.1576787166409512)
+[13:09:01] [Server thread/INFO]: WhoWM joined the game
+[13:09:20] [Server thread/INFO]: <WhoWM> where
+[13:09:28] [Server thread/INFO]: <Mwolbwa1130> 디코 ㄱㄱ
+[13:15:01] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[13:15:14] [Server thread/WARN]: WhoWM moved too quickly! 0.26393958112225846,0.0,-12.456755004294962
+[13:15:24] [Server thread/WARN]: WhoWM moved too quickly! -5.3135194353208135,0.0,11.937318076032057
+[13:15:44] [Server thread/WARN]: WhoWM moved too quickly! 4.628781904777043,0.0,-11.058234947611822
+[13:15:46] [Server thread/WARN]: WhoWM moved too quickly! 4.801771561170199,0.0,-11.849291562472828
+[13:15:52] [Server thread/WARN]: WhoWM moved too quickly! -12.005861398514298,0.0,3.955620913700333
+[13:16:00] [Server thread/WARN]: WhoWM moved too quickly! -25.84059572377123,0.0,0.21927042596861668
+[13:16:00] [Server thread/WARN]: WhoWM moved too quickly! -21.523116834111306,0.0,0.18314064210109393
+[13:16:01] [Server thread/WARN]: WhoWM moved too quickly! -16.298426631447683,0.0,0.018715898019735278
+[13:16:01] [Server thread/WARN]: WhoWM moved too quickly! -13.221118379151903,0.0,0.015596581683112731
+[13:16:02] [Server thread/WARN]: WhoWM moved too quickly! -10.373576943541138,0.0,0.018715898019735278
+[13:16:03] [Server thread/WARN]: WhoWM moved too quickly! -16.298426631447683,0.0,0.018715898019735278
+[13:16:03] [Server thread/WARN]: WhoWM moved too quickly! -11.79188022961705,0.0,0.018715898019735278
+[13:16:04] [Server thread/WARN]: WhoWM moved too quickly! -15.325825594038406,0.0,0.018715898019735278
+[13:16:04] [Server thread/WARN]: WhoWM moved too quickly! -12.374923742299416,0.0,0.015596581683112731
+[13:16:05] [Server thread/WARN]: WhoWM moved too quickly! -11.79188022961705,0.0,0.018715898019735278
+[13:16:07] [Server thread/WARN]: WhoWM moved too quickly! -13.445751919765826,0.0,0.0
+[13:16:12] [Server thread/WARN]: WhoWM moved too quickly! -10.095652967618662,0.0,0.0
+[13:17:23] [Server thread/WARN]: WhoWM moved too quickly! -26.072229636764746,0.0,0.7637806583852154
+[13:17:26] [Server thread/WARN]: WhoWM moved too quickly! -25.770111333504133,0.0,0.018715898019735278
+[13:17:32] [Server thread/WARN]: WhoWM moved too quickly! -11.023349668206407,0.0,11.418186146010353
+[13:20:07] [Server thread/INFO]: [WhoWM: Summoned new Axolotl]
+[13:20:12] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[13:22:33] [Server thread/INFO]: WhoWM fell from a high place
+[13:23:13] [Server thread/INFO]: WhoWM fell from a high place
+[13:29:12] [Server thread/INFO]: [WhoWM: Summoned new Husk]
+[13:34:20] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
+[13:36:48] [Server thread/INFO]: [WhoWM: Applied effect Levitation to WhoWM]
+[13:36:49] [Server thread/INFO]: WhoWM has completed the challenge [Great View From Up Here]
+[13:37:11] [Server thread/INFO]: WhoWM fell from a high place
+[13:38:07] [Server thread/INFO]: [WhoWM: Applied effect Levitation to WhoWM]
+[13:38:55] [Server thread/INFO]: WhoWM fell from a high place
+[13:39:09] [Server thread/INFO]: [WhoWM: Applied effect Levitation to Mwolbwa1130]
+[13:39:10] [Server thread/INFO]: Mwolbwa1130 has completed the challenge [Great View From Up Here]
+[13:39:37] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[13:40:04] [Server thread/INFO]: [WhoWM: Applied effect Levitation to WhoWM]
+[13:40:20] [Server thread/INFO]: WhoWM fell from a high place
+[13:40:38] [Server thread/INFO]: [WhoWM: Summoned new Small Fireball]
+[13:41:32] [Server thread/INFO]: [WhoWM: Killed Small Fireball]
+[13:43:24] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[13:43:24] [Server thread/INFO]: WhoWM left the game

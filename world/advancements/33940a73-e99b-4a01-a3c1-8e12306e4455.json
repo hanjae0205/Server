@@ -581,6 +581,7 @@
       "minecraft:creeper": "2023-02-11 23:12:18 +0900",
       "minecraft:zombified_piglin": "2023-02-20 12:39:10 +0900",
       "minecraft:wither_skeleton": "2023-02-22 12:54:09 +0900",
+      "minecraft:husk": "2023-02-27 13:29:18 +0900",
       "minecraft:piglin": "2023-02-14 19:52:52 +0900",
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
       "minecraft:silverfish": "2023-02-24 20:56:13 +0900",
@@ -1607,6 +1608,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2023-02-24 13:23:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2023-02-27 13:36:49 +0900"
     },
     "done": true
   },
