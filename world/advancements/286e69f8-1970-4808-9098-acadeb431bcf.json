@@ -639,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2023-02-28 20:24:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2023-02-12 00:03:00 +0900"
@@ -1663,6 +1669,7 @@
       "bread": "2023-02-14 18:16:55 +0900",
       "golden_apple": "2023-02-15 13:04:11 +0900",
       "rotten_flesh": "2023-02-23 13:29:20 +0900",
+      "glow_berries": "2023-02-28 20:53:56 +0900",
       "cooked_chicken": "2023-02-14 14:05:28 +0900",
       "cooked_salmon": "2023-02-27 13:24:25 +0900"
     },
