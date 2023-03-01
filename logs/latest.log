@@ -1,14 +1,159 @@
-[00:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1857770ms or 37155 ticks behind
-[00:18:29] [Server thread/INFO]: Mwolbwa1130 lost connection: Timed out
-[00:18:29] [Server thread/INFO]: Mwolbwa1130 left the game
-[00:18:35] [Server thread/INFO]: Stopping the server
-[00:18:35] [Server thread/INFO]: Stopping server
-[00:18:35] [Server thread/INFO]: Saving players
-[00:18:35] [Server thread/INFO]: Saving worlds
-[00:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[00:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[00:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[00:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:27:57] [ServerMain/INFO]: Building unoptimized datafixer
+[12:27:59] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[12:27:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:28:02] [ServerMain/INFO]: Loaded 7 recipes
+[12:28:02] [ServerMain/INFO]: Loaded 1179 advancements
+[12:28:03] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[12:28:03] [Server thread/INFO]: Loading properties
+[12:28:03] [Server thread/INFO]: Default game type: SURVIVAL
+[12:28:03] [Server thread/INFO]: Generating keypair
+[12:28:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:28:03] [Server thread/INFO]: Using default channel type
+[12:28:03] [Server thread/INFO]: Preparing level "world"
+[12:28:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:28:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:10] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[12:28:11] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[12:28:11] [Server thread/INFO]: Time elapsed: 5872 ms
+[12:28:11] [Server thread/INFO]: Done (7.869s)! For help, type "help"
+[12:49:48] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[12:49:48] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50816] logged in with entity id 114 at (93.87076412242573, 72.0, 87.194169998908)
+[12:49:48] [Server thread/INFO]: Mwolbwa1130 joined the game
+[12:50:24] [Server thread/INFO]: <Mwolbwa1130> 디코?
+[12:53:54] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[12:53:55] [Server thread/INFO]: WhoWM[/192.168.0.1:64879] logged in with entity id 313 at (103.45185165109233, 64.0, 2.757116217637267)
+[12:53:55] [Server thread/INFO]: WhoWM joined the game
+[12:56:01] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[12:56:01] [Server thread/INFO]: WhoWM left the game
+[13:01:46] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[13:01:46] [Server thread/INFO]: WhoWM[/192.168.0.1:64985] logged in with entity id 1262 at (104.21680302373397, 64.0, 3.160412269941621)
+[13:01:46] [Server thread/INFO]: WhoWM joined the game
+[13:06:02] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
+[13:12:35] [User Authenticator #4/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
+[13:12:36] [Server thread/INFO]: ITisMINE[/39.123.161.51:64575] logged in with entity id 3010 at (5.300000011920929, 75.0, 3.699999988079071)
+[13:12:36] [Server thread/INFO]: ITisMINE joined the game
+[13:12:40] [Server thread/INFO]: ITisMINE lost connection: Disconnected
+[13:12:40] [Server thread/INFO]: ITisMINE left the game
+[13:12:52] [User Authenticator #5/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
+[13:12:52] [Server thread/INFO]: ITisMINE[/39.123.161.51:64592] logged in with entity id 3036 at (5.300000011920929, 75.0, 3.699999988079071)
+[13:12:52] [Server thread/INFO]: ITisMINE joined the game
+[13:13:30] [Server thread/INFO]: ITisMINE has made the advancement [Sweet Dreams]
+[13:13:41] [Server thread/INFO]: <WhoWM> 님
+[13:13:58] [Server thread/INFO]: ITisMINE fell from a high place
+[13:14:03] [Server thread/INFO]: <WhoWM> 거기 포탈 파면 엔드포탈나옴
+[13:14:08] [Server thread/INFO]: <WhoWM> 이어둠
+[13:15:55] [Server thread/INFO]: WhoWM fell from a high place
+[13:16:00] [Server thread/INFO]: <ITisMINE> ㅋㅋ
+[13:16:48] [Server thread/INFO]: ITisMINE has made the advancement [Not Today, Thank You]
+[13:17:26] [Server thread/INFO]: <ITisMINE> 성능 확실하네
+[13:18:44] [Server thread/INFO]: ITisMINE fell from a high place
+[13:20:13] [Server thread/INFO]: ITisMINE fell from a high place
+[13:20:27] [Server thread/INFO]: ITisMINE fell from a high place
+[13:21:12] [Server thread/WARN]: Mwolbwa1130 moved wrongly!
+[13:24:01] [Server thread/INFO]: ITisMINE fell from a high place
+[13:24:20] [Server thread/INFO]: <ITisMINE> ?
+[13:25:18] [Server thread/INFO]: <WhoWM> 빨리 잡시다
+[13:25:33] [Server thread/INFO]: ITisMINE has made the advancement [Enchanter]
+[13:25:40] [Server thread/INFO]: <ITisMINE> 흫
+[13:25:47] [Server thread/INFO]: <ITisMINE> ?
+[13:25:50] [Server thread/INFO]: <Mwolbwa1130> 티배깅
+[13:26:13] [Server thread/INFO]: <ITisMINE> 물낙이지
+[13:26:26] [Server thread/INFO]: <Mwolbwa1130> 불낙이지
+[13:26:28] [Server thread/INFO]: <Mwolbwa1130> ㅈㅅ
+[13:26:29] [Server thread/INFO]: <WhoWM> 착한3학년은 빨리 자니까
+[13:26:32] [Server thread/INFO]: <WhoWM> 제발좀 자세요
+[13:26:33] [Server thread/INFO]: <Mwolbwa1130> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[13:26:41] [Server thread/INFO]: <ITisMINE> 안죄송합니다
+[13:26:47] [Server thread/INFO]: ITisMINE fell from a high place
+[13:26:57] [Server thread/INFO]: <ITisMINE> ㅋ
+[13:28:11] [Server thread/INFO]: <ITisMINE> 근데 이게 뭐에요
+[13:28:19] [Server thread/INFO]: <Mwolbwa1130> 똥이요
+[13:28:26] [Server thread/INFO]: <ITisMINE> :ㅇ
+[13:28:55] [Server thread/INFO]: <ITisMINE> 광질 어디서 해요?
+[13:29:04] [Server thread/INFO]: <Mwolbwa1130> 바닥
+[13:29:05] [Server thread/INFO]: <WhoWM> 따라오세요
+[13:30:05] [Server thread/INFO]: <ITisMINE> 오늘 다이아 한셋 캐고 서버 나갈거임
+[13:30:14] [Server thread/INFO]: <WhoWM> 과연
+[13:30:18] [Server thread/INFO]: <ITisMINE> 증명하겠어
+[13:30:23] [Server thread/INFO]: <WhoWM> 여기 근처에 폐광있는데
+[13:30:26] [Server thread/INFO]: <Mwolbwa1130> 밤을새겠다니
+[13:30:28] [Server thread/INFO]: <ITisMINE> 홓
+[13:30:34] [Server thread/INFO]: <ITisMINE> 그딴거에 의지하지 않겠어요
+[13:30:44] [Server thread/INFO]: <WhoWM> 니가?
+[13:30:47] [Server thread/INFO]: <ITisMINE> ㅔ
+[13:31:25] [Server thread/INFO]: <ITisMINE> 생각해보니까
+[13:31:30] [Server thread/INFO]: <ITisMINE> 업뎃해서 더 내려가야하네
+[13:36:20] [Server thread/INFO]: <ITisMINE> -46
+[13:36:39] [Server thread/INFO]: <ITisMINE> 어머?
+[13:36:49] [Server thread/INFO]: <ITisMINE> 이게뭐람
+[13:37:45] [Server thread/INFO]: ITisMINE was slain by Zombie
+[13:38:51] [Server thread/INFO]: WhoWM was slain by ITisMINE
+[13:38:53] [Server thread/INFO]: <ITisMINE> ?
+[13:38:55] [Server thread/INFO]: <ITisMINE> zzzzzz
+[13:38:59] [Server thread/INFO]: ITisMINE fell from a high place
+[13:39:31] [Server thread/INFO]: <Mwolbwa1130> 돌캐면 나주셈
+[13:40:51] [Server thread/INFO]: <WhoWM> 겉날개 털러 갈껀데
+[13:41:05] [Server thread/INFO]: <WhoWM> 같이안가면 주길거임
+[13:41:25] [Server thread/INFO]: ITisMINE was slain by WhoWM
+[13:41:31] [Server thread/INFO]: ITisMINE fell from a high place
+[13:41:36] [Server thread/INFO]: ITisMINE fell from a high place
+[13:41:41] [Server thread/INFO]: ITisMINE fell from a high place
+[13:42:03] [Server thread/INFO]: <ITisMINE> 근데 이거 왜캐요?
+[13:42:08] [Server thread/INFO]: <WhoWM> 그냥뇨
+[13:42:11] [Server thread/INFO]: <ITisMINE> zz
+[13:42:16] [Server thread/INFO]: <ITisMINE> 저 지금 다이아
+[13:42:18] [Server thread/INFO]: <WhoWM> 공중집이랄까
+[13:42:21] [Server thread/INFO]: <ITisMINE> 16개 캠
+[13:43:29] [Server thread/INFO]: ITisMINE was slain by Mwolbwa1130
+[13:45:19] [Server thread/INFO]: <ITisMINE> 에반데
+[13:46:15] [Server thread/INFO]: WhoWM fell from a high place
+[13:47:32] [Server thread/INFO]: ITisMINE fell from a high place
+[13:47:57] [Server thread/INFO]: <ITisMINE> 다이아검 상자에 넣어놈
+[13:48:01] [Server thread/INFO]: <ITisMINE> akdrpa
+[13:50:04] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
+[13:50:09] [Server thread/INFO]: <ITisMINE> 핑 1이 나옴?
+[13:50:14] [Server thread/INFO]: <Mwolbwa1130> 몰루
+[13:50:28] [Server thread/INFO]: <Mwolbwa1130> 마크 몇년차?
+[13:50:36] [Server thread/INFO]: <ITisMINE> 28년차
+[13:50:40] [Server thread/INFO]: <Mwolbwa1130> 오
+[13:50:52] [Server thread/INFO]: ITisMINE lost connection: Disconnected
+[13:50:52] [Server thread/INFO]: ITisMINE left the game
+[13:51:04] [User Authenticator #6/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
+[13:51:04] [Server thread/INFO]: ITisMINE[/39.123.161.51:65198] logged in with entity id 12642 at (-22.88423060040576, 102.22906941194748, -3.7463516577195226)
+[13:51:04] [Server thread/INFO]: ITisMINE joined the game
+[13:51:05] [Server thread/INFO]: ITisMINE fell from a high place
+[13:51:08] [Server thread/INFO]: ITisMINE lost connection: Disconnected
+[13:51:08] [Server thread/INFO]: ITisMINE left the game
+[13:51:10] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[13:51:10] [Server thread/INFO]: WhoWM left the game
+[13:51:21] [User Authenticator #7/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
+[13:51:21] [Server thread/INFO]: ITisMINE[/39.123.161.51:65206] logged in with entity id 12691 at (-22.880855600405763, 90.0, -3.7463516577195226)
+[13:51:21] [Server thread/INFO]: ITisMINE joined the game
+[13:54:17] [Server thread/INFO]: <ITisMINE> 이름표 필요해요?
+[13:54:21] [Server thread/INFO]: <ITisMINE> 잡템인가
+[13:54:24] [Server thread/INFO]: <Mwolbwa1130> ㅇㅇ
+[14:08:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 414766ms or 8295 ticks behind
+[14:08:40] [Server thread/INFO]: ITisMINE lost connection: Timed out
+[14:08:40] [Server thread/INFO]: ITisMINE left the game
+[14:08:40] [Server thread/INFO]: Mwolbwa1130 lost connection: Timed out
+[14:08:40] [Server thread/INFO]: Mwolbwa1130 left the game
+[14:09:30] [Server thread/INFO]: Stopping the server
+[14:09:30] [Server thread/INFO]: Stopping server
+[14:09:30] [Server thread/INFO]: Saving players
+[14:09:30] [Server thread/INFO]: Saving worlds
+[14:09:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[14:09:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[14:09:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[14:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
