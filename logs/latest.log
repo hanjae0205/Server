@@ -1,182 +1,78 @@
-[14:10:33] [ServerMain/INFO]: Building unoptimized datafixer
-[14:10:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:10:37] [ServerMain/INFO]: Loaded 7 recipes
-[14:10:37] [ServerMain/INFO]: Loaded 1179 advancements
-[14:10:38] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[14:10:38] [Server thread/INFO]: Loading properties
-[14:10:38] [Server thread/INFO]: Default game type: SURVIVAL
-[14:10:38] [Server thread/INFO]: Generating keypair
-[14:10:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:10:38] [Server thread/INFO]: Using default channel type
-[14:10:38] [Server thread/INFO]: Preparing level "world"
-[14:10:40] [User Authenticator #1/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[14:10:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:10:44] [User Authenticator #2/INFO]: Disconnecting /116.34.106.192:50732: Failed to verify username!
-[14:10:44] [User Authenticator #2/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[14:10:44] [User Authenticator #3/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[14:10:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:10:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:10:46] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[14:10:47] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[14:10:47] [Worker-Main-7/INFO]: Preparing spawn area: 94%
-[14:10:47] [Server thread/INFO]: Time elapsed: 6070 ms
-[14:10:47] [Server thread/INFO]: Done (8.695s)! For help, type "help"
-[14:10:47] [Server thread/INFO]: ITisMINE[/39.123.161.51:49384] logged in with entity id 190 at (-174.69999998807907, -57.0, 46.30000001192093)
-[14:10:47] [Server thread/INFO]: ITisMINE joined the game
-[14:10:48] [Server thread/INFO]: /116.34.106.192:50732 lost connection: Failed to verify username!
-[14:10:48] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50729] logged in with entity id 191 at (89.36652835647806, 56.0, 86.12156184818878)
-[14:10:48] [Server thread/INFO]: Mwolbwa1130 joined the game
-[14:10:52] [User Authenticator #4/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[14:10:52] [Server thread/INFO]: Mwolbwa1130 lost connection: You logged in from another location
-[14:10:52] [Server thread/INFO]: Mwolbwa1130 left the game
-[14:10:52] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50736] logged in with entity id 337 at (88.30000001192093, 56.0, 84.44508526149502)
-[14:10:52] [Server thread/INFO]: Mwolbwa1130 joined the game
-[14:10:53] [Server thread/INFO]: <ITisMINE> 망겜
-[14:12:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[14:12:24] [Server thread/INFO]: <--[HERE]
-[14:12:25] [Server thread/INFO]: <ITisMINE> 아
-[14:12:27] [Server thread/INFO]: <ITisMINE> 그러면
-[14:13:21] [Server thread/INFO]: <ITisMINE> 이서버 도둑질 되요?
-[14:13:30] [Server thread/INFO]: <Mwolbwa1130> 무 정부인데
-[14:13:32] [Server thread/INFO]: <ITisMINE> ㅇㅋ
-[14:13:42] [Server thread/INFO]: <Mwolbwa1130> 그러면 바로 찐따로 낙인찍힘
-[14:13:53] [Server thread/INFO]: <ITisMINE> 어짜피 찐따라 ㄱㅊ
-[14:14:04] [Server thread/INFO]: <Mwolbwa1130> 내꺼 털면 뒤진다 ㅎㅎ
-[14:14:14] [Server thread/INFO]: <ITisMINE> 다이아 60개 우효~
-[14:14:25] [Server thread/INFO]: <ITisMINE> 칼에 날린거 까지 포함하면
-[14:14:31] [Server thread/INFO]: <ITisMINE> 지금 70개 넘음
-[14:14:41] [Server thread/INFO]: <ITisMINE> 한셋 만듬
-[14:14:57] [Server thread/INFO]: <Mwolbwa1130> 60개 캠?
-[14:14:57] [Server thread/INFO]: ITisMINE tried to swim in lava
-[14:15:02] [Server thread/INFO]: Kicked ITisMINE: Kicked by an operator
-[14:15:02] [Server thread/INFO]: ITisMINE lost connection: Kicked by an operator
-[14:15:02] [Server thread/INFO]: ITisMINE left the game
-[14:15:30] [User Authenticator #5/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[14:15:30] [Server thread/INFO]: ITisMINE[/39.123.161.51:49539] logged in with entity id 1997 at (88.5, 67.0, 85.5)
-[14:15:30] [Server thread/INFO]: ITisMINE joined the game
-[14:16:55] [Server thread/INFO]: <ITisMINE> 다이아로 뭐만들죠
-[14:17:10] [Server thread/INFO]: Invalid chat component: Expected ':' at line 1 column 9 path $.text
-[14:17:10] [Server thread/INFO]: ...ellraw @a {"text"I cant play minecraft today sorry"}<--[HERE]
-[14:17:25] [Server thread/INFO]: <Mwolbwa1130> D
-[14:17:48] [Server thread/INFO]: <ITisMINE> Z
-[14:18:27] [Server thread/INFO]: <ITisMINE> 근데 여기는 집이에요 농장이에요?
-[14:18:33] [Server thread/INFO]: <Mwolbwa1130> 둘다
-[14:18:35] [Server thread/INFO]: <ITisMINE> ㅏ
-[14:20:42] [Server thread/INFO]: ITisMINE fell from a high place
-[14:24:24] [Server thread/INFO]: <ITisMINE> 님아
-[14:24:34] [Server thread/INFO]: <ITisMINE> 제 인챈트테이블 때가심?
-[14:24:36] [Server thread/INFO]: <Mwolbwa1130> S
-[14:24:50] [Server thread/INFO]: <Mwolbwa1130> 어딘지도 모름
-[14:25:19] [Server thread/INFO]: <ITisMINE> 그럼 여기에 있는거 때갈게요
-[14:25:24] [Server thread/INFO]: <Mwolbwa1130> ??
-[14:25:25] [Server thread/INFO]: <Mwolbwa1130> ㄴㄴ
-[14:25:30] [Server thread/INFO]: ITisMINE fell from a high place
-[14:31:29] [Server thread/INFO]: <ITisMINE> 표절
-[14:31:29] [Server thread/INFO]: Mwolbwa1130 drowned
-[14:32:55] [User Authenticator #6/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[14:32:55] [Server thread/INFO]: WhoWM[/192.168.0.1:61762] logged in with entity id 13091 at (-32.69999998807907, 106.0, 3.074999988079071)
-[14:32:55] [Server thread/INFO]: WhoWM joined the game
-[14:33:13] [Server thread/INFO]: <Mwolbwa1130> 야투좀
-[14:33:26] [Server thread/INFO]: <ITisMINE> 에바
-[14:33:51] [Server thread/INFO]: <WhoWM> 우리들의마크3대규칙
-[14:33:59] [Server thread/INFO]: <WhoWM> 1.쉬움난이도를쓴다
-[14:34:09] [Server thread/INFO]: <WhoWM> 2.keepInventory true
-[14:34:17] [Server thread/INFO]: <WhoWM> 3.응 야투쓸거임
-[14:34:23] [Server thread/INFO]: <ITisMINE> ㅋㅋ
-[14:34:24] [Server thread/INFO]: <Mwolbwa1130> D
-[14:34:28] [Server thread/INFO]: <ITisMINE> 전 강인하기 때문에
-[14:34:31] [Server thread/INFO]: <ITisMINE> 야투따위
-[14:34:35] [Server thread/INFO]: <ITisMINE> 정말 간절히 필요합니다
-[14:34:45] [Server thread/INFO]: <Mwolbwa1130> 미투
-[14:34:47] [Server thread/INFO]: [WhoWM: Applied effect Nausea to ITisMINE]
-[14:35:03] [Server thread/INFO]: <ITisMINE> 멀미 안통해~
-[14:35:35] [Server thread/INFO]: [WhoWM: Applied effect Instant Health to ITisMINE]
-[14:36:15] [Server thread/INFO]: <WhoWM> 나 조금밖에 못한다 그런말이야
-[14:36:21] [Server thread/INFO]: <Mwolbwa1130> 야투나 주셈
-[14:36:37] [Server thread/INFO]: <ITisMINE> 하는김에
-[14:36:42] [Server thread/INFO]: <ITisMINE> 레드스콘도 좀 주시죠
-[14:36:51] [Server thread/INFO]: [WhoWM: Applied effect Blindness to 3 targets]
-[14:37:01] [Server thread/INFO]: <Mwolbwa1130> 아어
-[14:37:05] [Server thread/INFO]: <Mwolbwa1130> 아오
-[14:37:27] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 3 targets]
-[14:38:06] [Server thread/INFO]: <Mwolbwa1130> 야 열대어 어디서 나옴?
-[14:38:13] [Server thread/INFO]: <ITisMINE> 따듯한 바다?
-[14:38:19] [Server thread/INFO]: <ITisMINE> 웜 오션 아님?
-[14:39:50] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
-[14:39:53] [Server thread/INFO]: <ITisMINE> z
-[14:39:53] [Server thread/INFO]: <Mwolbwa1130> ?
-[14:40:08] [Server thread/INFO]: <ITisMINE> 풍수지리적으로 매우좋은곳에
-[14:40:10] [Server thread/INFO]: <ITisMINE> 독립함
-[14:40:13] [Server thread/INFO]: <Mwolbwa1130> DZ
-[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=91, y=57, z=89} gp{x=16, y=72, z=14}
-[14:40:44] [Server thread/INFO]: WhoWM was slain by Zombie
-[14:40:44] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=19, y=71, z=15} gp{x=16, y=70, z=15}
-[14:42:29] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 3 targets]
-[14:42:38] [Server thread/INFO]: ITisMINE fell from a high place
-[14:44:08] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[14:44:21] [Server thread/INFO]: <ITisMINE> 근데 님들 네더라이트 캤음?
-[14:44:24] [Server thread/INFO]: <Mwolbwa1130> S
-[14:44:43] [Server thread/INFO]: <WhoWM> 모루 누가 훔쳐갔냐
-[14:44:48] [Server thread/INFO]: <ITisMINE> 들켰네
-[14:44:56] [Server thread/INFO]: [WhoWM: Banned ITisMINE: Banned by an operator.]
-[14:44:56] [Server thread/INFO]: ITisMINE lost connection: You are banned from this server
-[14:44:56] [Server thread/INFO]: ITisMINE left the game
-[14:46:05] [User Authenticator #7/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[14:46:05] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6285740c[id=d1111a1f-57f4-4085-ad78-c7592b7de338,name=ITisMINE,properties={textures=[com.mojang.authlib.properties.Property@1fd60af8]},legacy=false] (/39.123.161.51:55555): You are banned from this server.
-Reason: Banned by an operator.
-[14:46:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@6285740c[id=d1111a1f-57f4-4085-ad78-c7592b7de338,name=ITisMINE,properties={textures=[com.mojang.authlib.properties.Property@1fd60af8]},legacy=false] (/39.123.161.51:55555) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[14:46:05] [Server thread/WARN]: handleDisconnection() called twice
-[14:46:09] [Server thread/INFO]: <Mwolbwa1130> 야투줘
-[14:46:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[14:46:26] [Server thread/INFO]: forgive ITisMINE<--[HERE]
-[14:46:51] [User Authenticator #8/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[14:46:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4f0e0538[id=d1111a1f-57f4-4085-ad78-c7592b7de338,name=ITisMINE,properties={textures=[com.mojang.authlib.properties.Property@6617d4a]},legacy=false] (/39.123.161.51:55566): You are banned from this server.
-Reason: Banned by an operator.
-[14:46:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f0e0538[id=d1111a1f-57f4-4085-ad78-c7592b7de338,name=ITisMINE,properties={textures=[com.mojang.authlib.properties.Property@6617d4a]},legacy=false] (/39.123.161.51:55566) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[14:46:51] [Server thread/WARN]: handleDisconnection() called twice
-[14:47:18] [User Authenticator #9/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[14:47:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f5c1c0f[id=d1111a1f-57f4-4085-ad78-c7592b7de338,name=ITisMINE,properties={textures=[com.mojang.authlib.properties.Property@11eae164]},legacy=false] (/39.123.161.51:55574): You are banned from this server.
-Reason: Banned by an operator.
-[14:47:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f5c1c0f[id=d1111a1f-57f4-4085-ad78-c7592b7de338,name=ITisMINE,properties={textures=[com.mojang.authlib.properties.Property@11eae164]},legacy=false] (/39.123.161.51:55574) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[14:47:18] [Server thread/WARN]: handleDisconnection() called twice
-[14:47:33] [Server thread/INFO]: [WhoWM: Unbanned ITisMINE]
-[14:47:47] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 2 targets]
-[14:47:53] [User Authenticator #10/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[14:47:53] [Server thread/INFO]: ITisMINE[/39.123.161.51:55586] logged in with entity id 17277 at (205.86326182347867, 86.0, -191.59894663368146)
-[14:47:53] [Server thread/INFO]: ITisMINE joined the game
-[14:47:55] [Server thread/INFO]: <WhoWM> 나 이제 그만한다 바이염
-[14:47:57] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[14:47:57] [Server thread/INFO]: WhoWM left the game
-[14:48:06] [Server thread/INFO]: <ITisMINE> 무고죄다
-[14:48:35] [Server thread/INFO]: ITisMINE fell from a high place
-[14:48:52] [Server thread/INFO]: <ITisMINE> 그냥 질림
-[14:48:54] [Server thread/INFO]: <ITisMINE> ㅂㅇ
-[14:48:56] [Server thread/INFO]: ITisMINE lost connection: Disconnected
-[14:48:56] [Server thread/INFO]: ITisMINE left the game
-[14:49:13] [Server thread/INFO]: [Not Secure] [Server] server GGEL gue YA!
-[14:49:28] [Server thread/INFO]: [Not Secure] [Server] \uc11c\ubc84 \ub04c \uaebc\uc57c\u0021
-[14:49:59] [Server thread/INFO]: <Mwolbwa1130> SSSSSSSS
-[14:50:11] [Server thread/INFO]: Stopping the server
-[14:50:11] [Server thread/INFO]: Stopping server
-[14:50:11] [Server thread/INFO]: Saving players
-[14:50:11] [Server thread/INFO]: Mwolbwa1130 lost connection: Server closed
-[14:50:11] [Server thread/INFO]: Mwolbwa1130 left the game
-[14:50:11] [Server thread/INFO]: Saving worlds
-[14:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[14:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[14:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[14:50:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:50:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:50:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:50:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:54:39] [ServerMain/INFO]: Building unoptimized datafixer
+[18:54:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:54:43] [ServerMain/INFO]: Loaded 7 recipes
+[18:54:44] [ServerMain/INFO]: Loaded 1179 advancements
+[18:54:45] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[18:54:45] [Server thread/INFO]: Loading properties
+[18:54:45] [Server thread/INFO]: Default game type: SURVIVAL
+[18:54:45] [Server thread/INFO]: Generating keypair
+[18:54:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:54:45] [Server thread/INFO]: Using default channel type
+[18:54:46] [Server thread/INFO]: Preparing level "world"
+[18:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:54:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:54:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:54:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:54:57] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[18:54:58] [Worker-Main-4/INFO]: Preparing spawn area: 27%
+[18:54:58] [Worker-Main-5/INFO]: Preparing spawn area: 67%
+[18:54:59] [Server thread/INFO]: Time elapsed: 9327 ms
+[18:54:59] [Server thread/INFO]: Done (13.206s)! For help, type "help"
+[19:00:05] [User Authenticator #1/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[19:00:06] [Server thread/INFO]: WhoWM[/192.168.0.1:53032] logged in with entity id 154 at (-30.880050321599775, 106.0, 1.4716073779049559)
+[19:00:07] [Server thread/INFO]: WhoWM joined the game
+[19:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[19:02:26] [Server thread/INFO]: WhoWM tried to swim in lava
+[19:03:08] [Server thread/INFO]: [WhoWM: Applied effect Speed to WhoWM]
+[19:03:43] [Server thread/INFO]: WhoWM fell out of the world
+[19:03:43] [Server thread/INFO]: [WhoWM: Killed WhoWM]
+[19:05:09] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[19:05:09] [Server thread/INFO]: WhoWM left the game
+[19:06:47] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[19:06:47] [Server thread/INFO]: WhoWM[/192.168.0.1:53087] logged in with entity id 1161 at (228.9250951549001, 30.327678329443618, -1.3692287645311367)
+[19:06:48] [Server thread/INFO]: WhoWM joined the game
+[19:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[19:07:01] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:20:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:23:17] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:23:19] [Server thread/INFO]: WhoWM fell out of the world
+[19:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[19:24:44] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:24:47] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:25:55] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:26:51] [Server thread/INFO]: [WhoWM: Gave 1 [Oak Trapdoor] to WhoWM]
+[19:27:12] [Server thread/INFO]: WhoWM has made the advancement [Remote Getaway]
+[19:28:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:28:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:28:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:30:07] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[19:30:30] [Server thread/INFO]: Locating element minecraft:end_city took 168 ms
+[19:30:34] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 1712.500000, 191.162230, 1360.500000]
+[19:30:53] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 0.000000, 0.500000]
+[19:30:53] [Server thread/WARN]: WhoWM moved too quickly! -1970.115929500544,-137.16712549704667,-1587.4683964535964
+[19:30:55] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[19:30:55] [Server thread/INFO]: WhoWM left the game
+[19:31:04] [Server thread/INFO]: Stopping the server
+[19:31:04] [Server thread/INFO]: Stopping server
+[19:31:04] [Server thread/INFO]: Saving players
+[19:31:04] [Server thread/INFO]: Saving worlds
+[19:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[19:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[19:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
