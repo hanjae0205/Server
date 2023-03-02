@@ -1,78 +1,35 @@
-[18:54:39] [ServerMain/INFO]: Building unoptimized datafixer
-[18:54:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:54:43] [ServerMain/INFO]: Loaded 7 recipes
-[18:54:44] [ServerMain/INFO]: Loaded 1179 advancements
-[18:54:45] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[18:54:45] [Server thread/INFO]: Loading properties
-[18:54:45] [Server thread/INFO]: Default game type: SURVIVAL
-[18:54:45] [Server thread/INFO]: Generating keypair
-[18:54:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:54:45] [Server thread/INFO]: Using default channel type
-[18:54:46] [Server thread/INFO]: Preparing level "world"
-[18:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:54:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:54:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:54:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:54:57] [Worker-Main-7/INFO]: Preparing spawn area: 3%
-[18:54:58] [Worker-Main-4/INFO]: Preparing spawn area: 27%
-[18:54:58] [Worker-Main-5/INFO]: Preparing spawn area: 67%
-[18:54:59] [Server thread/INFO]: Time elapsed: 9327 ms
-[18:54:59] [Server thread/INFO]: Done (13.206s)! For help, type "help"
-[19:00:05] [User Authenticator #1/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[19:00:06] [Server thread/INFO]: WhoWM[/192.168.0.1:53032] logged in with entity id 154 at (-30.880050321599775, 106.0, 1.4716073779049559)
-[19:00:07] [Server thread/INFO]: WhoWM joined the game
-[19:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
-[19:02:26] [Server thread/INFO]: WhoWM tried to swim in lava
-[19:03:08] [Server thread/INFO]: [WhoWM: Applied effect Speed to WhoWM]
-[19:03:43] [Server thread/INFO]: WhoWM fell out of the world
-[19:03:43] [Server thread/INFO]: [WhoWM: Killed WhoWM]
-[19:05:09] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[19:05:09] [Server thread/INFO]: WhoWM left the game
-[19:06:47] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[19:06:47] [Server thread/INFO]: WhoWM[/192.168.0.1:53087] logged in with entity id 1161 at (228.9250951549001, 30.327678329443618, -1.3692287645311367)
-[19:06:48] [Server thread/INFO]: WhoWM joined the game
-[19:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
-[19:07:01] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:20:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:23:17] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:23:19] [Server thread/INFO]: WhoWM fell out of the world
-[19:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
-[19:24:44] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:24:47] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:25:55] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:26:51] [Server thread/INFO]: [WhoWM: Gave 1 [Oak Trapdoor] to WhoWM]
-[19:27:12] [Server thread/INFO]: WhoWM has made the advancement [Remote Getaway]
-[19:28:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:28:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[19:28:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[19:30:07] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[19:30:30] [Server thread/INFO]: Locating element minecraft:end_city took 168 ms
-[19:30:34] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 1712.500000, 191.162230, 1360.500000]
-[19:30:53] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 0.000000, 0.500000]
-[19:30:53] [Server thread/WARN]: WhoWM moved too quickly! -1970.115929500544,-137.16712549704667,-1587.4683964535964
-[19:30:55] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[19:30:55] [Server thread/INFO]: WhoWM left the game
-[19:31:04] [Server thread/INFO]: Stopping the server
-[19:31:04] [Server thread/INFO]: Stopping server
-[19:31:04] [Server thread/INFO]: Saving players
-[19:31:04] [Server thread/INFO]: Saving worlds
-[19:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[19:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[19:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:31:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:19:17] [ServerMain/INFO]: Building unoptimized datafixer
+[20:19:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:19:21] [ServerMain/INFO]: Loaded 7 recipes
+[20:19:21] [ServerMain/INFO]: Loaded 1179 advancements
+[20:19:21] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[20:19:21] [Server thread/INFO]: Loading properties
+[20:19:21] [Server thread/INFO]: Default game type: SURVIVAL
+[20:19:21] [Server thread/INFO]: Generating keypair
+[20:19:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:19:22] [Server thread/INFO]: Using default channel type
+[20:19:22] [Server thread/INFO]: Preparing level "world"
+[20:19:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:19:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:19:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:19:28] [Worker-Main-7/INFO]: Preparing spawn area: 36%
+[20:19:29] [Server thread/INFO]: Time elapsed: 4941 ms
+[20:19:29] [Server thread/INFO]: Done (7.016s)! For help, type "help"
+[20:55:58] [Server thread/INFO]: Stopping the server
+[20:55:58] [Server thread/INFO]: Stopping server
+[20:55:58] [Server thread/INFO]: Saving players
+[20:55:58] [Server thread/INFO]: Saving worlds
+[20:55:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[20:55:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[20:55:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[20:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:55:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
