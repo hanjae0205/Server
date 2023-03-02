@@ -5,8 +5,8 @@ git init
 git add .
 git commit -m "Start server"
 git push -u origin main
-java -Xmx1024M -Xms1024M -jar server.jar nogui
-del ./serverstart.txt
+java -Xmx2G -Xms512M -jar server.jar nogui
+del serverstart.txt
 git init
 git add .
 git commit -m "Stop&Save server in Github"
