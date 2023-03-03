@@ -1,46 +1,9 @@
-[21:04:14] [ServerMain/INFO]: Building unoptimized datafixer
-[21:04:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:04:17] [ServerMain/INFO]: Loaded 7 recipes
-[21:04:17] [ServerMain/INFO]: Loaded 1179 advancements
-[21:04:18] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[21:04:18] [Server thread/INFO]: Loading properties
-[21:04:18] [Server thread/INFO]: Default game type: SURVIVAL
-[21:04:18] [Server thread/INFO]: Generating keypair
-[21:04:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:04:18] [Server thread/INFO]: Using default channel type
-[21:04:18] [Server thread/INFO]: Preparing level "world"
-[21:04:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:04:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:04:25] [Worker-Main-7/INFO]: Preparing spawn area: 9%
-[21:04:26] [Worker-Main-1/INFO]: Preparing spawn area: 88%
-[21:04:26] [Server thread/INFO]: Time elapsed: 5592 ms
-[21:04:26] [Server thread/INFO]: Done (8.003s)! For help, type "help"
-[21:12:53] [User Authenticator #1/INFO]: UUID of player ITisMINE is d1111a1f-57f4-4085-ad78-c7592b7de338
-[21:12:53] [Server thread/INFO]: ITisMINE[/39.123.161.51:51361] logged in with entity id 67 at (230.5207111582662, 61.0, -110.98482806222047)
-[21:12:53] [Server thread/INFO]: ITisMINE joined the game
-[21:19:50] [Server thread/INFO]: Applied effect Weakness to ITisMINE
-[21:23:05] [Server thread/INFO]: ITisMINE was shot by Skeleton
-[21:26:39] [Server thread/INFO]: ITisMINE lost connection: Disconnected
-[21:26:39] [Server thread/INFO]: ITisMINE left the game
-[21:29:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:29:23] [Server thread/INFO]: stopp<--[HERE]
-[21:29:24] [Server thread/INFO]: Stopping the server
-[21:29:24] [Server thread/INFO]: Stopping server
-[21:29:24] [Server thread/INFO]: Saving players
-[21:29:24] [Server thread/INFO]: Saving worlds
-[21:29:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[21:29:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[21:29:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[21:29:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:29:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:29:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:29:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:59] [Server thread/INFO]: <Mwolbwa1130> 너 어디?
+[00:02:06] [Server thread/INFO]: <WhoWM> 나지금찾는중
+[00:02:14] [Server thread/INFO]: <Mwolbwa1130> ㅎㅇㅌ
+[00:02:30] [Server thread/INFO]: <Mwolbwa1130> 난 너한테 줄 네더라이트 캬ㅐ는중
+[00:04:15] [Server thread/INFO]: WhoWM was slain by Enderman
+[00:04:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:05:36] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:06:07] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:06:13] [Server thread/WARN]: WhoWM moved too quickly! -1695.1550369738147,53.51374402041435,503.62361771284424

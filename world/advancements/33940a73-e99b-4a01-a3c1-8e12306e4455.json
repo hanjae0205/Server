@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-03-03 21:42:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-02-12 14:45:15 +0900"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2023-03-03 21:30:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-02-12 14:44:45 +0900"
@@ -224,6 +236,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-02-12 18:48:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
     },
     "done": true
   },
@@ -272,6 +290,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2023-02-14 09:52:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-03-03 22:28:23 +0900"
     },
     "done": true
   },
@@ -479,6 +503,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-03-03 22:28:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2023-02-11 22:47:51 +0900"
@@ -582,6 +618,7 @@
       "minecraft:zombified_piglin": "2023-02-20 12:39:10 +0900",
       "minecraft:wither_skeleton": "2023-02-22 12:54:09 +0900",
       "minecraft:husk": "2023-02-27 13:29:18 +0900",
+      "minecraft:shulker": "2023-03-03 21:40:27 +0900",
       "minecraft:piglin": "2023-02-14 19:52:52 +0900",
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
       "minecraft:silverfish": "2023-02-24 20:56:13 +0900",
@@ -713,6 +750,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
     },
     "done": true
   },
@@ -854,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2023-02-13 13:21:15 +0900"
@@ -893,6 +942,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2023-02-15 12:57:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
     },
     "done": true
   },
@@ -1218,6 +1273,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-03-03 21:42:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-02-11 22:48:17 +0900"
@@ -1350,9 +1411,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-03-03 22:28:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2023-02-13 12:07:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
     },
     "done": true
   },
@@ -1760,6 +1833,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2023-02-12 14:36:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
     },
     "done": true
   },
@@ -2285,6 +2364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-03-03 21:36:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2023-02-11 23:01:17 +0900"
@@ -2423,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-02-12 14:15:57 +0900"
@@ -2501,6 +2592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-02-12 14:39:32 +0900"
@@ -2537,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-03-03 21:45:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2023-02-23 13:48:14 +0900"
@@ -2567,6 +2670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-02-20 12:51:09 +0900"
@@ -2576,6 +2685,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-02-14 13:46:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-03-03 21:39:47 +0900"
     },
     "done": true
   },
@@ -2669,6 +2784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-03-03 21:57:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-02-11 23:23:59 +0900"
@@ -2678,6 +2799,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2023-02-22 12:52:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-03-03 21:36:01 +0900"
     },
     "done": true
   },
@@ -2828,6 +2955,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2023-02-26 16:57:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-03-03 22:23:17 +0900"
     },
     "done": true
   },
