@@ -1,43 +1,36 @@
-[19:59:22] [ServerMain/INFO]: Building unoptimized datafixer
-[19:59:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:59:25] [ServerMain/INFO]: Loaded 7 recipes
-[19:59:26] [ServerMain/INFO]: Loaded 1179 advancements
-[19:59:26] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[19:59:26] [Server thread/INFO]: Loading properties
-[19:59:26] [Server thread/INFO]: Default game type: SURVIVAL
-[19:59:26] [Server thread/INFO]: Generating keypair
-[19:59:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:59:27] [Server thread/INFO]: Using default channel type
-[19:59:27] [Server thread/INFO]: Preparing level "world"
-[19:59:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:59:29] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[19:59:32] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:59:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:59:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:59:33] [Worker-Main-7/INFO]: Preparing spawn area: 28%
-[19:59:34] [Server thread/INFO]: Time elapsed: 4986 ms
-[19:59:34] [Server thread/INFO]: Done (7.106s)! For help, type "help"
-[19:59:34] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:53021] logged in with entity id 132 at (88.5, 67.0, 82.5)
-[19:59:34] [Server thread/INFO]: Mwolbwa1130 joined the game
-[20:02:22] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:14:35] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:41:28] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:42:13] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[20:42:13] [Server thread/INFO]: Mwolbwa1130 left the game
-[23:00:58] [Server thread/INFO]: Stopping the server
-[23:00:58] [Server thread/INFO]: Stopping server
-[23:00:58] [Server thread/INFO]: Saving players
-[23:00:58] [Server thread/INFO]: Saving worlds
-[23:00:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[23:00:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[23:00:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[23:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:00:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:28:24] [ServerMain/INFO]: Building unoptimized datafixer
+[22:28:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:28:27] [ServerMain/INFO]: Loaded 7 recipes
+[22:28:28] [ServerMain/INFO]: Loaded 1179 advancements
+[22:28:28] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[22:28:28] [Server thread/INFO]: Loading properties
+[22:28:28] [Server thread/INFO]: Default game type: SURVIVAL
+[22:28:28] [Server thread/INFO]: Generating keypair
+[22:28:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:28:29] [Server thread/INFO]: Using default channel type
+[22:28:29] [Server thread/INFO]: Preparing level "world"
+[22:28:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:28:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:28:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:28:35] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[22:28:36] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[22:28:36] [Server thread/INFO]: Time elapsed: 5058 ms
+[22:28:36] [Server thread/INFO]: Done (7.134s)! For help, type "help"
+[23:15:48] [Server thread/INFO]: Stopping the server
+[23:15:48] [Server thread/INFO]: Stopping server
+[23:15:48] [Server thread/INFO]: Saving players
+[23:15:48] [Server thread/INFO]: Saving worlds
+[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[23:15:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:15:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
