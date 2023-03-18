@@ -185,12 +185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-02-15 11:59:19 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-16 22:24:21 +0900"
@@ -1499,5 +1493,5 @@
     },
     "done": true
   },
-  "DataVersion": 3218
+  "DataVersion": 2860
 }
