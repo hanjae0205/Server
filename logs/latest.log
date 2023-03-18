@@ -1,198 +1,100 @@
-[00:01:47] [Server thread/INFO]: WhoWM fell from a high place
-[00:10:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:10:46] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:11:40] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[00:18:31] [User Authenticator #3/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[00:18:31] [Server thread/INFO]: hanjin0220[/192.168.0.1:55422] logged in with entity id 9534 at (88.69999998807907, 67.0, 87.39814849988964)
-[00:18:31] [Server thread/INFO]: hanjin0220 joined the game
-[00:20:00] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:20:09] [Server thread/INFO]: WhoWM fell from a high place
-[00:20:20] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:20:29] [Server thread/INFO]: <hanjin0220> 미친놈인가
-[00:20:50] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:21:19] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-19, y=78, z=-8} gp{x=-12, y=79, z=-12}
-[00:21:19] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-19, y=78, z=-8} gp{x=-12, y=79, z=-13}
-[00:21:22] [Server thread/INFO]: WhoWM fell from a high place
-[00:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-19, y=78, z=-8} gp{x=-9, y=80, z=-16}
-[00:21:44] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:21:47] [Server thread/INFO]: [WhoWM: Teleported WhoWM to hanjin0220]
-[00:21:47] [Server thread/WARN]: WhoWM moved too quickly! 7.714563798859075,3.0,-39.208361214625796
-[00:21:47] [Server thread/WARN]: WhoWM moved too quickly! 7.714563798859075,3.0,-39.208361214625796
-[00:21:55] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:22:22] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:22:32] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:22:35] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:22:36] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:22:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:22:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-11, y=82, z=-8}
-[00:22:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-11, y=82, z=-9}
-[00:22:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-12, y=82, z=-10}
-[00:22:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-13, y=79, z=-6}
-[00:22:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-12, y=80, z=-6}
-[00:22:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-13, y=79, z=-6}
-[00:22:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-12, y=77, z=-5}
-[00:22:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-11, y=77, z=-4}
-[00:22:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=0, z=0} gp{x=-11, y=76, z=-4}
-[00:23:00] [Server thread/INFO]: [WhoWM: Teleported hanjin0220 to -16.841447, 99.000000, -5.230910]
-[00:23:01] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:23:20] [Server thread/INFO]: <hanjin0220> 개toRl야
-[00:24:23] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:24:34] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:24:43] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to -32.500000, 109.687500, -0.500000]
-[00:25:13] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:25:30] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:26:37] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:26:39] [Server thread/INFO]: WhoWM fell from a high place
-[00:27:26] [Server thread/INFO]: <Mwolbwa1130> 내려임마
-[00:27:31] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:27:35] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
-[00:27:49] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 111.824011, 188.739805, 64.669889]
-[00:27:52] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:27:56] [Server thread/INFO]: WhoWM fell from a high place
-[00:32:02] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:32:43] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:33:20] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[00:33:28] [Server thread/INFO]: <hanjin0220> 야요 숯 어케 만듬
-[00:33:33] [Server thread/INFO]: <Mwolbwa1130> 잘
-[00:33:36] [Server thread/INFO]: <WhoWM> 나무 원목 구우면 된다
-[00:33:46] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:34:04] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:36:30] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:36:46] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:36:48] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:37:07] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:37:09] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:37:11] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:37:18] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:37:24] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:37:30] [Server thread/INFO]: <hanjin0220> di
-[00:37:31] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:37:40] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:37:49] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:38:03] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:38:06] [Server thread/INFO]: WhoWM fell from a high place
-[00:38:07] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:38:20] [Server thread/INFO]: <hanjin0220> 야
-[00:38:24] [Server thread/INFO]: <WhoWM> 외
-[00:38:27] [Server thread/INFO]: <WhoWM> 수영장
-[00:38:35] [Server thread/INFO]: <hanjin0220> 개야
-[00:38:45] [Server thread/INFO]: hanjin0220 was slain by Spider
-[00:38:58] [Server thread/INFO]: [WhoWM: Set hanjin0220's game mode to Adventure Mode]
-[00:40:33] [Server thread/INFO]: <WhoWM> 야
-[00:40:39] [Server thread/INFO]: <WhoWM> 진현
-[00:40:41] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:40:44] [Server thread/INFO]: <WhoWM> 너스킨뭐냐
-[00:40:53] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:41:02] [Server thread/INFO]: <hanjin0220> 조우ㅡㄴ거
-[00:41:15] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:41:24] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:41:32] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:41:44] [Server thread/INFO]: hanjin0220 fell from a high place
-[00:42:59] [Server thread/INFO]: hanjin0220 was shot by Skeleton
-[00:43:27] [Server thread/INFO]: Mwolbwa1130 was slain by hanjin0220
-[00:43:34] [Server thread/INFO]: hanjin0220 was slain by WhoWM
-[00:43:40] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
-[00:43:49] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
-[00:43:52] [Server thread/INFO]: [WhoWM: Kicked hanjin0220: Kicked by an operator]
-[00:43:52] [Server thread/INFO]: hanjin0220 lost connection: Kicked by an operator
-[00:43:52] [Server thread/INFO]: hanjin0220 left the game
-[00:44:00] [User Authenticator #4/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[00:44:00] [Server thread/INFO]: hanjin0220[/192.168.0.1:64422] logged in with entity id 14971 at (-28.92500001192093, 107.0, -3.074999988079071)
-[00:44:00] [Server thread/INFO]: hanjin0220 joined the game
-[00:44:05] [Server thread/INFO]: [WhoWM: Kicked hanjin0220: Kicked by an operator]
-[00:44:07] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
-[00:44:07] [Server thread/INFO]: hanjin0220 left the game
-[00:44:16] [User Authenticator #5/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[00:44:17] [Server thread/INFO]: hanjin0220[/192.168.0.1:64434] logged in with entity id 15004 at (-32.5, 106.5625, -0.5)
-[00:44:17] [Server thread/INFO]: hanjin0220 joined the game
-[00:44:37] [Server thread/INFO]: WhoWM fell from a high place
-[00:44:45] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=13} gp{x=-15, y=78, z=13}
-[00:44:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=13} gp{x=-16, y=78, z=12}
-[00:45:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=13} gp{x=-16, y=78, z=12}
-[00:46:02] [Server thread/INFO]: <hanjin0220> 야 나 왜 다 안캐짐
-[00:46:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-15, y=78, z=13}
-[00:46:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-15, y=78, z=14}
-[00:46:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-15, y=78, z=13}
-[00:46:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-15, y=78, z=14}
-[00:46:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-15, y=78, z=13}
-[00:46:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-15, y=78, z=12}
-[00:46:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=11} gp{x=-16, y=78, z=12}
-[00:46:45] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-13, y=78, z=9}
-[00:46:46] [Server thread/INFO]: [WhoWM: Set hanjin0220's game mode to Survival Mode]
-[00:46:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-14, y=78, z=8}
-[00:46:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-14, y=78, z=7}
-[00:46:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-16, y=78, z=6}
-[00:46:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-16, y=78, z=5}
-[00:46:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-15, y=78, z=5}
-[00:46:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-13, y=78, z=8}
-[00:46:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-10, y=78, z=8}
-[00:46:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-10, y=78, z=7}
-[00:46:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-9, y=78, z=6}
-[00:46:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-9, y=78, z=5}
-[00:46:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-8, y=79, z=2}
-[00:46:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-8, y=79, z=3}
-[00:46:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-7, y=79, z=2}
-[00:46:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-6, y=79, z=1}
-[00:46:58] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-16, y=78, z=17} gp{x=-7, y=80, z=-4}
-[00:47:17] [Server thread/INFO]: WhoWM fell out of the world
-[00:47:17] [Server thread/INFO]: [WhoWM: Killed WhoWM]
-[00:48:08] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[00:48:08] [Server thread/WARN]: WhoWM moved too quickly! 79.74667315275575,-5.0,42.028687793008714
-[00:48:51] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:49:00] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:49:05] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[00:49:05] [Server thread/INFO]: Mwolbwa1130 left the game
-[00:53:54] [Server thread/INFO]: [WhoWM: Gave 2 [Iron Ingot] to WhoWM]
-[00:54:28] [Server thread/INFO]: WhoWM fell from a high place
-[00:54:35] [Server thread/INFO]: WhoWM fell from a high place
-[00:56:29] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:57:25] [Server thread/INFO]: <hanjin0220> 야 나 작업대랑 화로 내놔
-[00:58:04] [Server thread/INFO]: <WhoWM> 나와
-[00:58:15] [Server thread/INFO]: <WhoWM> 야
-[00:58:22] [Server thread/INFO]: <WhoWM> 부수면 도둑질로
-[00:58:28] [Server thread/INFO]: <hanjin0220> 나 이거
-[00:58:30] [Server thread/INFO]: <WhoWM> 간주
-[00:58:42] [Server thread/INFO]: <hanjin0220> 작업대랑 화로 가져감 ㅅㄱ
-[00:59:19] [Server thread/INFO]: <hanjin0220> 야 허락좀
-[00:59:38] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:59:42] [Server thread/INFO]: <hanjin0220> o 든 ㄴ 든 말을 해줘야 할꺼아님
-[00:59:46] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=96, y=60, z=32} gp{x=1, y=81, z=7}
-[00:59:59] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=96, y=60, z=32} gp{x=-1, y=76, z=13}
-[01:06:34] [Server thread/INFO]: WhoWM fell from a high place
-[01:09:47] [Server thread/INFO]: <WhoWM> 야
-[01:09:48] [Server thread/INFO]: <WhoWM> 빨리자
-[01:09:57] [Server thread/INFO]: <WhoWM> 아니면 여기로 티피시켜줄까
-[01:10:03] [Server thread/INFO]: <hanjin0220> ㅇ
-[01:10:05] [Server thread/INFO]: [WhoWM: Teleported hanjin0220 to -32.500000, 106.687500, 0.500000]
-[01:10:05] [Server thread/WARN]: hanjin0220 moved too quickly! -125.61049728513048,46.6875,-69.93877894193449
-[01:10:36] [Server thread/INFO]: <hanjin0220> 니님 님집같은 집 아닌 그냥 방 만듬
-[01:11:15] [Server thread/INFO]: <hanjin0220> 야요
-[01:11:27] [Server thread/INFO]: <hanjin0220> 근데 빵 어케 만듬
-[01:11:42] [Server thread/INFO]: <WhoWM> 밀 3개 가로로
-[01:11:48] [Server thread/INFO]: <WhoWM> NAGA
-[01:13:54] [Server thread/INFO]: WhoWM fell from a high place
-[01:14:11] [Server thread/INFO]: WhoWM fell from a high place
-[01:14:56] [Server thread/INFO]: [WhoWM: Gave 2 [Iron Ingot] to WhoWM]
-[01:16:02] [Server thread/INFO]: hanjin0220 fell from a high place
-[01:19:12] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[01:19:12] [Server thread/INFO]: WhoWM left the game
-[01:19:39] [Server thread/INFO]: hanjin0220 fell from a high place
-[01:19:56] [Server thread/INFO]: hanjin0220 fell from a high place
-[01:20:58] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
-[01:20:58] [Server thread/INFO]: hanjin0220 left the game
-[01:22:06] [User Authenticator #6/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[01:22:07] [Server thread/INFO]: WhoWM[/192.168.0.1:59531] logged in with entity id 21892 at (-30.168957922972847, 118.0, -5.660757994210311)
-[01:22:07] [Server thread/INFO]: WhoWM joined the game
-[01:30:17] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[01:30:17] [Server thread/INFO]: WhoWM left the game
-[01:39:54] [Server thread/INFO]: Stopping the server
-[01:39:54] [Server thread/INFO]: Stopping server
-[01:39:54] [Server thread/INFO]: Saving players
-[01:39:54] [Server thread/INFO]: Saving worlds
-[01:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[01:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[01:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[01:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:36:15] [ServerMain/INFO]: Building unoptimized datafixer
+[14:36:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:36:22] [ServerMain/INFO]: Loaded 7 recipes
+[14:36:23] [ServerMain/INFO]: Loaded 1179 advancements
+[14:36:24] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[14:36:24] [Server thread/INFO]: Loading properties
+[14:36:24] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:24] [Server thread/INFO]: Generating keypair
+[14:36:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:24] [Server thread/INFO]: Using default channel type
+[14:36:24] [Server thread/INFO]: Preparing level "world"
+[14:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:39] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:36:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:36:41] [Worker-Main-6/INFO]: Preparing spawn area: 14%
+[14:36:41] [Worker-Main-4/INFO]: Preparing spawn area: 55%
+[14:36:42] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[14:36:42] [Server thread/INFO]: Time elapsed: 13141 ms
+[14:36:42] [Server thread/INFO]: Done (17.286s)! For help, type "help"
+[14:40:37] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[14:40:37] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:63880] logged in with entity id 174 at (92.50824083928352, 67.0, 77.92500001192093)
+[14:40:37] [Server thread/INFO]: Mwolbwa1130 joined the game
+[14:55:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-14, y=78, z=11}
+[14:55:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-14, y=78, z=10}
+[14:55:54] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-14, y=78, z=9}
+[14:55:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-12, y=78, z=8}
+[14:55:56] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-10, y=78, z=6}
+[14:55:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-7, y=78, z=4}
+[14:55:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-7, y=78, z=3}
+[14:55:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-5, y=78, z=1}
+[14:55:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-4, y=78, z=1}
+[14:55:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-4, y=79, z=0}
+[14:55:58] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-5, y=79, z=0}
+[14:55:58] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-5, y=79, z=-1}
+[14:55:58] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-6, y=79, z=-1}
+[14:55:58] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-6, y=79, z=-2}
+[14:56:02] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-7, y=79, z=-1}
+[14:56:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-9, y=79, z=-1}
+[14:56:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-9, y=79, z=-2}
+[14:56:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-10, y=79, z=-2}
+[14:56:04] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-10, y=79, z=0}
+[14:56:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-9, y=79, z=0}
+[14:56:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-8, y=79, z=0}
+[14:56:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-6, y=79, z=0}
+[14:56:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-7, y=79, z=1}
+[14:56:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-8, y=79, z=2}
+[14:56:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-8, y=79, z=1}
+[14:56:09] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-11, y=80, z=-2}
+[14:56:10] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-12, y=80, z=-2}
+[14:56:16] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-18, y=78, z=14} gp{x=-9, y=80, z=-4}
+[15:11:14] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[15:26:44] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[15:28:54] [User Authenticator #2/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
+[15:28:55] [Server thread/INFO]: hanjin0220[/192.168.0.1:53618] logged in with entity id 6042 at (96.69999998807907, 61.0, 22.33116961966569)
+[15:28:55] [Server thread/INFO]: hanjin0220 joined the game
+[15:30:06] [Server thread/INFO]: <Mwolbwa1130> 디코한다
+[15:30:13] [Server thread/INFO]: <hanjin0220> ㄴㄴ
+[15:30:19] [Server thread/INFO]: <Mwolbwa1130> 뭐야 진현이네
+[15:31:38] [Server thread/INFO]: <Mwolbwa1130> 자자
+[15:31:58] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
+[15:31:58] [Server thread/INFO]: hanjin0220 left the game
+[15:37:44] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=23, y=71, z=31} gp{x=16, y=71, z=9}
+[15:41:53] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[15:53:06] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[16:04:01] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:14:22] [Server thread/INFO]: Stopping the server
+[17:14:22] [Server thread/INFO]: Stopping server
+[17:14:22] [Server thread/INFO]: Saving players
+[17:14:22] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[17:14:22] [Server thread/INFO]: Mwolbwa1130 left the game
+[17:14:22] [Server thread/INFO]: Saving worlds
+[17:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[17:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[17:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[17:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
