@@ -1,200 +1,283 @@
-[20:05:48] [ServerMain/INFO]: Building unoptimized datafixer
-[20:05:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:05:51] [ServerMain/INFO]: Loaded 7 recipes
-[20:05:52] [ServerMain/INFO]: Loaded 1179 advancements
-[20:05:52] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[20:05:52] [Server thread/INFO]: Loading properties
-[20:05:52] [Server thread/INFO]: Default game type: SURVIVAL
-[20:05:52] [Server thread/INFO]: Generating keypair
-[20:05:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:05:52] [Server thread/INFO]: Using default channel type
-[20:05:52] [Server thread/INFO]: Preparing level "world"
-[20:05:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:05:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:05:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:05:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:05:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:05:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:05:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:05:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:05:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:05:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:05:59] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[20:06:00] [Worker-Main-5/INFO]: Preparing spawn area: 60%
-[20:06:00] [Server thread/INFO]: Time elapsed: 5365 ms
-[20:06:00] [Server thread/INFO]: Done (7.526s)! For help, type "help"
-[20:06:01] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[20:06:01] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:58851] logged in with entity id 150 at (113.3182302030768, 160.0, 72.91812048910205)
-[20:06:01] [Server thread/INFO]: Mwolbwa1130 joined the game
-[20:07:41] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:54:56] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:55:53] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[21:01:49] [User Authenticator #2/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
-[21:01:49] [Server thread/INFO]: hanjin0220[/192.168.0.1:57330] logged in with entity id 5144 at (-32.5, 106.0, 1.5)
-[21:01:49] [Server thread/INFO]: hanjin0220 joined the game
-[21:01:49] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1.0852775539766952,-10.371673816803849,-15.826989578386273
-[21:03:13] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[21:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=80, z=0} gp{x=-16, y=78, z=1}
-[21:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-15, y=78, z=-2}
-[21:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-13, y=79, z=-1}
-[21:04:22] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-13, y=79, z=0}
-[21:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-13, y=79, z=2}
-[21:04:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-13, y=79, z=3}
-[21:04:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-14, y=78, z=3}
-[21:04:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-16, y=78, z=3}
-[21:04:24] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-15, y=78, z=3}
-[21:04:25] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=2} gp{x=-15, y=78, z=4}
-[21:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=6} gp{x=-15, y=78, z=3}
-[21:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=6} gp{x=-16, y=78, z=4}
-[21:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=6} gp{x=-16, y=78, z=4}
-[21:04:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=5} gp{x=-16, y=78, z=2}
-[21:04:31] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=5} gp{x=-14, y=79, z=1}
-[21:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-17, y=78, z=5} gp{x=-13, y=79, z=-1}
-[21:10:50] [Server thread/INFO]: <hanjin0220> jaja
-[21:11:25] [Server thread/INFO]: hanjin0220 was shot by Skeleton
-[21:15:53] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[21:20:07] [Server thread/INFO]: hanjin0220 was shot by Skeleton
-[21:20:09] [Server thread/INFO]: <Mwolbwa1130> 뭐해 진현아
-[21:20:32] [Server thread/INFO]: <hanjin0220> 한재현이 시킨 나무캐기
-[21:20:39] [Server thread/INFO]: <Mwolbwa1130> zzzzzzzzz
-[21:21:01] [Server thread/INFO]: <hanjin0220> 이거 하면 한재현이 다이아갑빠에 인첸트, 그리고 앤더드레곤 부활시켜준데
-[21:21:08] [Server thread/INFO]: <Mwolbwa1130> 오옹
-[21:21:12] [Server thread/INFO]: <hanjin0220> 것날개 나놰
-[21:21:18] [Server thread/INFO]: <Mwolbwa1130> ?
-[21:21:31] [Server thread/INFO]: <Mwolbwa1130> 나 지금 내구도 1임 ㅋㅋㅋㅋㅋ
-[21:21:32] [Server thread/INFO]: <hanjin0220> 겉날개 내놔
-[21:21:38] [Server thread/INFO]: <Mwolbwa1130> 나도 못타 ㅋㅋㅋㅋㅋ
-[21:21:47] [Server thread/INFO]: <hanjin0220> 짜피 앤더 잡으러 갈꺼임
-[21:22:00] [Server thread/INFO]: <hanjin0220> 그리고 님한테 내노라 한게 아니었는데.....
-[21:24:23] [Server thread/INFO]: <Mwolbwa1130> 자자
-[21:32:11] [Server thread/INFO]: hanjin0220 fell from a high place
-[21:37:01] [Server thread/INFO]: hanjin0220 has made the advancement [Cover Me with Diamonds]
-[21:38:01] [Server thread/INFO]: <hanjin0220> JAJA
-[21:38:26] [Server thread/INFO]: <hanjin0220> ㅛYa
-[21:38:33] [Server thread/INFO]: <hanjin0220> JAJANIGGA
-[21:38:41] [Server thread/INFO]: <hanjin0220> 빨리잡시다 윤석쿤
-[21:38:52] [Server thread/INFO]: <hanjin0220> 내래 한재현이 말하고있다우
-[21:41:51] [Server thread/INFO]: hanjin0220 has made the advancement [Enchanter]
-[21:42:52] [Server thread/INFO]: hanjin0220 hit the ground too hard
-[21:43:51] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:02:26] [Server thread/INFO]: hanjin0220 was shot by Skeleton
-[22:02:34] [Server thread/INFO]: <hanjin0220> 제발 자자좀
-[22:08:01] [Server thread/INFO]: <Mwolbwa1130> 못봄
-[22:08:23] [Server thread/INFO]: <Mwolbwa1130> 나 쪼매 잠수좀 탈게
-[22:22:17] [Server thread/INFO]: hanjin0220 hit the ground too hard
-[22:27:18] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[22:27:18] [Server thread/INFO]: WhoWM[/192.168.0.1:64024] logged in with entity id 28483 at (-29.697500847752103, 106.0, 0.6920982805783883)
-[22:27:19] [Server thread/INFO]: WhoWM joined the game
-[22:27:20] [Server thread/INFO]: Made WhoWM no longer a server operator
-[22:29:12] [Server thread/INFO]: WhoWM fell from a high place
-[22:30:55] [Server thread/INFO]: Unknown item 'minecraft:lapis_lazuil'
-[22:30:55] [Server thread/INFO]: ...ive WhoWM lapis_lazuil<--[HERE]
-[22:31:10] [Server thread/INFO]: Gave 32 [Lapis Lazuli] to WhoWM
-[22:35:06] [Server thread/INFO]: <WhoWM> 야
-[22:35:11] [Server thread/INFO]: <WhoWM> 황윤석
-[22:35:18] [Server thread/INFO]: <WhoWM> 들리십니까
-[22:39:59] [Server thread/INFO]: <Mwolbwa1130> 네넨
-[22:40:07] [Server thread/INFO]: <Mwolbwa1130> 씻꼬옴\
-[22:40:26] [Server thread/INFO]: <Mwolbwa1130> sj djel?
-[22:40:32] [Server thread/INFO]: <Mwolbwa1130> 너 어디?
-[22:40:35] [Server thread/INFO]: <WhoWM> 집
-[22:40:43] [Server thread/INFO]: <Mwolbwa1130> ㅇㅋ
-[22:40:56] [Server thread/INFO]: <Mwolbwa1130> 나 겉날개 내구도1인데
-[22:41:02] [Server thread/INFO]: <Mwolbwa1130> 어카냐
-[22:41:25] [Server thread/INFO]: hanjin0220 was shot by Skeleton
-[22:42:35] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
-[22:42:35] [Server thread/INFO]: hanjin0220 left the game
-[22:44:07] [Server thread/INFO]: <Mwolbwa1130> 너 갑바 인첸 뭐뭐임?
-[22:46:47] [Server thread/INFO]: Incorrect argument for command
-[22:46:47] [Server thread/INFO]: ...xperience WhoWM 100 add<--[HERE]
-[22:46:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:46:55] [Server thread/INFO]: ?<--[HERE]
-[22:46:57] [Server thread/INFO]: /advancement (grant|revoke)
-[22:46:57] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[22:46:57] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[22:46:57] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[22:46:57] [Server thread/INFO]: /clear [<targets>]
-[22:46:57] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[22:46:57] [Server thread/INFO]: /data (merge|get|remove|modify)
-[22:46:57] [Server thread/INFO]: /datapack (enable|disable|list)
-[22:46:57] [Server thread/INFO]: /debug (start|stop|function)
-[22:46:57] [Server thread/INFO]: /defaultgamemode <gamemode>
-[22:46:57] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[22:46:57] [Server thread/INFO]: /effect (clear|give)
-[22:46:57] [Server thread/INFO]: /me <action>
-[22:46:57] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[22:46:57] [Server thread/INFO]: /experience (add|set|query)
-[22:46:57] [Server thread/INFO]: /xp -> experience
-[22:46:57] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[22:46:57] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[22:46:57] [Server thread/INFO]: /forceload (add|remove|query)
-[22:46:57] [Server thread/INFO]: /function <name>
-[22:46:57] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[22:46:57] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[22:46:57] [Server thread/INFO]: /give <targets> <item> [<count>]
-[22:46:57] [Server thread/INFO]: /help [<command>]
-[22:46:57] [Server thread/INFO]: /item (replace|modify)
-[22:46:57] [Server thread/INFO]: /kick <targets> [<reason>]
-[22:46:57] [Server thread/INFO]: /kill [<targets>]
-[22:46:57] [Server thread/INFO]: /list [uuids]
-[22:46:57] [Server thread/INFO]: /locate (structure|biome|poi)
-[22:46:57] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[22:46:57] [Server thread/INFO]: /msg <targets> <message>
-[22:46:57] [Server thread/INFO]: /tell -> msg
-[22:46:57] [Server thread/INFO]: /w -> msg
-[22:46:57] [Server thread/INFO]: /particle <name> [<pos>]
-[22:46:57] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[22:46:57] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[22:46:57] [Server thread/INFO]: /reload
-[22:46:57] [Server thread/INFO]: /recipe (give|take)
-[22:46:57] [Server thread/INFO]: /say <message>
-[22:46:57] [Server thread/INFO]: /schedule (function|clear)
-[22:46:57] [Server thread/INFO]: /scoreboard (objectives|players)
-[22:46:57] [Server thread/INFO]: /seed
-[22:46:57] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[22:46:57] [Server thread/INFO]: /spawnpoint [<targets>]
-[22:46:57] [Server thread/INFO]: /setworldspawn [<pos>]
-[22:46:57] [Server thread/INFO]: /spectate [<target>]
-[22:46:57] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[22:46:57] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[22:46:57] [Server thread/INFO]: /summon <entity> [<pos>]
-[22:46:57] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[22:46:57] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[22:46:57] [Server thread/INFO]: /teammsg <message>
-[22:46:57] [Server thread/INFO]: /tm -> teammsg
-[22:46:57] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[22:46:57] [Server thread/INFO]: /tp -> teleport
-[22:46:57] [Server thread/INFO]: /tellraw <targets> <message>
-[22:46:57] [Server thread/INFO]: /time (set|add|query)
-[22:46:57] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[22:46:57] [Server thread/INFO]: /trigger <objective> [add|set]
-[22:46:57] [Server thread/INFO]: /weather (clear|rain|thunder)
-[22:46:57] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[22:46:57] [Server thread/INFO]: /jfr (start|stop)
-[22:46:57] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[22:46:57] [Server thread/INFO]: /banlist [ips|players]
-[22:46:57] [Server thread/INFO]: /ban <targets> [<reason>]
-[22:46:57] [Server thread/INFO]: /deop <targets>
-[22:46:57] [Server thread/INFO]: /op <targets>
-[22:46:57] [Server thread/INFO]: /pardon <targets>
-[22:46:57] [Server thread/INFO]: /pardon-ip <target>
-[22:46:57] [Server thread/INFO]: /perf (start|stop)
-[22:46:57] [Server thread/INFO]: /save-all [flush]
-[22:46:57] [Server thread/INFO]: /save-off
-[22:46:57] [Server thread/INFO]: /save-on
-[22:46:57] [Server thread/INFO]: /setidletimeout <minutes>
-[22:46:57] [Server thread/INFO]: /stop
-[22:46:57] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[22:47:02] [Server thread/INFO]: Stopping the server
-[22:47:02] [Server thread/INFO]: Stopping server
-[22:47:02] [Server thread/INFO]: Saving players
-[22:47:02] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[22:47:02] [Server thread/INFO]: Mwolbwa1130 left the game
-[22:47:02] [Server thread/INFO]: Saving worlds
-[22:47:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[22:47:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[22:47:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[22:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:56:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:56:24] [ServerMain/INFO]: Loaded 7 recipes
+[15:56:24] [ServerMain/INFO]: Loaded 1179 advancements
+[15:56:24] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[15:56:24] [Server thread/INFO]: Loading properties
+[15:56:24] [Server thread/INFO]: Default game type: SURVIVAL
+[15:56:24] [Server thread/INFO]: Generating keypair
+[15:56:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:56:25] [Server thread/INFO]: Using default channel type
+[15:56:25] [Server thread/INFO]: Preparing level "world"
+[15:56:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:56:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:33] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[15:56:34] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[15:56:34] [Worker-Main-4/INFO]: Preparing spawn area: 64%
+[15:56:35] [Server thread/INFO]: Time elapsed: 7448 ms
+[15:56:35] [Server thread/INFO]: Done (9.687s)! For help, type "help"
+[15:57:52] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[15:57:53] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:61531] logged in with entity id 192 at (101.27042708610571, 63.0, 55.756382372140465)
+[15:57:53] [Server thread/INFO]: Mwolbwa1130 joined the game
+[16:06:18] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[16:07:14] [User Authenticator #2/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
+[16:07:14] [Server thread/INFO]: hanjin0220[/192.168.0.1:61273] logged in with entity id 1509 at (87.36163710756895, 66.0, 35.52771974243416)
+[16:07:14] [Server thread/INFO]: hanjin0220 joined the game
+[16:09:18] [Server thread/INFO]: hanjin0220 was slain by Zombie
+[16:18:59] [Server thread/INFO]: <Mwolbwa1130> 뭐해 진현아
+[16:19:05] [Server thread/INFO]: <hanjin0220> 나무캐기
+[16:19:11] [Server thread/INFO]: <Mwolbwa1130> ㅋㅋㅋㅋㅋ
+[16:24:47] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[16:27:02] [Server thread/INFO]: <hanjin0220> 호갱님의 요구사함 들어드림
+[16:27:09] [Server thread/INFO]: <Mwolbwa1130> 수선내놔
+[16:27:17] [Server thread/INFO]: <hanjin0220> 그뭔씹
+[16:27:37] [Server thread/INFO]: Mwolbwa1130 was doomed to fall by hanjin0220
+[16:27:48] [Server thread/INFO]: <hanjin0220> zzzzzzzzzzzzzzzz
+[16:27:51] [Server thread/INFO]: <Mwolbwa1130> 드럼
+[16:27:54] [Server thread/INFO]: <Mwolbwa1130> 그럼
+[16:28:01] [Server thread/INFO]: hanjin0220 fell from a high place
+[16:28:02] [Server thread/INFO]: <Mwolbwa1130> 니 갑옷내놔
+[16:28:09] [Server thread/INFO]: <hanjin0220> ?
+[16:28:13] [Server thread/INFO]: <Mwolbwa1130> 바지
+[16:28:27] [Server thread/INFO]: <hanjin0220> gae so ri ji ba chea
+[16:28:39] [Server thread/INFO]: <hanjin0220> 대충 김근육 짤
+[16:29:07] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[16:29:13] [Server thread/INFO]: Mwolbwa1130 was slain by hanjin0220
+[16:29:19] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[16:29:52] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[16:29:52] [Server thread/INFO]: WhoWM[/192.168.0.1:55618] logged in with entity id 8287 at (-30.500225597946528, 106.0, 2.2543462366248823)
+[16:29:52] [Server thread/INFO]: WhoWM joined the game
+[16:29:56] [Server thread/INFO]: <Mwolbwa1130> 여
+[16:29:59] [Server thread/INFO]: <Mwolbwa1130> 어서오고ㅓ
+[16:31:37] [Server thread/INFO]: <hanjin0220> 농사 망쳐야지
+[16:31:40] [Server thread/INFO]: <Mwolbwa1130> 아아'
+[16:31:53] [Server thread/INFO]: <Mwolbwa1130> 하면 현실 갱간다
+[16:31:58] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[16:32:25] [Server thread/INFO]: <Mwolbwa1130> 아 진짜
+[16:32:32] [Server thread/INFO]: <hanjin0220> 다시 심을껑
+[16:32:38] [Server thread/INFO]: <Mwolbwa1130> 재현아 개인디코좀
+[16:33:36] [Server thread/INFO]: Can't find element 'minecraft:strengh' of type 'minecraft:mob_effect'
+[16:33:41] [Server thread/INFO]: Applied effect Strength to Mwolbwa1130
+[16:33:44] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[16:35:02] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[16:35:29] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[16:35:33] [Server thread/INFO]: <WhoWM> dream?
+[16:35:35] [Server thread/INFO]: <WhoWM> whatthe
+[16:35:39] [Server thread/INFO]: <Mwolbwa1130> zzzzz
+[16:35:42] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
+[16:35:51] [Server thread/INFO]: <WhoWM> i kill dream
+[16:35:58] [Server thread/INFO]: <Mwolbwa1130> 맨헌터 ㅋㅋㅋㅋㅋ
+[16:36:25] [Server thread/INFO]: Applied effect Speed to Mwolbwa1130
+[16:36:31] [Server thread/INFO]: <hanjin0220> 해줘도 랄이ㅑ
+[16:36:32] [Server thread/INFO]: <WhoWM> speed give
+[16:37:32] [Server thread/INFO]: Mwolbwa1130 was slain by hanjin0220
+[16:37:32] [Server thread/INFO]: <WhoWM> 야한진현
+[16:38:33] [Server thread/INFO]: <WhoWM> 야
+[16:38:42] [Server thread/INFO]: <WhoWM> 디코왜안되
+[16:38:42] [Server thread/INFO]: <hanjin0220> 왜
+[16:38:58] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[16:40:37] [Server thread/INFO]: WhoWM was slain by hanjin0220
+[16:42:53] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[16:43:12] [Server thread/INFO]: WhoWM was slain by hanjin0220
+[16:44:48] [Server thread/INFO]: <hanjin0220> 야 한재 여기 상자 니꺼임
+[16:45:00] [Server thread/INFO]: <hanjin0220> 다락문 8세트 여깄음 오삼
+[16:45:18] [Server thread/INFO]: hanjin0220 was shot by WhoWM using [무한 짱짱쎈 활]
+[16:45:25] [Server thread/INFO]: <Mwolbwa1130> 디코
+[16:45:52] [Server thread/INFO]: WhoWM was slain by hanjin0220
+[16:45:58] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[16:46:00] [Server thread/INFO]: <Mwolbwa1130> 현아 디코받아
+[16:46:06] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[16:46:46] [Server thread/INFO]: <WhoWM> 야때리지마
+[16:46:52] [Server thread/INFO]: <hanjin0220> 니가 먼저 때림 ㅅㄱ
+[16:46:56] [Server thread/INFO]: <WhoWM> 밴하는수가있어요
+[16:47:04] [Server thread/INFO]: <hanjin0220> 디코 초대점
+[16:47:30] [Server thread/INFO]: WhoWM fell from a high place
+[16:47:34] [Server thread/INFO]: WhoWM fell from a high place
+[16:48:32] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
+[16:49:24] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
+[16:53:13] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[16:58:49] [Server thread/INFO]: hanjin0220 was doomed to fall by Zombie
+[16:59:57] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:02:35] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[17:05:00] [Server thread/INFO]: hanjin0220 was shot by Skeleton
+[17:05:59] [Server thread/INFO]: hanjin0220 was doomed to fall by Creeper
+[17:06:28] [Server thread/INFO]: Mwolbwa1130 was shot by Skeleton
+[17:09:15] [Server thread/INFO]: hanjin0220 hit the ground too hard
+[17:12:32] [Server thread/INFO]: WhoWM fell from a high place
+[17:13:21] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[17:13:23] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
+[17:13:35] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:13:56] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:16:05] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM
+[17:17:18] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:17:40] [Server thread/INFO]: WhoWM fell from a high place
+[17:19:02] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:19:14] [Server thread/INFO]: hanjin0220 was doomed to fall by WhoWM
+[17:19:26] [Server thread/INFO]: hanjin0220 was doomed to fall by WhoWM
+[17:19:35] [Server thread/INFO]: hanjin0220 was doomed to fall by WhoWM
+[17:19:41] [Server thread/INFO]: hanjin0220 was doomed to fall by Spider
+[17:19:44] [Server thread/INFO]: WhoWM was doomed to fall by hanjin0220
+[17:19:48] [Server thread/INFO]: WhoWM fell from a high place
+[17:19:55] [Server thread/INFO]: WhoWM fell from a high place
+[17:20:43] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[17:21:45] [Server thread/INFO]: WhoWM fell from a high place
+[17:22:02] [Server thread/INFO]: Incorrect argument for command
+[17:22:02] [Server thread/INFO]: gamerule doPhantomSpawn true<--[HERE]
+[17:22:04] [Server thread/INFO]: hanjin0220 was slain by Zombie
+[17:22:08] [Server thread/INFO]: Mwolbwa1130 was slain by Zombie
+[17:22:43] [Server thread/INFO]: hanjin0220 was slain by Zombie
+[17:23:47] [Server thread/INFO]: Mwolbwa1130 was blown up by Creeper
+[17:24:17] [Server thread/INFO]: hanjin0220 was slain by Spider
+[17:25:10] [Server thread/INFO]: hanjin0220 was doomed to fall by Skeleton
+[17:25:51] [Server thread/INFO]: hanjin0220 was slain by Zombie
+[17:27:00] [Server thread/INFO]: WhoWM was slain by Zombie
+[17:27:06] [Server thread/INFO]: hanjin0220 hit the ground too hard whilst trying to escape Spider
+[17:28:11] [Server thread/INFO]: hanjin0220 hit the ground too hard whilst trying to escape Creeper
+[17:29:36] [Server thread/INFO]: WhoWM fell from a high place
+[17:29:48] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[17:33:37] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:33:48] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:33:51] [Server thread/INFO]: Teleported 3 entities to 580.500000, 100.000000, -778.500000
+[17:33:51] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -182.36046901402722,22.0,-695.9654491293986
+[17:33:51] [Server thread/WARN]: WhoWM moved too quickly! 0.3185967990146992,37.0,1.258241739286973
+[17:33:52] [Server thread/WARN]: hanjin0220 moved too quickly! 0.4757362426727241,-11.026982712340185,0.8554634095369238
+[17:33:52] [Server thread/INFO]: WhoWM fell from a high place
+[17:33:53] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:33:53] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:33:59] [Server thread/INFO]: Teleported 3 entities to 580.500000, 50.000000, -778.500000
+[17:33:59] [Server thread/WARN]: WhoWM moved too quickly! 0.24214305462385255,-13.0,1.0033994836314832
+[17:33:59] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 484.90776952687986,-14.5,-856.3803936091049
+[17:33:59] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 484.90776952687986,-14.5,-856.3803936091049
+[17:33:59] [Server thread/WARN]: hanjin0220 moved too quickly! 610.8590610398022,-56.875,-778.2816542137783
+[17:34:05] [Server thread/INFO]: Teleported 3 entities to 580.500000, 50.000000, -778.500000
+[17:34:05] [Server thread/WARN]: WhoWM moved too quickly! 613.0,-56.5625,-779.0
+[17:34:15] [Server thread/INFO]: Teleported 3 entities to 580.500000, 80.000000, -778.500000
+[17:34:15] [Server thread/WARN]: hanjin0220 moved too quickly! -0.26283442219039443,29.799999952316284,1.800000011920929
+[17:34:15] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.05108291157387157,29.265117076453038,3.0898012154847265
+[17:34:15] [Server thread/WARN]: WhoWM moved too quickly! -0.19999998807907104,31.0,0.9270268133409445
+[17:34:15] [Server thread/WARN]: hanjin0220 moved too quickly! -0.26283442219039443,29.799999952316284,1.800000011920929
+[17:34:15] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.05108291157387157,29.265117076453038,3.0898012154847265
+[17:34:15] [Server thread/WARN]: WhoWM moved too quickly! -0.19999998807907104,31.0,0.9270268133409445
+[17:34:23] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[17:35:33] [Server thread/INFO]: WhoWM fell from a high place
+[17:36:17] [Server thread/INFO]: WhoWM was slain by Iron Golem
+[17:36:57] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:37:05] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:37:46] [Server thread/INFO]: Mwolbwa1130 hit the ground too hard
+[17:39:01] [Server thread/INFO]: Teleported hanjin0220 to 580.500000, 80.000000, -778.500000
+[17:39:01] [Server thread/WARN]: hanjin0220 moved too quickly! 578.8704052454502,-1.0,-788.2124016007975
+[17:40:39] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[17:40:42] [Server thread/INFO]: WhoWM has made the advancement [Fishy Business]
+[17:40:54] [Server thread/INFO]: hanjin0220 fell from a high place
+[17:41:05] [Server thread/INFO]: Teleported hanjin0220 to 580.500000, 80.000000, -778.500000
+[17:41:05] [Server thread/WARN]: hanjin0220 moved too quickly! 607.8000000119209,-38.54275504629149,-779.1999999880791
+[17:43:09] [Server thread/INFO]: Teleported Mwolbwa1130 to 0.500000, 30.000000, 0.500000
+[17:43:09] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -603.002671850586,-24.271941937431976,787.6012218117526
+[17:43:10] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -603.002671850586,-24.271941937431976,787.6012218117526
+[17:43:12] [Server thread/INFO]: Mwolbwa1130 suffocated in a wall
+[17:43:19] [Server thread/INFO]: Teleported Mwolbwa1130 to 0.500000, 50.000000, 0.500000
+[17:43:26] [Server thread/INFO]: Teleported Mwolbwa1130 to 0.500000, 100.000000, 0.500000
+[17:43:26] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.19999998807907104,50.0,0.0783969062901862
+[17:43:26] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.19999998807907104,50.0,0.0783969062901862
+[17:43:27] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:43:43] [Server thread/INFO]: Teleported Mwolbwa1130 to 0.500000, 0.000000, 0.500000
+[17:43:43] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -579.9570072911816,-63.0,773.0968570314534
+[17:43:43] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -579.9570072911816,-63.0,773.0968570314534
+[17:43:51] [Server thread/INFO]: Teleported Mwolbwa1130 to 0.500000, 1000.000000, 0.500000
+[17:43:51] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.19999998807907104,1000.0,0.19999998807907104
+[17:43:51] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.19999998807907104,1000.0,0.19999998807907104
+[17:44:05] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:44:08] [Server thread/INFO]: hanjin0220 was slain by WhoWM
+[17:44:16] [Server thread/INFO]: <Mwolbwa1130> 큼
+[17:44:21] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130
+[17:44:41] [Server thread/INFO]: Made WhoWM a server operator
+[17:45:42] [Server thread/INFO]: WhoWM has made the advancement [Best Friends Forever]
+[17:46:57] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 0.500000, 0.000000, 60.500000]
+[17:46:57] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -602.9508432260396,-64.43270087700593,801.1710733110386
+[17:46:57] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -602.9508432260396,-64.43270087700593,801.1710733110386
+[17:47:05] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 0.500000, 0.000000, 150.500000]
+[17:47:05] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.055377878922861834,0.0,89.80000001192093
+[17:47:05] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.055377878922861834,0.0,89.80000001192093
+[17:47:11] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 0.500000, 150.000000, 0.500000]
+[17:47:11] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.0,148.82324072493577,-150.0
+[17:47:11] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 0.0,148.82324072493577,-150.0
+[17:47:13] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:47:19] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 0.500000, 100.000000, 0.500000]
+[17:47:19] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -572.0,36.0,785.0
+[17:47:20] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[17:47:24] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
+[17:47:24] [Server thread/INFO]: hanjin0220 left the game
+[17:47:28] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 0.500000, 80.000000, 0.500000]
+[17:51:06] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Villager]
+[17:52:06] [Server thread/INFO]: [WhoWM: Teleported Villager to 573.300000, 64.000000, -767.359909]
+[17:57:53] [Server thread/INFO]: [WhoWM: Set the time to 1000]
+[17:58:04] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[17:58:25] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[18:00:34] [Server thread/INFO]: [WhoWM: Applied effect Hunger to WhoWM]
+[18:00:44] [Server thread/INFO]: WhoWM fell out of the world
+[18:00:44] [Server thread/INFO]: [WhoWM: Killed WhoWM]
+[18:00:45] [Server thread/WARN]: WhoWM moved too quickly! 15.515678197027796,1.0625,26.295881286624194
+[18:01:45] [Server thread/INFO]: Teleported 2 entities to 580.500000, 50.000000, -778.500000
+[18:01:45] [Server thread/WARN]: WhoWM moved too quickly! -26.19999998807907,-13.9375,-29.46263584582607
+[18:01:45] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 482.22454265361006,-13.834677626843629,-851.3279196815789
+[18:01:45] [Server thread/WARN]: WhoWM moved too quickly! -26.19999998807907,-13.9375,-29.46263584582607
+[18:01:45] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 482.22454265361006,-13.834677626843629,-851.3279196815789
+[18:01:46] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
+[18:02:00] [Server thread/INFO]: Teleported 2 entities to 580.500000, 80.000000, -778.500000
+[18:02:00] [Server thread/WARN]: WhoWM moved too quickly! 0.19999998807907104,32.0,1.9202257416449129
+[18:02:00] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -17.62357614500661,16.246800019478798,-9.08695896261338
+[18:02:00] [Server thread/WARN]: WhoWM moved too quickly! 0.19999998807907104,32.0,1.9202257416449129
+[18:02:00] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -17.62357614500661,16.246800019478798,-9.08695896261338
+[18:06:48] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Villager]
+[18:07:01] [Server thread/INFO]: [WhoWM: Teleported Villager to 573.464253, 64.000000, -765.513959]
+[18:10:23] [Server thread/INFO]: <WhoWM> 야
+[18:10:27] [Server thread/INFO]: <WhoWM> 너끊겨
+[18:10:32] [Server thread/INFO]: <Mwolbwa1130> 지금도?
+[18:12:36] [Server thread/INFO]: [WhoWM: Saved the game]
+[18:13:24] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[18:13:27] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[18:13:43] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[18:13:52] [Server thread/INFO]: WhoWM was blown up by Creeper
+[18:14:13] [Server thread/INFO]: [WhoWM: Gave 30 [Beetroot] to WhoWM]
+[18:16:04] [Server thread/INFO]: <WhoWM> adsj;lfkajdsl;fkajsd;flajsd;flkjasd'fkljasdkfl;
+[18:16:36] [Server thread/INFO]: [WhoWM: Gave 4 [Emerald] to Mwolbwa1130]
+[18:24:27] [Server thread/INFO]: [WhoWM: Gamerule doPatrolSpawning is now set to: true]
+[18:31:19] [Server thread/INFO]: Villager bxz['Villager'/40096, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=632.30, y=86.00, z=-767.70] died, message: 'Villager was slain by Zombie'
+[18:32:06] [Server thread/INFO]: WhoWM was slain by Zombie
+[18:33:09] [Server thread/INFO]: [WhoWM: Gamerule doInsomnia is now set to: true]
+[18:36:21] [Server thread/INFO]: Villager bxz['Farmer'/40075, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=592.49, y=64.00, z=-746.16] died, message: 'Farmer fell out of the world'
+[18:36:21] [Server thread/INFO]: [WhoWM: Killed Farmer]
+[18:36:25] [Server thread/INFO]: [WhoWM: Summoned new Villager]
+[18:41:23] [Server thread/INFO]: <WhoWM> 그거랜덤이고
+[18:41:27] [Server thread/INFO]: <WhoWM> 나씻고옴
+[18:41:31] [Server thread/INFO]: <Mwolbwa1130> dz
+[18:41:33] [Server thread/INFO]: <WhoWM> 수선이나뽑아
+[19:23:50] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[19:23:50] [Server thread/INFO]: Mwolbwa1130 left the game
+[19:44:39] [Server thread/INFO]: WhoWM has made the advancement [Surge Protector]
+[20:41:51] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:41:59] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:52:46] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[20:52:46] [Server thread/INFO]: WhoWM left the game
+[20:52:49] [Server thread/INFO]: Stopping the server
+[20:52:49] [Server thread/INFO]: Stopping server
+[20:52:49] [Server thread/INFO]: Saving players
+[20:52:49] [Server thread/INFO]: Saving worlds
+[20:52:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[20:52:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[20:52:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[20:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
