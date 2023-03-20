@@ -12,6 +12,7 @@
       "minecraft:cold_ocean": "2023-02-15 12:18:00 +0900",
       "minecraft:forest": "2023-02-11 23:54:21 +0900",
       "minecraft:lush_caves": "2023-02-15 12:09:29 +0900",
+      "minecraft:old_growth_spruce_taiga": "2023-03-20 21:27:50 +0900",
       "minecraft:windswept_savanna": "2023-02-24 12:56:56 +0900",
       "minecraft:flower_forest": "2023-02-24 13:04:09 +0900",
       "minecraft:meadow": "2023-03-19 17:37:17 +0900",
@@ -262,12 +263,6 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-02-11 22:59:49 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2023-03-19 15:57:53 +0900"
     },
     "done": true
   },
@@ -679,7 +674,8 @@
       "suspicious_stew": "2023-03-03 23:03:22 +0900",
       "glow_berries": "2023-02-28 20:53:56 +0900",
       "cooked_chicken": "2023-02-14 14:05:28 +0900",
-      "cooked_salmon": "2023-02-27 13:24:25 +0900"
+      "cooked_salmon": "2023-02-27 13:24:25 +0900",
+      "carrot": "2023-03-20 21:11:13 +0900"
     },
     "done": false
   },
@@ -3308,6 +3304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-03-19 15:57:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2023-03-19 16:12:32 +0900"
@@ -3320,21 +3322,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2023-03-19 17:34:13 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2023-03-19 16:12:32 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-03-19 17:34:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2023-03-19 17:34:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-03-20 21:19:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2023-03-20 21:00:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-03-20 21:19:12 +0900"
     },
     "done": true
   },

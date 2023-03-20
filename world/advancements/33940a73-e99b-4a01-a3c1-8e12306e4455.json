@@ -40,12 +40,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2023-03-19 16:29:52 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-02-11 22:47:51 +0900"
@@ -133,12 +127,6 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2023-02-11 22:48:00 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2023-03-19 16:29:52 +0900"
     },
     "done": true
   },
@@ -379,6 +367,7 @@
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
       "minecraft:silverfish": "2023-02-24 20:56:13 +0900",
       "minecraft:zombie": "2023-02-11 23:32:10 +0900",
+      "minecraft:drowned": "2023-03-20 22:22:36 +0900",
       "minecraft:zombie_villager": "2023-02-14 10:20:51 +0900"
     },
     "done": false
@@ -3032,15 +3021,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2023-03-19 19:44:39 +0900"
+      "unlock_right_away": "2023-03-19 16:29:52 +0900"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "tamed_animal": "2023-03-19 17:45:42 +0900"
+      "has_string": "2023-03-19 16:29:52 +0900"
     },
     "done": true
   },
@@ -3050,7 +3039,25 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-03-19 17:45:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:all_black": "2023-03-19 17:45:42 +0900"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-03-19 18:14:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2023-03-19 18:14:13 +0900"
     },
@@ -3062,17 +3069,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_beetroot": "2023-03-19 18:14:13 +0900"
+      "lightning_rod_with_villager_no_fire": "2023-03-19 19:44:39 +0900"
     },
     "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:all_black": "2023-03-19 17:45:42 +0900"
-    },
-    "done": false
   },
   "DataVersion": 3337
 }
