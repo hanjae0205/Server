@@ -1,52 +1,49 @@
-[19:30:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:30:44] [ServerMain/INFO]: Loaded 7 recipes
-[19:30:45] [ServerMain/INFO]: Loaded 1179 advancements
-[19:30:47] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[19:30:47] [Server thread/INFO]: Loading properties
-[19:30:47] [Server thread/INFO]: Default game type: SURVIVAL
-[19:30:47] [Server thread/INFO]: Generating keypair
-[19:30:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:30:48] [Server thread/INFO]: Using default channel type
-[19:30:48] [Server thread/INFO]: Preparing level "world"
-[19:30:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:30:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:31:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:31:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:31:01] [Worker-Main-5/INFO]: Preparing spawn area: 25%
-[19:31:01] [Worker-Main-5/INFO]: Preparing spawn area: 74%
-[19:31:02] [Server thread/INFO]: Time elapsed: 9260 ms
-[19:31:02] [Server thread/INFO]: Done (13.244s)! For help, type "help"
-[21:19:14] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:19:14] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:55065] logged in with entity id 61 at (603.1205827421591, 63.0, -749.6784985156348)
-[21:19:14] [Server thread/INFO]: Mwolbwa1130 joined the game
-[21:53:05] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: 파이프의 다른 끝에 프로세스가 없습니다
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:293) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:308) ~[?:?]
-	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:382) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:361) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376) ~[?:?]
-	at sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:189) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.implReadLine(BufferedReader.java:371) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:348) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:437) ~[?:?]
-	at ahq$1.run(SourceFile:89) ~[server-1.19.4.jar:?]
+[21:57:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:57:03] [ServerMain/INFO]: Loaded 7 recipes
+[21:57:03] [ServerMain/INFO]: Loaded 1179 advancements
+[21:57:03] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[21:57:03] [Server thread/INFO]: Loading properties
+[21:57:03] [Server thread/INFO]: Default game type: SURVIVAL
+[21:57:03] [Server thread/INFO]: Generating keypair
+[21:57:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:57:04] [Server thread/INFO]: Using default channel type
+[21:57:04] [Server thread/INFO]: Preparing level "world"
+[21:57:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:57:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:57:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:57:12] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[21:57:12] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[21:57:13] [Server thread/INFO]: Time elapsed: 6314 ms
+[21:57:13] [Server thread/INFO]: Done (8.700s)! For help, type "help"
+[21:58:15] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[21:58:15] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:65434] logged in with entity id 152 at (116.5952200404826, 160.0, 72.27523940301022)
+[21:58:15] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:18:23] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Local Brewery]
+[22:20:12] [Server thread/INFO]: [Not Secure] [Server] bal jeon gwa jae mu nya
+[22:21:18] [Server thread/INFO]: [Not Secure] [Server] muo ha no
+[22:31:59] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:32:23] [Server thread/INFO]: <Mwolbwa1130> AA
+[22:33:26] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:42:13] [Server thread/INFO]: <Mwolbwa1130> 난 자러간다
+[22:42:25] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:42:25] [Server thread/INFO]: Mwolbwa1130 left the game
+[23:56:33] [Server thread/INFO]: Stopping the server
+[23:56:33] [Server thread/INFO]: Stopping server
+[23:56:33] [Server thread/INFO]: Saving players
+[23:56:33] [Server thread/INFO]: Saving worlds
+[23:56:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[23:56:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[23:56:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[23:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
