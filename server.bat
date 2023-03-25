@@ -11,4 +11,3 @@ git init
 git add .
 git commit -m "@everyone 서버닫힘&저장중"
 git push -u origin main
-pause
