@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-03-25 22:18:42 +0900",
       "minecraft:old_growth_pine_taiga": "2023-02-14 10:16:28 +0900",
       "minecraft:taiga": "2023-02-13 11:52:42 +0900",
       "minecraft:birch_forest": "2023-03-19 17:28:46 +0900",
@@ -9,9 +10,12 @@
       "minecraft:river": "2023-02-12 18:58:59 +0900",
       "minecraft:stony_shore": "2023-02-20 12:55:05 +0900",
       "minecraft:swamp": "2023-02-24 13:00:00 +0900",
+      "minecraft:grove": "2023-03-25 22:19:11 +0900",
+      "minecraft:jagged_peaks": "2023-03-25 22:18:43 +0900",
       "minecraft:cold_ocean": "2023-02-12 14:36:52 +0900",
       "minecraft:forest": "2023-02-11 23:10:56 +0900",
       "minecraft:lush_caves": "2023-02-13 12:50:15 +0900",
+      "minecraft:deep_cold_ocean": "2023-03-25 21:31:30 +0900",
       "minecraft:windswept_forest": "2023-02-24 13:11:29 +0900",
       "minecraft:ocean": "2023-02-20 12:51:22 +0900",
       "minecraft:old_growth_spruce_taiga": "2023-02-20 13:27:29 +0900",
@@ -368,6 +372,7 @@
       "minecraft:piglin": "2023-02-14 19:52:52 +0900",
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
       "minecraft:silverfish": "2023-02-24 20:56:13 +0900",
+      "minecraft:endermite": "2023-03-25 20:07:14 +0900",
       "minecraft:zombie": "2023-02-11 23:32:10 +0900",
       "minecraft:drowned": "2023-03-20 22:22:36 +0900",
       "minecraft:zombie_villager": "2023-02-14 10:20:51 +0900"
@@ -3131,15 +3136,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2023-03-24 22:48:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2023-03-24 23:27:10 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_reeds": "2023-03-24 22:48:13 +0900"
+      "has_smelts_to_glass": "2023-03-25 18:29:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2023-03-25 21:21:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2023-03-25 21:21:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2023-03-25 21:21:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2023-03-25 21:23:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-03-25 22:26:14 +0900"
     },
     "done": true
   },

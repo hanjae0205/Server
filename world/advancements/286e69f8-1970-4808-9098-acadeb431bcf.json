@@ -4,6 +4,8 @@
       "minecraft:snowy_slopes": "2023-03-19 17:37:34 +0900",
       "minecraft:old_growth_pine_taiga": "2023-02-15 12:13:29 +0900",
       "minecraft:taiga": "2023-02-12 00:03:36 +0900",
+      "minecraft:frozen_river": "2023-03-25 20:24:13 +0900",
+      "minecraft:birch_forest": "2023-03-25 20:22:50 +0900",
       "minecraft:windswept_hills": "2023-02-24 12:56:52 +0900",
       "minecraft:beach": "2023-02-15 12:23:56 +0900",
       "minecraft:river": "2023-02-12 00:03:46 +0900",
@@ -14,6 +16,7 @@
       "minecraft:lush_caves": "2023-02-15 12:09:29 +0900",
       "minecraft:frozen_ocean": "2023-03-24 22:57:49 +0900",
       "minecraft:old_growth_spruce_taiga": "2023-03-20 21:27:50 +0900",
+      "minecraft:snowy_beach": "2023-03-25 20:24:10 +0900",
       "minecraft:windswept_savanna": "2023-02-24 12:56:56 +0900",
       "minecraft:flower_forest": "2023-02-24 13:04:09 +0900",
       "minecraft:old_growth_birch_forest": "2023-03-24 23:22:02 +0900",
@@ -42,6 +45,7 @@
       "minecraft:zombified_piglin": "2023-02-23 13:12:18 +0900",
       "minecraft:witch": "2023-02-24 13:10:23 +0900",
       "minecraft:wither_skeleton": "2023-02-22 12:42:52 +0900",
+      "minecraft:husk": "2023-03-25 22:04:51 +0900",
       "minecraft:ender_dragon": "2023-02-24 13:43:40 +0900",
       "minecraft:piglin": "2023-02-26 16:59:06 +0900",
       "minecraft:enderman": "2023-02-13 22:24:57 +0900",
@@ -670,6 +674,7 @@
       "porkchop": "2023-02-26 16:58:47 +0900",
       "potato": "2023-02-15 12:18:22 +0900",
       "mutton": "2023-02-11 23:06:53 +0900",
+      "pufferfish": "2023-03-25 21:18:12 +0900",
       "bread": "2023-02-14 18:16:55 +0900",
       "golden_apple": "2023-02-15 13:04:11 +0900",
       "rotten_flesh": "2023-02-23 13:29:20 +0900",
@@ -3382,6 +3387,48 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2023-03-24 22:47:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-03-25 22:07:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-03-25 21:48:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-03-25 18:25:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-03-25 22:07:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-03-25 21:48:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-03-25 18:25:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-03-25 21:48:52 +0900"
     },
     "done": true
   },
