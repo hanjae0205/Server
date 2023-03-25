@@ -318,6 +318,7 @@
       "cooked_beef": "2023-02-13 13:27:55 +0900",
       "beef": "2023-02-15 12:52:52 +0900",
       "porkchop": "2023-02-11 22:58:56 +0900",
+      "potato": "2023-03-24 23:36:07 +0900",
       "mutton": "2023-02-22 12:20:44 +0900",
       "bread": "2023-02-15 12:13:42 +0900",
       "golden_apple": "2023-02-24 12:54:35 +0900",
@@ -3121,6 +3122,24 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-03-22 23:00:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2023-03-24 22:48:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2023-03-24 23:27:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2023-03-24 22:48:13 +0900"
     },
     "done": true
   },

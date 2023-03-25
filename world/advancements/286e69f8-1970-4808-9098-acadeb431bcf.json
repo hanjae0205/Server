@@ -12,9 +12,11 @@
       "minecraft:cold_ocean": "2023-02-15 12:18:00 +0900",
       "minecraft:forest": "2023-02-11 23:54:21 +0900",
       "minecraft:lush_caves": "2023-02-15 12:09:29 +0900",
+      "minecraft:frozen_ocean": "2023-03-24 22:57:49 +0900",
       "minecraft:old_growth_spruce_taiga": "2023-03-20 21:27:50 +0900",
       "minecraft:windswept_savanna": "2023-02-24 12:56:56 +0900",
       "minecraft:flower_forest": "2023-02-24 13:04:09 +0900",
+      "minecraft:old_growth_birch_forest": "2023-03-24 23:22:02 +0900",
       "minecraft:meadow": "2023-03-19 17:37:17 +0900",
       "minecraft:plains": "2023-02-11 22:54:32 +0900"
     },
@@ -673,6 +675,7 @@
       "rotten_flesh": "2023-02-23 13:29:20 +0900",
       "suspicious_stew": "2023-03-03 23:03:22 +0900",
       "glow_berries": "2023-02-28 20:53:56 +0900",
+      "salmon": "2023-03-24 23:03:33 +0900",
       "cooked_chicken": "2023-02-14 14:05:28 +0900",
       "cooked_salmon": "2023-02-27 13:24:25 +0900",
       "carrot": "2023-03-20 21:11:13 +0900"
@@ -3367,6 +3370,18 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2023-03-21 22:18:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-03-24 22:47:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-03-24 22:47:19 +0900"
     },
     "done": true
   },
