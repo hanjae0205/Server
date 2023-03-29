@@ -1,62 +1,233 @@
-[22:04:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:04:35] [ServerMain/INFO]: Loaded 7 recipes
-[22:04:36] [ServerMain/INFO]: Loaded 1179 advancements
-[22:04:37] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[22:04:37] [Server thread/INFO]: Loading properties
-[22:04:37] [Server thread/INFO]: Default game type: SURVIVAL
-[22:04:37] [Server thread/INFO]: Generating keypair
-[22:04:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:04:37] [Server thread/INFO]: Using default channel type
-[22:04:37] [Server thread/INFO]: Preparing level "world"
-[22:04:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:04:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[22:04:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[22:04:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:04:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:04:47] [Server thread/INFO]: Time elapsed: 6967 ms
-[22:04:47] [Server thread/INFO]: Done (9.923s)! For help, type "help"
-[22:23:48] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[22:23:48] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:63774] logged in with entity id 28 at (234.91829916828914, -149.29848375365, -0.7742509410177257)
-[22:23:48] [Server thread/INFO]: Mwolbwa1130 joined the game
-[22:37:58] [Server thread/INFO]: Mwolbwa1130 was slain by Enderman
-[22:40:03] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[22:40:03] [Server thread/INFO]: WhoWM[/192.168.0.1:51497] logged in with entity id 5771 at (579.4257014291113, 62.9375, -757.3800625539435)
-[22:40:03] [Server thread/INFO]: WhoWM joined the game
-[22:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2686ms or 53 ticks behind
-[22:40:19] [Server thread/INFO]: <Mwolbwa1130> 낼 학원안간다 ㅋ
-[22:41:06] [Server thread/INFO]: <Mwolbwa1130> 상자에 가착4 넣어놈
-[22:42:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
-[22:42:43] [Server thread/INFO]: <Mwolbwa1130> 너 ㅇㄷ?
-[22:42:59] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[22:43:11] [Server thread/INFO]: <Mwolbwa1130> 난 잔다
-[22:43:15] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[22:43:15] [Server thread/INFO]: Mwolbwa1130 left the game
-[22:50:33] [Server thread/INFO]: [WhoWM: Gave 4 [Emerald] to WhoWM]
-[22:50:44] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:50:54] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:52:34] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:53:16] [Server thread/INFO]: [WhoWM: Set the time to 1000]
-[22:53:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:53:59] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[22:53:59] [Server thread/INFO]: WhoWM left the game
-[22:54:05] [Server thread/INFO]: Stopping the server
-[22:54:05] [Server thread/INFO]: Stopping server
-[22:54:05] [Server thread/INFO]: Saving players
-[22:54:05] [Server thread/INFO]: Saving worlds
-[22:54:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[22:54:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[22:54:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[22:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:34:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:34:59] [ServerMain/INFO]: Loaded 7 recipes
+[19:34:59] [ServerMain/INFO]: Loaded 1179 advancements
+[19:35:00] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[19:35:00] [Server thread/INFO]: Loading properties
+[19:35:00] [Server thread/INFO]: Default game type: SURVIVAL
+[19:35:00] [Server thread/INFO]: Generating keypair
+[19:35:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:35:01] [Server thread/INFO]: Using default channel type
+[19:35:01] [Server thread/INFO]: Preparing level "world"
+[19:35:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:35:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:35:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:35:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:35:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:35:11] [Worker-Main-5/INFO]: Preparing spawn area: 22%
+[19:35:11] [Worker-Main-4/INFO]: Preparing spawn area: 72%
+[19:35:12] [Server thread/INFO]: Time elapsed: 7301 ms
+[19:35:12] [Server thread/INFO]: Done (10.754s)! For help, type "help"
+[19:49:16] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[19:49:16] [Server thread/INFO]: Mwolbwa1130[/123.248.67.35:49770] logged in with entity id 30 at (-31.798696118927612, 84.87735470561789, 11.938690405836196)
+[19:49:16] [Server thread/INFO]: Mwolbwa1130 joined the game
+[19:49:38] [Server thread/INFO]: [Not Secure] [Server] my name is Xit gi
+[19:49:46] [Server thread/INFO]: <Mwolbwa1130> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[19:49:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:50] [Server thread/INFO]: <--[HERE]
+[19:49:55] [Server thread/INFO]: [Not Secure] [Server] my name is chacha
+[19:49:59] [Server thread/INFO]: <Mwolbwa1130> 다리 찢기
+[19:50:01] [Server thread/INFO]: [Not Secure] [Server] clab clab cha cha cha
+[19:52:01] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[19:52:01] [Server thread/INFO]: Mwolbwa1130 left the game
+[19:52:08] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[19:52:08] [Server thread/INFO]: Mwolbwa1130[/123.248.67.35:49809] logged in with entity id 939 at (257.2699357613119, 26.454890737034855, -4.352148969246541)
+[19:52:08] [Server thread/INFO]: Mwolbwa1130 joined the game
+[19:52:14] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
+[19:54:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=27, z=-55} gt{x=23, y=26, z=-55}
+[19:54:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=27, z=-55} gt{x=23, y=26, z=-55}
+[19:54:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=27, z=-55} gt{x=23, y=26, z=-55}
+[19:54:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=27, z=-55} gt{x=23, y=26, z=-55}
+[19:55:09] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
+[19:56:01] [Server thread/INFO]: [Not Secure] [Server] https://youtube.com/shorts/CCf6RMWn0dg?feature=share
+[19:56:18] [Server thread/INFO]: <Mwolbwa1130> ?
+[19:56:35] [Server thread/INFO]: <Mwolbwa1130> 복붙 안돠누
+[20:07:39] [Server thread/INFO]: [Not Secure] [Server] discord ro bo nam
+[20:07:50] [Server thread/INFO]: <Mwolbwa1130> 그 영상 이미봄
+[20:08:41] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
+[20:12:57] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[20:19:11] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -7.927955385781651,4.0,-7.827759484286446
+[20:20:23] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 3.762244906808995,-27.0,-3.2112758624360325
+[20:20:23] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 3.762244906808995,-27.0,-3.2112758624360325
+[20:20:39] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.8515397128576758,-28.0,5.216572641001139
+[20:20:39] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.8515397128576758,-28.0,5.216572641001139
+[20:24:25] [Server thread/INFO]: Mwolbwa1130 was slain by Enderman
+[20:25:59] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Ol' Betsy]
+[20:29:51] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[20:30:02] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -3.694892617075247,-28.0,-0.443215211244528
+[20:30:02] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -3.694892617075247,-28.0,-0.443215211244528
+[20:39:15] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[20:39:23] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[21:58:29] [Server thread/INFO]: [Not Secure] [Server] ya
+[21:58:34] [Server thread/INFO]: [Not Secure] [Server] yaya
+[22:01:20] [Server thread/INFO]: [Not Secure] [Server] mu ha no
+[22:01:29] [Server thread/INFO]: [Not Secure] [Server] del li meon X
+[22:02:48] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[22:02:48] [Server thread/INFO]: WhoWM[/192.168.0.1:50747] logged in with entity id 11702 at (560.3391074164748, 76.0, -770.1969103984969)
+[22:02:49] [Server thread/INFO]: WhoWM joined the game
+[22:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2692ms or 53 ticks behind
+[22:05:22] [Server thread/INFO]: Villager bxz['Villager'/11776, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=604.44, y=58.06, z=-746.50] died, message: 'Villager was slain by WhoWM using [이세계에선최강 네더라이트 검]'
+[22:06:37] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -0.9077761778064541,-96.0,-4.278619795237965
+[22:08:12] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -7.741124482011159,-14.0,-3.3305290589194936
+[22:08:12] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -7.741124482011159,-14.0,-3.3305290589194936
+[22:08:25] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:09:42] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:10:09] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 602.858473, 58.000000, -744.244018]
+[22:10:20] [Server thread/INFO]: [WhoWM: Applied effect Nausea to Mwolbwa1130]
+[22:10:45] [Server thread/INFO]: [WhoWM: Applied effect Nausea to Mwolbwa1130]
+[22:11:13] [Server thread/INFO]: [WhoWM: Removed every effect from Mwolbwa1130]
+[22:12:17] [Server thread/INFO]: [WhoWM: Successfully filled 2 blocks]
+[22:12:34] [Server thread/INFO]: [WhoWM: Successfully filled 2 blocks]
+[22:13:46] [Server thread/INFO]: <WhoWM> 야야
+[22:13:53] [Server thread/INFO]: <WhoWM> 사람에게 즐거움을주는
+[22:14:00] [Server thread/INFO]: <WhoWM> s**는 무엇일까 아 요
+[22:14:08] [Server thread/INFO]: <WhoWM> 바로 sns다 그런싸리양
+[22:14:09] [Server thread/INFO]: <Mwolbwa1130> SEX
+[22:14:13] [Server thread/INFO]: <Mwolbwa1130> 아아
+[22:14:14] [Server thread/INFO]: <WhoWM> 미친놈아니야 이거
+[22:14:22] [Server thread/INFO]: <WhoWM> 근처에 아빠있어서
+[22:14:25] [Server thread/INFO]: <Mwolbwa1130> 아아
+[22:15:08] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:15:10] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:15:12] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
+[22:15:13] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:15:19] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
+[22:15:21] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:15:21] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
+[22:15:23] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:15:23] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
+[22:15:25] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:15:26] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
+[22:15:32] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:15:37] [Server thread/INFO]: Villager bxz['Farmer'/11730, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=604.55, y=62.94, z=-756.01] died, message: 'Farmer was slain by Zombie'
+[22:15:45] [Server thread/INFO]: Villager bxz['Farmer'/11726, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=605.70, y=63.19, z=-752.43] died, message: 'Farmer was slain by Zombie'
+[22:17:09] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무한 짱짱 쎈 활보다 더 쎈 활]
+[22:17:54] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무한 짱짱 쎈 활보다 더 쎈 활]
+[22:20:03] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무한 짱짱 쎈 활보다 더 쎈 활]
+[22:20:07] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:20:20] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:20:22] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:20:24] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:20:52] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130 using [한재현 쓱싹 검 ]
+[22:22:10] [Server thread/INFO]: [WhoWM: Gave 24 [Paper] to WhoWM]
+[22:23:49] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:23:51] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:23:58] [Server thread/INFO]: [WhoWM: Summoned new Zombie]
+[22:24:02] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:24:05] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:26:49] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:27:03] [Server thread/INFO]: [WhoWM: Summoned new Zombie]
+[22:27:17] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:28:18] [Server thread/INFO]: Mwolbwa1130 was shot by WhoWM using [무한 짱짱쎈 활]
+[22:28:30] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:28:48] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:29:07] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 604.935697, 64.000000, -738.441568]
+[22:29:07] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 490.2356967589542,-76.15949974884569,-810.676227293286
+[22:29:07] [Server thread/INFO]: Villager bxz['Librarian'/11772, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=593.51, y=58.00, z=-746.51] died, message: 'Librarian was slain by Zombie'
+[22:29:20] [Server thread/INFO]: WhoWM was shot by WhoWM using [무한 짱짱쎈 활]
+[22:30:29] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무한 짱짱 쎈 활보다 더 쎈 활]
+[22:30:53] [Server thread/INFO]: Mwolbwa1130 was slain by Zombie
+[22:31:08] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:31:46] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 600.796835, 58.000000, -743.300000]
+[22:31:46] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 485.64071642169034,-8.250810434090283,-817.9366551287413
+[22:31:46] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 485.60060542446996,-8.322953575410722,-817.9473026777868
+[22:31:51] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:32:19] [Server thread/INFO]: [WhoWM: Gave 16 [Rail] to WhoWM]
+[22:32:33] [Server thread/INFO]: [WhoWM: Gave 1 [Lever] to WhoWM]
+[22:36:47] [Server thread/INFO]: [WhoWM: Gave 64 [Paper] to WhoWM]
+[22:37:45] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:37:46] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:37:53] [Server thread/INFO]: [WhoWM: Gave 64 [Paper] to WhoWM]
+[22:37:56] [Server thread/INFO]: [WhoWM: Teleported Librarian to 593.335237, 58.015785, -746.506620]
+[22:37:59] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:38:03] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:39:04] [Server thread/INFO]: <WhoWM> 1번만 누르고 튀는거 방지용
+[22:40:09] [Server thread/INFO]: <WhoWM> 1번 누르고 그냥 가는거 막는용
+[22:41:23] [Server thread/INFO]: <WhoWM> Bones
+[22:42:03] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:42:09] [Server thread/INFO]: [WhoWM: Summoned new Minecart]
+[22:42:43] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:42:53] [Server thread/INFO]: [WhoWM: Summoned new Minecart]
+[22:42:58] [Server thread/INFO]: [WhoWM: Summoned new Villager]
+[22:43:06] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:43:34] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:43:36] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:43:38] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:43:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:44:12] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:44:15] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:44:26] [Server thread/INFO]: [WhoWM: Summoned new Villager]
+[22:44:54] [Server thread/INFO]: Villager bxz['Villager'/15097, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=592.31, y=58.00, z=-745.70] died, message: 'Villager fell out of the world'
+[22:44:54] [Server thread/INFO]: [WhoWM: Killed Villager]
+[22:45:06] [Server thread/INFO]: Villager bxz['Librarian'/11781, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=591.49, y=58.00, z=-746.51] died, message: 'Librarian didn't want to live in the same world as WhoWM'
+[22:45:06] [Server thread/INFO]: [WhoWM: Killed Librarian]
+[22:47:23] [Server thread/INFO]: [WhoWM: Summoned new Minecart]
+[22:47:44] [Server thread/INFO]: Villager bxz['Villager'/15304, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=589.30, y=59.00, z=-745.25] died, message: 'Villager was slain by WhoWM using [이세계에선최강 네더라이트 검]'
+[22:55:34] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:55:38] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:57:13] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:57:15] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:57:23] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 95.674114, 67.000000, 82.933300]
+[22:58:02] [Server thread/INFO]: <WhoWM> wwwwwwwwwwwwww
+[22:58:16] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:58:18] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:58:34] [Server thread/WARN]: WhoWM moved too quickly! 8.25423547246612,3.537310342792587,5.345835460031403
+[22:58:54] [Server thread/INFO]: [WhoWM: Changed the block at 237, 33, -30]
+[23:01:27] [Server thread/INFO]: [WhoWM: Killed 59 entities]
+[23:01:32] [Server thread/INFO]: [WhoWM: Killed 114 entities]
+[23:02:22] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:02:36] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[23:02:44] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:04:11] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:04:27] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[23:04:35] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:06:04] [Server thread/INFO]: Mwolbwa1130 didn't want to live in the same world as Enderman
+[23:07:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:08:05] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
+[23:08:12] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
+[23:09:00] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:11:12] [Server thread/INFO]: [WhoWM: Changed the block at 249, 2, 0]
+[23:11:38] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:12:35] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[23:13:18] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:13:34] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:13:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:14:33] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:15:08] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [이세계에선최강 네더라이트 검]
+[23:15:17] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 246.855460, 1.750000, 0.860691]
+[23:16:38] [Server thread/INFO]: [WhoWM: Gave 30 experience levels to WhoWM]
+[23:18:03] [Server thread/INFO]: <Mwolbwa1130> 무짱활THE활
+[23:18:30] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:18:45] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:19:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:20:06] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:22:39] [Server thread/INFO]: WhoWM was burnt to a crisp whilst fighting Mwolbwa1130
+[23:22:48] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
+[23:22:55] [Server thread/INFO]: [WhoWM: Set spawn point to 221, 1, 0 [0.0] in minecraft:the_end for WhoWM]
+[23:23:48] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무짱활THE활]
+[23:24:14] [Server thread/INFO]: Mwolbwa1130 was shot by WhoWM using [[강화]짱쎈 무한 활]
+[23:24:25] [Server thread/INFO]: [WhoWM: Teleported 2 entities to 239.151603, 1.000000, -2.723285]
+[23:24:33] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:26:27] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[23:26:27] [Server thread/INFO]: WhoWM left the game
+[23:31:41] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[23:31:41] [Server thread/INFO]: Mwolbwa1130 left the game
+[23:34:09] [Server thread/INFO]: Stopping the server
+[23:34:09] [Server thread/INFO]: Stopping server
+[23:34:09] [Server thread/INFO]: Saving players
+[23:34:09] [Server thread/INFO]: Saving worlds
+[23:34:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[23:34:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[23:34:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[23:34:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:34:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:34:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:34:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
