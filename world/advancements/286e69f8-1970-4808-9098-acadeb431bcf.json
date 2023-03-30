@@ -38,6 +38,7 @@
       "minecraft:skeleton": "2023-02-11 23:14:31 +0900",
       "minecraft:ravager": "2023-02-15 13:12:08 +0900",
       "minecraft:hoglin": "2023-02-26 17:05:04 +0900",
+      "minecraft:vindicator": "2023-03-30 23:06:14 +0900",
       "minecraft:magma_cube": "2023-02-23 13:25:59 +0900",
       "minecraft:spider": "2023-02-11 22:55:55 +0900",
       "minecraft:creeper": "2023-02-13 22:25:43 +0900",
@@ -3438,6 +3439,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-03-29 20:25:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2023-03-29 22:26:05 +0900"
@@ -3462,15 +3469,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2023-03-29 20:25:59 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-03-29 22:26:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2023-03-30 22:36:29 +0900"
     },
     "done": true
   },

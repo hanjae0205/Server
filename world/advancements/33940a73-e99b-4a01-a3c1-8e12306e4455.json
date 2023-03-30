@@ -359,6 +359,7 @@
       "minecraft:pillager": "2023-02-14 14:02:58 +0900",
       "minecraft:blaze": "2023-02-23 13:28:17 +0900",
       "minecraft:skeleton": "2023-02-11 23:14:22 +0900",
+      "minecraft:ravager": "2023-03-30 23:07:47 +0900",
       "minecraft:ghast": "2023-02-22 12:45:07 +0900",
       "minecraft:hoglin": "2023-03-23 22:20:48 +0900",
       "minecraft:vindicator": "2023-02-15 13:04:54 +0900",
@@ -3054,6 +3055,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:jellie": "2023-03-30 23:06:29 +0900",
       "minecraft:all_black": "2023-03-19 17:45:42 +0900"
     },
     "done": false
