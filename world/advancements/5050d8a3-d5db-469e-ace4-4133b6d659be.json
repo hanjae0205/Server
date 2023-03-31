@@ -4,6 +4,7 @@
       "minecraft:taiga": "2023-02-15 12:08:19 +0900",
       "minecraft:river": "2023-02-15 12:08:32 +0900",
       "minecraft:forest": "2023-02-15 11:59:33 +0900",
+      "minecraft:lush_caves": "2023-03-31 23:58:36 +0900",
       "minecraft:plains": "2023-02-11 22:42:42 +0900"
     },
     "done": false
@@ -514,6 +515,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2023-03-31 23:57:46 +0900",
       "minecraft:nether_wastes": "2023-02-16 21:29:01 +0900"
     },
     "done": false
@@ -1490,12 +1492,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2023-03-19 16:07:14 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-03-18 21:22:38 +0900"
@@ -1736,21 +1732,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_salmon": "2023-03-19 17:42:47 +0900"
+      "unlock_right_away": "2023-03-19 16:07:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-03-19 16:07:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-03-19 17:23:06 +0900"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-03-19 17:23:49 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2023-03-19 17:42:47 +0900"
     },
     "done": true
   },
@@ -1766,33 +1768,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2023-03-19 17:42:47 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2023-03-19 17:23:06 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-19 17:23:49 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2023-03-19 16:07:43 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2023-03-19 17:38:45 +0900"
     },
     "done": true
   },
@@ -1823,6 +1801,48 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2023-03-19 17:23:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-03-19 17:38:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-03-19 17:42:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-03-19 17:42:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-03-19 17:42:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-03-31 23:58:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-03-31 23:59:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-03-31 23:59:51 +0900"
     },
     "done": true
   },
