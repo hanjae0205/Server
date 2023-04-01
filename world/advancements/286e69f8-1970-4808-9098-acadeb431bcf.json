@@ -3484,24 +3484,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
-    "criteria": {
-      "allay_deliver_item_to_player": "2023-04-01 00:24:45 +0900"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2023-03-31 23:16:22 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2023-04-01 00:41:45 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2023-03-31 23:13:43 +0900"
@@ -3511,12 +3493,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2023-03-31 23:13:43 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2023-03-31 23:15:44 +0900"
     },
     "done": true
   },
@@ -3532,9 +3508,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-03-31 23:15:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2023-03-31 23:16:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2023-04-01 00:24:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-04-01 00:41:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2023-04-01 00:41:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2023-04-01 19:49:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-04-01 19:52:31 +0900"
     },
     "done": true
   },

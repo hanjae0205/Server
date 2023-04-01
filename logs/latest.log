@@ -1,68 +1,250 @@
-[14:04:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:04:44] [ServerMain/INFO]: Loaded 7 recipes
-[14:04:44] [ServerMain/INFO]: Loaded 1179 advancements
-[14:04:45] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[14:04:45] [Server thread/INFO]: Loading properties
-[14:04:45] [Server thread/INFO]: Default game type: SURVIVAL
-[14:04:45] [Server thread/INFO]: Generating keypair
-[14:04:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:04:45] [Server thread/INFO]: Using default channel type
-[14:04:46] [Server thread/INFO]: Preparing level "world"
-[14:04:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:04:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:04:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:04:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:04:53] [Worker-Main-7/INFO]: Preparing spawn area: 13%
-[14:04:54] [Worker-Main-5/INFO]: Preparing spawn area: 56%
-[14:04:54] [Server thread/INFO]: Time elapsed: 6405 ms
-[14:04:54] [Server thread/INFO]: Done (8.605s)! For help, type "help"
-[14:07:29] [User Authenticator #1/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[14:07:29] [Server thread/INFO]: WhoWM[/192.168.0.1:51213] logged in with entity id 161 at (-28.40107164603585, 122.78678479737094, 58.98639100181331)
-[14:07:29] [Server thread/INFO]: WhoWM joined the game
-[14:11:28] [Server thread/INFO]: Kicked WhoWM: Kicked by an operator
-[14:11:28] [Server thread/INFO]: WhoWM lost connection: Kicked by an operator
-[14:11:28] [Server thread/INFO]: WhoWM left the game
-[14:12:45] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[14:12:45] [Server thread/INFO]: WhoWM[/192.168.0.1:51260] logged in with entity id 674 at (-28.40107164603585, 122.78678479737094, 58.98639100181331)
-[14:12:45] [Server thread/INFO]: WhoWM joined the game
-[14:14:40] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:15:03] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:15:29] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:15:46] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:17:23] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:17:42] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:19:25] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:19:29] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:20:31] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:20:33] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:21:23] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:21:25] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:23:47] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:23:49] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:23:58] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:24:00] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:24:05] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:24:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:27:37] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:27:43] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:33:59] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[14:33:59] [Server thread/INFO]: WhoWM left the game
-[14:34:04] [Server thread/INFO]: Stopping the server
-[14:34:04] [Server thread/INFO]: Stopping server
-[14:34:04] [Server thread/INFO]: Saving players
-[14:34:04] [Server thread/INFO]: Saving worlds
-[14:34:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[14:34:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[14:34:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[14:34:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:34:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:34:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:34:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:40:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:40:22] [ServerMain/INFO]: Loaded 7 recipes
+[18:40:22] [ServerMain/INFO]: Loaded 1179 advancements
+[18:40:23] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[18:40:23] [Server thread/INFO]: Loading properties
+[18:40:23] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:23] [Server thread/INFO]: Generating keypair
+[18:40:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:23] [Server thread/INFO]: Using default channel type
+[18:40:23] [Server thread/INFO]: Preparing level "world"
+[18:40:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:40:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:40:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:40:31] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[18:40:31] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[18:40:31] [Server thread/INFO]: Time elapsed: 5524 ms
+[18:40:31] [Server thread/INFO]: Done (8.148s)! For help, type "help"
+[18:41:04] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[18:41:04] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50489] logged in with entity id 159 at (51.0330976101783, 70.0, 80.91242190031006)
+[18:41:04] [Server thread/INFO]: Mwolbwa1130 joined the game
+[18:45:49] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[18:45:49] [Server thread/INFO]: WhoWM[/192.168.0.1:50105] logged in with entity id 2013 at (-28.350614975722653, 123.0, 55.28177418412364)
+[18:45:49] [Server thread/INFO]: WhoWM joined the game
+[18:48:25] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[18:50:05] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[18:50:08] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[18:50:38] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[18:53:47] [Server thread/INFO]: Mwolbwa1130 was doomed to fall by Spider
+[18:56:00] [User Authenticator #3/INFO]: UUID of player hanjin0220 is 5050d8a3-d5db-469e-ace4-4133b6d659be
+[18:56:00] [Server thread/INFO]: hanjin0220[/192.168.0.1:63387] logged in with entity id 4757 at (-32.5, 106.5625, 0.5)
+[18:56:00] [Server thread/INFO]: hanjin0220 joined the game
+[18:56:08] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to 3 targets]
+[18:57:26] [Server thread/INFO]: hanjin0220 tried to swim in lava
+[18:59:09] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[18:59:11] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[18:59:29] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[18:59:48] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -29.792923, 248.000000, 57.667521]
+[18:59:48] [Server thread/WARN]: WhoWM moved too quickly! 0.0,114.14934966405488,0.0
+[18:59:48] [Server thread/WARN]: WhoWM moved too quickly! 0.0,114.14934966405488,0.0
+[18:59:54] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:00:05] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[19:00:06] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:00:09] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:00:42] [Server thread/INFO]: hanjin0220 fell out of the world
+[19:04:29] [Server thread/INFO]: hanjin0220 fell out of the world
+[19:05:09] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:07:23] [Server thread/INFO]: [WhoWM: Summoned new Giant]
+[19:09:18] [Server thread/INFO]: hanjin0220 tried to swim in lava
+[19:09:24] [Server thread/INFO]: <WhoWM> 진현ㅇㄷ
+[19:09:55] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:10:49] [Server thread/INFO]: hanjin0220 was doomed to fall by Mwolbwa1130
+[19:11:06] [Server thread/INFO]: hanjin0220 was slain by Mwolbwa1130 using [한재현 쓱싹 검 ]
+[19:11:20] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:11:20] [Server thread/INFO]: hanjin0220 was doomed to fall by Mwolbwa1130
+[19:11:27] [Server thread/INFO]: hanjin0220 was doomed to fall
+[19:11:28] [Server thread/INFO]: hanjin0220 lost connection: Disconnected
+[19:11:28] [Server thread/INFO]: hanjin0220 left the game
+[19:11:32] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:11:40] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:12:15] [Server thread/INFO]: WhoWM fell from a high place
+[19:12:42] [Server thread/INFO]: [WhoWM: Gave 2 [Oak Door] to WhoWM]
+[19:13:18] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:13:29] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:13:58] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[19:14:06] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:15:04] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:15:47] [Server thread/INFO]: <Mwolbwa1130> 야투
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=8, y=11, z=-17} gt{x=8, y=11, z=-16}
+[19:21:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=16, y=5, z=-17} gt{x=16, y=5, z=-16}
+[19:22:41] [Server thread/INFO]: Applied effect Night Vision to 2 targets
+[19:22:50] [Server thread/INFO]: <Mwolbwa1130> 이게 야스
+[19:23:08] [Server thread/INFO]: WhoWM fell from a high place
+[19:26:01] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:26:46] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:29:26] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
+[19:31:43] [Server thread/INFO]: <Mwolbwa1130> WhoWM\
+[19:33:03] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 150.000000, 0.500000]
+[19:33:03] [Server thread/WARN]: WhoWM moved too quickly! -607.5320825866999,83.0,736.8000000119209
+[19:33:03] [Server thread/WARN]: WhoWM moved too quickly! -607.5320825866999,83.0,736.8000000119209
+[19:33:05] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:34:06] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[19:34:26] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:37:27] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:38:34] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[19:38:46] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:38:50] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:39:07] [Server thread/INFO]: WhoWM has made the advancement [Spooky Scary Skeleton]
+[19:40:54] [Server thread/INFO]: WhoWM was doomed to fall
+[19:40:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:41:09] [Server thread/INFO]: <WhoWM> 324 53 -46
+[19:41:21] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 150.000000, 0.500000]
+[19:41:39] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 324.500000, 53.000000, -45.500000]
+[19:41:47] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -323.500000, 53.000000, -45.500000]
+[19:42:01] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:42:42] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:42:55] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[19:43:14] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:43:37] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:43:51] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:43:58] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:44:21] [Server thread/INFO]: [WhoWM: Applied effect Regeneration to WhoWM]
+[19:44:23] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:46:08] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:47:28] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:48:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:48:21] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:49:40] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:50:03] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:50:11] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:52:13] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[19:52:16] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[19:59:41] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:00:40] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:00:53] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[20:00:53] [Server thread/INFO]: Mwolbwa1130 left the game
+[20:03:10] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:15] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:16] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:17] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:18] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:20] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:20] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:21] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:21] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:22] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:22] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:23] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:03:25] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:03:37] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:04:26] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:31] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:32] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:33] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:33] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:34] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:35] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:35] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:36] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:04:46] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:05:19] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:05:41] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:05:43] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:05:45] [Server thread/INFO]: [WhoWM: Summoned new Wither Skeleton]
+[20:06:22] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:07:45] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:09:38] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:09:52] [Server thread/INFO]: WhoWM fell out of the world
+[20:09:52] [Server thread/INFO]: [WhoWM: Killed WhoWM]
+[20:10:00] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 150.000000, 0.500000]
+[20:10:00] [Server thread/WARN]: WhoWM moved too quickly! -609.0,86.4375,755.0
+[20:10:00] [Server thread/WARN]: WhoWM moved too quickly! -609.0,86.4375,755.0
+[20:10:01] [Server thread/WARN]: WhoWM moved too quickly! 0.0,-10.5291936452913,0.0
+[20:10:20] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:10:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=31, z=-4} gt{x=29, y=30, z=-4}
+[20:10:40] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:12:03] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:12:07] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:12:16] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:12:17] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:13:51] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:13:55] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:14:29] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:14:34] [Server thread/INFO]: WhoWM has made the advancement [Withering Heights]
+[20:14:59] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:17:14] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 150.000000, 0.500000]
+[20:17:14] [Server thread/WARN]: WhoWM moved too quickly! -607.0729141568479,87.0,752.5448005712824
+[20:17:19] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:17:20] [Server thread/INFO]: WhoWM fell from a high place
+[20:17:25] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 150.000000, 0.500000]
+[20:17:25] [Server thread/WARN]: WhoWM moved too quickly! -609.0,86.4375,755.0
+[20:17:25] [Server thread/WARN]: WhoWM moved too quickly! -609.0,86.4375,755.0
+[20:17:55] [Server thread/INFO]: [WhoWM: Gave 5 [Glass] to WhoWM]
+[20:20:01] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[20:21:30] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:21:36] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:22:14] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:22:31] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:22:57] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:23:10] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:23:12] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:23:24] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:23:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:23:50] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:23:53] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:23:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:24:25] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:25:15] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:25:19] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:25:42] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:25:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:26:00] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:26:02] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:26:07] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:26:09] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:26:20] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:26:22] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:26:35] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[20:26:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:27:14] [Server thread/INFO]: WhoWM was slain by Zombie
+[20:27:25] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -77.500000, 0.000000, -152.500000]
+[20:27:28] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:27:39] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[20:27:43] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:29:31] [Server thread/INFO]: [WhoWM: Changed the block at -81, -1, -131]
+[20:30:26] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:30:31] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:30:42] [Server thread/INFO]: WhoWM fell out of the world
+[20:30:42] [Server thread/INFO]: [WhoWM: Killed WhoWM]
+[20:31:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:31:57] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:42:28] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[20:42:36] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[20:42:44] [Server thread/INFO]: WhoWM has made the advancement [Bring Home the Beacon]
+[20:43:16] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[20:43:16] [Server thread/INFO]: WhoWM left the game
+[20:43:28] [Server thread/INFO]: Stopping the server
+[20:43:28] [Server thread/INFO]: Stopping server
+[20:43:28] [Server thread/INFO]: Saving players
+[20:43:28] [Server thread/INFO]: Saving worlds
+[20:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[20:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[20:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[20:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:43:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

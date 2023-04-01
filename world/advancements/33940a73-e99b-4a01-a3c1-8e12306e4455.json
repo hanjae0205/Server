@@ -367,10 +367,13 @@
       "minecraft:magma_cube": "2023-02-23 13:11:24 +0900",
       "minecraft:spider": "2023-02-11 22:59:45 +0900",
       "minecraft:creeper": "2023-02-11 23:12:18 +0900",
+      "minecraft:wither": "2023-04-01 20:16:49 +0900",
       "minecraft:zombified_piglin": "2023-02-20 12:39:10 +0900",
+      "minecraft:witch": "2023-04-01 20:24:52 +0900",
       "minecraft:wither_skeleton": "2023-02-22 12:54:09 +0900",
       "minecraft:husk": "2023-02-27 13:29:18 +0900",
       "minecraft:shulker": "2023-03-03 21:40:27 +0900",
+      "minecraft:cave_spider": "2023-04-01 20:22:07 +0900",
       "minecraft:piglin": "2023-02-14 19:52:52 +0900",
       "minecraft:enderman": "2023-02-20 12:58:38 +0900",
       "minecraft:silverfish": "2023-02-24 20:56:13 +0900",
@@ -3212,6 +3215,48 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2023-04-01 01:18:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-04-01 20:42:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-04-01 19:39:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-04-01 20:29:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-04-01 20:10:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-04-01 20:14:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-04-01 20:16:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-04-01 19:39:07 +0900"
     },
     "done": true
   },
