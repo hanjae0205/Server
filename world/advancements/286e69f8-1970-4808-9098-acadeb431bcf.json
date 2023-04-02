@@ -3550,5 +3550,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2023-04-02 15:07:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-04-02 15:08:07 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
