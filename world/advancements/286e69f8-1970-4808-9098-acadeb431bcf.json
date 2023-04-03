@@ -3562,5 +3562,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2023-04-03 21:47:01 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
