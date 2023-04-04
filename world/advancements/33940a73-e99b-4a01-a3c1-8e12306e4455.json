@@ -4,11 +4,15 @@
       "minecraft:snowy_slopes": "2023-03-25 22:18:42 +0900",
       "minecraft:old_growth_pine_taiga": "2023-02-14 10:16:28 +0900",
       "minecraft:taiga": "2023-02-13 11:52:42 +0900",
+      "minecraft:frozen_river": "2023-04-04 22:26:11 +0900",
       "minecraft:birch_forest": "2023-03-19 17:28:46 +0900",
       "minecraft:windswept_hills": "2023-02-24 12:56:14 +0900",
       "minecraft:beach": "2023-02-13 12:02:22 +0900",
       "minecraft:river": "2023-02-12 18:58:59 +0900",
+      "minecraft:lukewarm_ocean": "2023-04-04 22:36:10 +0900",
       "minecraft:stony_shore": "2023-02-20 12:55:05 +0900",
+      "minecraft:snowy_plains": "2023-04-04 22:26:04 +0900",
+      "minecraft:snowy_taiga": "2023-04-04 22:25:31 +0900",
       "minecraft:swamp": "2023-02-24 13:00:00 +0900",
       "minecraft:grove": "2023-03-25 22:19:11 +0900",
       "minecraft:jagged_peaks": "2023-03-25 22:18:43 +0900",
@@ -16,13 +20,18 @@
       "minecraft:forest": "2023-02-11 23:10:56 +0900",
       "minecraft:lush_caves": "2023-02-13 12:50:15 +0900",
       "minecraft:deep_cold_ocean": "2023-03-25 21:31:30 +0900",
+      "minecraft:ice_spikes": "2023-04-04 22:28:38 +0900",
+      "minecraft:frozen_ocean": "2023-04-04 22:33:33 +0900",
       "minecraft:windswept_forest": "2023-02-24 13:11:29 +0900",
       "minecraft:ocean": "2023-02-20 12:51:22 +0900",
       "minecraft:old_growth_spruce_taiga": "2023-02-20 13:27:29 +0900",
+      "minecraft:snowy_beach": "2023-04-04 22:26:35 +0900",
       "minecraft:windswept_savanna": "2023-02-24 12:58:13 +0900",
+      "minecraft:warm_ocean": "2023-04-04 22:36:13 +0900",
       "minecraft:frozen_peaks": "2023-04-01 00:16:21 +0900",
       "minecraft:old_growth_birch_forest": "2023-02-20 12:52:31 +0900",
       "minecraft:meadow": "2023-02-20 12:56:14 +0900",
+      "minecraft:savanna": "2023-04-04 22:35:48 +0900",
       "minecraft:plains": "2023-02-11 22:44:28 +0900"
     },
     "done": false
@@ -328,6 +337,7 @@
       "bread": "2023-02-15 12:13:42 +0900",
       "golden_apple": "2023-02-24 12:54:35 +0900",
       "rotten_flesh": "2023-02-11 23:30:15 +0900",
+      "suspicious_stew": "2023-04-04 22:27:02 +0900",
       "glow_berries": "2023-02-15 23:35:10 +0900",
       "salmon": "2023-02-22 12:20:57 +0900",
       "beetroot": "2023-03-19 18:19:20 +0900",
@@ -3294,6 +3304,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2023-04-02 16:15:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2023-04-04 22:19:05 +0900"
     },
     "done": true
   },
