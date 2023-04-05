@@ -47,6 +47,7 @@
       "minecraft:blaze": "2023-02-22 12:50:09 +0900",
       "minecraft:skeleton": "2023-02-11 23:14:31 +0900",
       "minecraft:ravager": "2023-02-15 13:12:08 +0900",
+      "minecraft:ghast": "2023-04-05 22:40:22 +0900",
       "minecraft:hoglin": "2023-02-26 17:05:04 +0900",
       "minecraft:vindicator": "2023-03-30 23:06:14 +0900",
       "minecraft:magma_cube": "2023-02-23 13:25:59 +0900",
@@ -683,6 +684,7 @@
       "beef": "2023-02-12 17:22:13 +0900",
       "baked_potato": "2023-02-16 22:12:36 +0900",
       "porkchop": "2023-02-26 16:58:47 +0900",
+      "tropical_fish": "2023-04-05 22:25:18 +0900",
       "potato": "2023-02-15 12:18:22 +0900",
       "mutton": "2023-02-11 23:06:53 +0900",
       "pufferfish": "2023-03-25 21:18:12 +0900",
@@ -3575,30 +3577,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2023-04-04 22:26:53 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2023-04-04 22:37:19 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2023-04-04 22:26:20 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2023-04-04 22:26:53 +0900"
-    },
-    "done": true
-  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2023-04-04 22:03:48 +0900"
@@ -3611,9 +3589,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2023-04-04 22:26:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-04-04 22:26:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-04-04 22:26:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-04-04 22:26:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2023-04-04 22:37:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-04-05 22:40:22 +0900"
     },
     "done": true
   },
