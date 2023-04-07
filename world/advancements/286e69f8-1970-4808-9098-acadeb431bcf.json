@@ -694,6 +694,7 @@
       "suspicious_stew": "2023-03-03 23:03:22 +0900",
       "glow_berries": "2023-02-28 20:53:56 +0900",
       "salmon": "2023-03-24 23:03:33 +0900",
+      "golden_carrot": "2023-04-08 00:12:46 +0900",
       "cooked_chicken": "2023-02-14 14:05:28 +0900",
       "cooked_salmon": "2023-02-27 13:24:25 +0900",
       "carrot": "2023-03-20 21:11:13 +0900"
@@ -3622,6 +3623,54 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2023-04-05 22:40:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2023-04-07 23:37:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-04-07 23:38:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-04-07 23:09:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-04-08 00:02:04 +0900"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2023-04-07 23:37:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-04-07 23:38:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-04-07 23:09:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-04-08 00:02:04 +0900"
     },
     "done": true
   },

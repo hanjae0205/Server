@@ -8,6 +8,8 @@
       "minecraft:birch_forest": "2023-03-19 17:28:46 +0900",
       "minecraft:windswept_hills": "2023-02-24 12:56:14 +0900",
       "minecraft:beach": "2023-02-13 12:02:22 +0900",
+      "minecraft:dark_forest": "2023-04-08 00:11:49 +0900",
+      "minecraft:sparse_jungle": "2023-04-08 00:13:53 +0900",
       "minecraft:river": "2023-02-12 18:58:59 +0900",
       "minecraft:lukewarm_ocean": "2023-04-04 22:36:10 +0900",
       "minecraft:stony_shore": "2023-02-20 12:55:05 +0900",
@@ -24,6 +26,7 @@
       "minecraft:frozen_ocean": "2023-04-04 22:33:33 +0900",
       "minecraft:windswept_forest": "2023-02-24 13:11:29 +0900",
       "minecraft:ocean": "2023-02-20 12:51:22 +0900",
+      "minecraft:jungle": "2023-04-08 00:13:59 +0900",
       "minecraft:old_growth_spruce_taiga": "2023-02-20 13:27:29 +0900",
       "minecraft:snowy_beach": "2023-04-04 22:26:35 +0900",
       "minecraft:windswept_savanna": "2023-02-24 12:58:13 +0900",
@@ -3310,6 +3313,24 @@
   "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
       "play_jukebox_in_meadows": "2023-04-04 22:19:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-04-08 00:14:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-04-08 00:14:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-04-08 00:14:57 +0900"
     },
     "done": true
   },
