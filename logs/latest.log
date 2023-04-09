@@ -1,62 +1,313 @@
-[00:01:44] [Server thread/INFO]: <Mwolbwa1130> ㅇㄷ
-[00:01:52] [Server thread/INFO]: <WhoWM> 광질
-[00:02:01] [Server thread/INFO]: WhoWM was slain by Zombie
-[00:02:04] [Server thread/INFO]: <Mwolbwa1130> ㅋ
-[00:02:14] [Server thread/INFO]: <WhoWM> 다이아몬드 겟또다ㅔ
-[00:04:27] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:04:30] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:07:42] [Server thread/INFO]: [WhoWM: Gave 30 [Glass] to WhoWM]
-[00:08:07] [Server thread/INFO]: [WhoWM: Gave 20 [Glass] to WhoWM]
-[00:10:11] [Server thread/INFO]: <Mwolbwa1130> 체SU
-[00:10:53] [Server thread/INFO]: <Mwolbwa1130> ?
-[00:12:36] [Server thread/INFO]: <WhoWM> 이보시오 이보시오
-[00:12:44] [Server thread/INFO]: <Mwolbwa1130> ?
-[00:12:44] [Server thread/INFO]: <WhoWM> 호퍼에서 흙좀 빼주소
-[00:12:54] [Server thread/INFO]: <Mwolbwa1130> 안들려
-[00:13:07] [Server thread/INFO]: <WhoWM> 디코껐는데ㅔ?
-[00:13:33] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:13:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:16:01] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[00:16:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=65, z=86} gt{x=-321, y=65, z=87}
-[00:16:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=65, z=86} gt{x=-321, y=65, z=87}
-[00:16:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=65, z=86} gt{x=-321, y=65, z=87}
-[00:16:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=65, z=86} gt{x=-321, y=65, z=87}
-[00:16:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=65, z=86} gt{x=-321, y=65, z=87}
-[00:16:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=65, z=86} gt{x=-321, y=65, z=87}
-[00:16:03] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:16:07] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:16:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:07] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:16:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-321, y=67, z=91} gt{x=-321, y=66, z=91}
-[00:16:10] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:16:20] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:16:27] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:17:37] [Server thread/INFO]: <Mwolbwa1130> 큼
-[00:19:43] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[00:19:49] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[00:20:12] [Server thread/INFO]: <Mwolbwa1130> 사탕 수수없으면 좀 캐
-[00:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 64311ms or 1286 ticks behind
-[00:21:45] [Server thread/INFO]: WhoWM lost connection: Timed out
-[00:21:45] [Server thread/INFO]: WhoWM left the game
-[00:21:46] [Server thread/INFO]: Mwolbwa1130 lost connection: Timed out
-[00:21:46] [Server thread/INFO]: Mwolbwa1130 left the game
-[00:21:48] [User Authenticator #3/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[00:21:48] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:59009] logged in with entity id 58494 at (120.860665681107, 70.0, 60.58339382795143)
-[00:21:48] [Server thread/INFO]: Mwolbwa1130 joined the game
-[00:22:53] [Server thread/INFO]: Stopping the server
-[00:22:53] [Server thread/INFO]: Stopping server
-[00:22:53] [Server thread/INFO]: Saving players
-[00:22:53] [Server thread/INFO]: Saving worlds
-[00:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[00:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[00:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:18:47] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:18:48] [ServerMain/INFO]: Loaded 7 recipes
+[21:18:49] [ServerMain/INFO]: Loaded 1179 advancements
+[21:18:49] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[21:18:49] [Server thread/INFO]: Loading properties
+[21:18:49] [Server thread/INFO]: Default game type: SURVIVAL
+[21:18:49] [Server thread/INFO]: Generating keypair
+[21:18:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:18:49] [Server thread/INFO]: Using default channel type
+[21:18:50] [Server thread/INFO]: Preparing level "world"
+[21:18:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:18:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:18:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:18:56] [Worker-Main-4/INFO]: Preparing spawn area: 10%
+[21:18:57] [Worker-Main-6/INFO]: Preparing spawn area: 61%
+[21:18:57] [Server thread/INFO]: Time elapsed: 5306 ms
+[21:18:57] [Server thread/INFO]: Done (7.333s)! For help, type "help"
+[21:21:07] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[21:21:07] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:60034] logged in with entity id 244 at (121.62786592323472, 66.0, 61.03702622913694)
+[21:21:07] [Server thread/INFO]: Mwolbwa1130 joined the game
+[21:23:02] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[21:23:02] [Server thread/INFO]: Mwolbwa1130 left the game
+[21:23:31] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[21:23:31] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:60062] logged in with entity id 729 at (102.3167648336058, 63.0, 66.69999998807907)
+[21:23:31] [Server thread/INFO]: Mwolbwa1130 joined the game
+[21:24:25] [Server thread/INFO]: [Not Secure] [Server] HEY
+[21:24:28] [Server thread/INFO]: <Mwolbwa1130> ?
+[21:24:53] [Server thread/INFO]: [Not Secure] [Server] Na Muu jom ha go server De gan Da
+[21:24:57] [Server thread/INFO]: [Not Secure] [Server] OK?
+[21:26:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-100, y=68, z=113}
+[21:26:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-100, y=68, z=113}
+[21:26:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-100, y=68, z=113}
+[21:26:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-100, y=68, z=113}
+[21:26:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-100, y=68, z=113}
+[21:26:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-98, y=68, z=113} gt{x=-101, y=68, z=112}
+[21:26:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-99, y=64, z=117} gt{x=-99, y=63, z=117}
+[21:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=105, y=62, z=-28} gt{x=105, y=62, z=-39}
+[21:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=105, y=62, z=-28} gt{x=105, y=62, z=-39}
+[21:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=105, y=62, z=-28} gt{x=105, y=62, z=-39}
+[21:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=105, y=62, z=-28} gt{x=105, y=62, z=-39}
+[21:28:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=106, y=61, z=-40} gt{x=105, y=62, z=-39}
+[21:28:46] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[21:31:45] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[21:31:45] [Server thread/INFO]: Mwolbwa1130 left the game
+[21:32:47] [User Authenticator #3/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[21:32:47] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:60224] logged in with entity id 3710 at (88.02073001167997, 67.0, 81.07817726158073)
+[21:32:47] [Server thread/INFO]: Mwolbwa1130 joined the game
+[21:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-104, y=65, z=115} gt{x=-105, y=65, z=115}
+[21:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-104, y=65, z=115} gt{x=-105, y=65, z=115}
+[21:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-104, y=65, z=115} gt{x=-105, y=65, z=115}
+[21:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-104, y=65, z=115} gt{x=-105, y=65, z=115}
+[21:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-104, y=65, z=115} gt{x=-105, y=65, z=115}
+[21:38:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-104, y=65, z=115} gt{x=-105, y=65, z=115}
+[21:39:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-112, y=61, z=114} gt{x=-113, y=60, z=113}
+[21:39:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-113, y=61, z=114} gt{x=-113, y=60, z=113}
+[21:43:40] [Server thread/INFO]: [Not Secure] [Server] mu ha no keke
+[21:43:49] [Server thread/INFO]: <Mwolbwa1130> 디코학인
+[21:43:52] [Server thread/INFO]: <Mwolbwa1130> 확
+[21:56:50] [User Authenticator #4/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[21:56:50] [Server thread/INFO]: WhoWM[/192.168.0.1:51446] logged in with entity id 13194 at (102.0194747610446, 70.0, 75.10975876766913)
+[21:56:50] [Server thread/INFO]: WhoWM joined the game
+[21:59:17] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[21:59:23] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:00:23] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:00:27] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:00:48] [Server thread/INFO]: [WhoWM: Successfully filled 81 blocks]
+[22:02:36] [Server thread/INFO]: [WhoWM: Successfully filled 81 blocks]
+[22:03:04] [Server thread/INFO]: [WhoWM: Successfully filled 81 blocks]
+[22:03:10] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:03:12] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:03:55] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:03:57] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:07:43] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:07:51] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:07:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-320, y=60, z=87} gt{x=-322, y=62, z=87}
+[22:07:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-320, y=60, z=87} gt{x=-322, y=62, z=87}
+[22:07:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-320, y=60, z=87} gt{x=-322, y=62, z=87}
+[22:07:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-320, y=60, z=87} gt{x=-322, y=62, z=87}
+[22:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-322, y=63, z=91} gt{x=-321, y=63, z=91}
+[22:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-322, y=63, z=91} gt{x=-321, y=63, z=91}
+[22:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-322, y=63, z=91} gt{x=-321, y=63, z=91}
+[22:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-322, y=63, z=91} gt{x=-321, y=63, z=91}
+[22:08:19] [Server thread/INFO]: [WhoWM: Successfully filled 81 blocks]
+[22:10:13] [Server thread/INFO]: [WhoWM: Gave 64 [Observer] to WhoWM]
+[22:11:14] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:11:16] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:11:50] [Server thread/INFO]: [WhoWM: Changed the block at 109, 64, 69]
+[22:12:25] [Server thread/INFO]: [WhoWM: Successfully filled 2 blocks]
+[22:12:36] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[22:12:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:13:33] [Server thread/INFO]: [WhoWM: Successfully filled 40 blocks]
+[22:16:30] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[22:17:31] [Server thread/INFO]: <Mwolbwa1130> 마1이2크 켜 임싸
+[22:17:32] [Server thread/INFO]: [WhoWM: Gave 1 [Torch] to WhoWM]
+[22:19:26] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [네더라이트 검]
+[22:21:49] [Server thread/WARN]: Mwolbwa1130 moved wrongly!
+[22:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[22:22:03] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.2629077517433,53.39260454995134,504.1135312287804
+[22:22:03] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.2629077517433,53.39260454995134,504.1135312287804
+[22:22:03] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.2629077517433,53.39260454995134,504.1135312287804
+[22:22:57] [Server thread/INFO]: WhoWM hit the ground too hard
+[22:23:45] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[22:25:26] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:25:26] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:25:47] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:25:48] [User Authenticator #5/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[22:25:48] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:60469] logged in with entity id 25669 at (151.15535052250738, 69.0, 76.00309827626911)
+[22:25:48] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:25:49] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:31:34] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130 using [한재현 쓱싹 검 ]
+[22:33:47] [Server thread/INFO]: [WhoWM: Applied 19.0 damage to Mwolbwa1130]
+[22:33:51] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [네더라이트 검]
+[22:33:51] [Server thread/INFO]: [WhoWM: Applied 19.0 damage to Mwolbwa1130]
+[22:34:02] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:05] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:06] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:37] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
+[22:34:47] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:48] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:49] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:50] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:51] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:52] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:52] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:34:53] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:34:53] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:34:55] [User Authenticator #6/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[22:34:55] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:60540] logged in with entity id 29047 at (185.69999998807907, 57.457380954104636, 65.4212655017862)
+[22:34:55] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:35:00] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [네더라이트 검]
+[22:35:00] [Server thread/INFO]: [WhoWM: Applied 4.0 damage to Mwolbwa1130]
+[22:35:36] [Server thread/INFO]: Mwolbwa1130 was squashed by a falling anvil
+[22:35:36] [Server thread/INFO]: [WhoWM: Applied 1972.0 damage to Mwolbwa1130]
+[22:35:48] [Server thread/INFO]: Mwolbwa1130 walked into a cactus whilst trying to escape WhoWM
+[22:35:48] [Server thread/INFO]: [WhoWM: Applied 1972.0 damage to Mwolbwa1130]
+[22:36:04] [Server thread/INFO]: <Mwolbwa1130> ㅗ
+[22:36:05] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:36:05] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:36:21] [Server thread/INFO]: WhoWM was shot by WhoWM using [네더라이트 검]
+[22:36:21] [Server thread/INFO]: [WhoWM: Applied 1972.0 damage to WhoWM]
+[22:37:32] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[22:38:04] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:40:08] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:40:22] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:40:34] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:42:27] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[22:43:05] [Server thread/INFO]: WhoWM fell from a high place
+[22:43:39] [Server thread/INFO]: [WhoWM: Applied 1.0 damage to WhoWM]
+[22:43:50] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:53] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:55] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:55] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:56] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:57] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:58] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:58] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:43:59] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:00] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:00] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:01] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:02] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:02] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:03] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:04] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[22:44:04] [Server thread/INFO]: [WhoWM: Applied 0.1 damage to WhoWM]
+[23:08:42] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:08:53] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:09:08] [Server thread/INFO]: [WhoWM: Gamerule randomTickSpeed is now set to: 300]
+[23:09:23] [Server thread/INFO]: [WhoWM: Gamerule randomTickSpeed is now set to: 3]
+[23:10:23] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:11:05] [Server thread/INFO]: [WhoWM: Gamerule randomTickSpeed is now set to: 3000]
+[23:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[23:11:10] [Server thread/INFO]: [WhoWM: Gamerule randomTickSpeed is now set to: 3]
+[23:11:38] [Server thread/INFO]: [WhoWM: Gamerule randomTickSpeed is now set to: 3000]
+[23:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[23:11:46] [Server thread/INFO]: [WhoWM: Gamerule randomTickSpeed is now set to: 3]
+[23:12:58] [Server thread/INFO]: [WhoWM: Gave 60 [Obsidian] to WhoWM]
+[23:13:38] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=22, y=61, z=53} gt{x=21, y=62, z=52}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:13:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=61, z=56} gt{x=25, y=60, z=56}
+[23:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=28, y=59, z=60} gt{x=27, y=58, z=61}
+[23:14:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=56, z=53} gt{x=23, y=56, z=52}
+[23:14:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=24, y=56, z=53} gt{x=23, y=56, z=52}
+[23:17:27] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:17:28] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:17:31] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:17:40] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:18:33] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:18:37] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[23:19:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:19:44] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:22:58] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:23:07] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:23:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=101, y=46, z=-456} gt{x=101, y=47, z=-456}
+[23:23:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=123, y=60, z=-414} gt{x=123, y=61, z=-414}
+[23:27:09] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:29:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:29:43] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:29:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:30:14] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:30:36] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 141.243138, 0.500000]
+[23:32:26] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:33:01] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[23:34:13] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[23:34:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:35:05] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[23:35:12] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:35:20] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[23:35:39] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:36:11] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[23:36:11] [Server thread/INFO]: WhoWM left the game
+[23:36:21] [Server thread/INFO]: Stopping the server
+[23:36:21] [Server thread/INFO]: Stopping server
+[23:36:21] [Server thread/INFO]: Saving players
+[23:36:21] [Server thread/INFO]: Saving worlds
+[23:36:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[23:36:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[23:36:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[23:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:36:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
