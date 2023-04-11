@@ -52,6 +52,7 @@
       "minecraft:vindicator": "2023-03-30 23:06:14 +0900",
       "minecraft:magma_cube": "2023-02-23 13:25:59 +0900",
       "minecraft:spider": "2023-02-11 22:55:55 +0900",
+      "minecraft:piglin_brute": "2023-04-11 22:27:54 +0900",
       "minecraft:creeper": "2023-02-13 22:25:43 +0900",
       "minecraft:slime": "2023-03-05 17:03:43 +0900",
       "minecraft:zombified_piglin": "2023-02-23 13:12:18 +0900",
@@ -1791,10 +1792,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2023-02-26 16:41:28 +0900",
       "minecraft:nether_wastes": "2023-02-14 14:04:07 +0900",
+      "minecraft:soul_sand_valley": "2023-04-11 22:11:53 +0900",
       "minecraft:warped_forest": "2023-02-22 12:18:42 +0900",
       "minecraft:basalt_deltas": "2023-02-23 13:17:49 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
@@ -3737,6 +3739,48 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2023-04-08 22:23:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2023-04-11 22:15:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2023-04-11 22:15:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-04-11 22:16:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-04-11 22:21:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-04-11 22:22:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2023-04-11 22:28:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2023-04-11 22:36:21 +0900"
     },
     "done": true
   },
