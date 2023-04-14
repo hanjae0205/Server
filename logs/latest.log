@@ -1,53 +1,95 @@
-[21:47:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:47:35] [ServerMain/INFO]: Loaded 7 recipes
-[21:47:35] [ServerMain/INFO]: Loaded 1179 advancements
-[21:47:36] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[21:47:36] [Server thread/INFO]: Loading properties
-[21:47:36] [Server thread/INFO]: Default game type: SURVIVAL
-[21:47:36] [Server thread/INFO]: Generating keypair
-[21:47:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:47:36] [Server thread/INFO]: Using default channel type
-[21:47:36] [Server thread/INFO]: Preparing level "world"
-[21:47:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:47:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:47:42] [Worker-Main-6/INFO]: Preparing spawn area: 5%
-[21:47:43] [Worker-Main-7/INFO]: Preparing spawn area: 70%
-[21:47:43] [Server thread/INFO]: Time elapsed: 4682 ms
-[21:47:43] [Server thread/INFO]: Done (6.668s)! For help, type "help"
-[21:57:40] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:57:40] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:59855] logged in with entity id 216 at (205.39039822341783, 39.0, 71.75072121048085)
-[21:57:40] [Server thread/INFO]: Mwolbwa1130 joined the game
-[22:00:38] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
-[22:16:50] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[22:22:22] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:25:26] [Server thread/INFO]: <Mwolbwa1130> 12
-[22:25:29] [Server thread/INFO]: <Mwolbwa1130> 6 6
-[22:27:53] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:28:09] [Server thread/INFO]: <Mwolbwa1130> w wwwwwwwwwwwwwwwwwwwwwwwwwwww
-[22:30:26] [Server thread/INFO]: [Not Secure] [Server] weeee
-[22:30:31] [Server thread/INFO]: [Not Secure] [Server] come to far
-[22:30:32] [Server thread/INFO]: <Mwolbwa1130> come too fra
-[22:30:50] [Server thread/INFO]: [Not Secure] [Server] to give up
-[22:31:06] [Server thread/INFO]: <Mwolbwa1130> 흑요석 90개 다캠 ㅋㅋ
-[22:31:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:31:18] [Server thread/INFO]: ee<--[HERE]
-[22:43:29] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[22:43:29] [Server thread/INFO]: Mwolbwa1130 left the game
-[23:36:03] [Server thread/INFO]: Stopping the server
-[23:36:03] [Server thread/INFO]: Stopping server
-[23:36:03] [Server thread/INFO]: Saving players
-[23:36:03] [Server thread/INFO]: Saving worlds
-[23:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[23:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[23:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[23:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:30] [Server thread/INFO]: Mwolbwa1130 drowned
+[00:00:40] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[00:00:45] [Server thread/INFO]: <Mwolbwa1130> 너 어디
+[00:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:02:34] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:03:08] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[00:03:13] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:04:32] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:05:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:06:50] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:07:26] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -27.181539, 20.000000, 86.247026]
+[00:07:40] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:08:00] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:08:03] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:08:37] [Server thread/INFO]: [WhoWM: Successfully filled 133 blocks]
+[00:08:42] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:08:43] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
+[00:09:20] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:09:45] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:10:17] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:10:48] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:10:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:10:53] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:10:55] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:11:36] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[00:15:54] [Server thread/INFO]: <Mwolbwa1130> 완성이드아아아
+[00:18:02] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 100.000000, 0.500000]
+[00:18:02] [Server thread/WARN]: WhoWM moved too quickly! 12.812049409863755,79.79999995231628,-80.19999998807907
+[00:18:58] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:19:22] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -6.802108, 20.000000, 85.827431]
+[00:19:22] [Server thread/WARN]: WhoWM moved too quickly! 0.0,-35.38510495122071,0.0
+[00:19:22] [Server thread/WARN]: WhoWM moved too quickly! 0.0,-35.38510495122071,0.0
+[00:19:28] [Server thread/INFO]: Mwolbwa1130 drowned
+[00:19:32] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:19:47] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -6.461355, 100.000000, 86.700000]
+[00:19:47] [Server thread/WARN]: WhoWM moved too quickly! 0.0,79.25604658803795,0.0
+[00:19:47] [Server thread/WARN]: WhoWM moved too quickly! 0.0,79.25604658803795,0.0
+[00:20:03] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -0.300000, 20.000000, 95.700000]
+[00:20:03] [Server thread/WARN]: WhoWM moved too quickly! 0.0,-32.0,0.0
+[00:20:40] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:20:41] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:21:43] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[00:21:47] [Server thread/INFO]: [WhoWM: Applied effect Haste to WhoWM]
+[00:22:28] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[00:23:40] [Server thread/INFO]: Mwolbwa1130 was slain by Zombified Piglin
+[00:24:30] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:24:32] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:27:22] [Server thread/INFO]: [WhoWM: Applied effect Haste to WhoWM]
+[00:27:23] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:27:25] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:32:30] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:33:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[00:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17131ms or 342 ticks behind
+[00:33:47] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:33:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=5, y=67, z=139} gt{x=8, y=67, z=139}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-7, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-9, y=65, z=146} gt{x=-6, y=64, z=146}
+[00:34:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-18, y=64, z=146} gt{x=-17, y=63, z=146}
+[00:34:30] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[00:35:13] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:38:12] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:42:38] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:43:56] [Server thread/INFO]: Mwolbwa1130 was slain by Piglin
+[00:44:18] [Server thread/INFO]: <Mwolbwa1130> ㅇㄷ
+[00:44:59] [Server thread/INFO]: [WhoWM: Successfully filled 512 blocks]
+[00:47:07] [Server thread/INFO]: [WhoWM: Set the weather to clear]
+[00:48:16] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Who's the Pillager Now?]
+[00:49:34] [Server thread/INFO]: <Mwolbwa1130> 습격하자
+[00:51:52] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:52:30] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:52:42] [Server thread/INFO]: <WhoWM> 나이제꺼야함
+[00:52:48] [Server thread/INFO]: <Mwolbwa1130> 억게
+[00:52:53] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[00:52:53] [Server thread/INFO]: WhoWM left the game
+[00:53:04] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[00:53:04] [Server thread/INFO]: Mwolbwa1130 left the game
+[00:53:05] [Server thread/INFO]: [Not Secure] [Server] server close sorry bro
+[00:53:08] [Server thread/INFO]: Stopping the server
+[00:53:08] [Server thread/INFO]: Stopping server
+[00:53:08] [Server thread/INFO]: Saving players
+[00:53:08] [Server thread/INFO]: Saving worlds
+[00:53:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[00:53:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[00:53:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[00:53:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:53:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:53:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
