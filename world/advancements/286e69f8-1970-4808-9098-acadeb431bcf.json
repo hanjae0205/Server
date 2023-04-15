@@ -3797,15 +3797,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/ride_a_boat_with_a_goat": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": "2023-04-14 23:44:58 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2023-04-14 22:51:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2023-04-14 23:44:58 +0900"
     },
     "done": true
   },
