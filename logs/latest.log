@@ -1,125 +1,37 @@
-[13:41:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:41:43] [ServerMain/INFO]: Loaded 7 recipes
-[13:41:44] [ServerMain/INFO]: Loaded 1179 advancements
-[13:41:45] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[13:41:45] [Server thread/INFO]: Loading properties
-[13:41:45] [Server thread/INFO]: Default game type: SURVIVAL
-[13:41:45] [Server thread/INFO]: Generating keypair
-[13:41:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:41:46] [Server thread/INFO]: Using default channel type
-[13:41:46] [Server thread/INFO]: Preparing level "world"
-[13:41:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:42:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:42:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:42:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:42:03] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[13:42:03] [Worker-Main-4/INFO]: Preparing spawn area: 32%
-[13:42:04] [Worker-Main-4/INFO]: Preparing spawn area: 65%
-[13:42:04] [Worker-Main-4/INFO]: Preparing spawn area: 92%
-[13:42:05] [Server thread/INFO]: Time elapsed: 12118 ms
-[13:42:05] [Server thread/INFO]: Done (18.237s)! For help, type "help"
-[13:43:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@c4c8a5d[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:59414) lost connection: Disconnected
-[13:43:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d50061f[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:59452) lost connection: Disconnected
-[13:44:32] [User Authenticator #1/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[13:44:32] [Server thread/INFO]: WhoWM[/192.168.0.1:51281] logged in with entity id 111 at (-7.791923420728141, 38.0, 95.69999998807907)
-[13:44:32] [Server thread/INFO]: WhoWM joined the game
-[13:46:49] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[13:47:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[13:47:43] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[13:47:56] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[13:48:13] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[13:48:17] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[13:48:27] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[13:48:38] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[13:53:30] [Server thread/INFO]: [WhoWM: Changed the block at -6, 19, 88]
-[13:53:53] [Server thread/INFO]: [WhoWM: Changed the block at -8, 40, 88]
-[13:56:34] [Server thread/INFO]: [WhoWM: Removed every effect from WhoWM]
-[14:00:54] [Server thread/INFO]: [WhoWM: Killed 23 entities]
-[14:00:58] [Server thread/INFO]: [WhoWM: Killed 18 entities]
-[14:01:53] [Server thread/INFO]: [WhoWM: Summoned new Iron Golem]
-[14:02:40] [Server thread/INFO]: [WhoWM: Successfully filled 511 blocks]
-[14:02:56] [Server thread/INFO]: [WhoWM: Changed the block at -8, 42, 88]
-[14:04:23] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:04:24] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:04:26] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:04:29] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:04:38] [Server thread/INFO]: WhoWM has reached the goal [Hired Help]
-[14:05:07] [Server thread/INFO]: WhoWM experienced kinetic energy
-[14:05:12] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:05:37] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:05:45] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:09:21] [Server thread/INFO]: [WhoWM: Changed the block at -8, 42, 88]
-[14:09:39] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:09:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:09:48] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:10:25] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
-[14:10:37] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[14:10:37] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:52759] logged in with entity id 4296 at (269.6468489873993, 70.0, -894.122767170161)
-[14:10:37] [Server thread/INFO]: Mwolbwa1130 joined the game
-[14:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
-[14:10:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:10:54] [Server thread/INFO]: <Mwolbwa1130> 베라클만 로그인 세션 끝남 이러네 ㅋ
-[14:11:36] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:13:48] [Server thread/INFO]: <Mwolbwa1130> ㅇㄷ
-[14:14:24] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
-[14:16:45] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:16:57] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[14:16:57] [Server thread/INFO]: Mwolbwa1130 left the game
-[14:17:03] [Server thread/INFO]: <WhoWM> ?
-[14:18:46] [Server thread/INFO]: <WhoWM> 나무4게
-[14:19:00] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:19:19] [Server thread/INFO]: [WhoWM: Changed the block at -10, 13, 86]
-[14:20:12] [Server thread/INFO]: <WhoWM> 원목 16*3 막대기 16*3 연혼흙 16
-[14:20:44] [Server thread/INFO]: <WhoWM> 막대기48=판자96=원목24
-[14:21:04] [Server thread/INFO]: <WhoWM> 원목48+24+2
-[14:21:20] [Server thread/INFO]: <WhoWM> 원목74
-[14:21:23] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:22:47] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:23:04] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:27:57] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:28:08] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[14:29:43] [Server thread/INFO]: [WhoWM: Gave 1 [Water Bucket] to WhoWM]
-[14:30:11] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:30:13] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:30:40] [Server thread/INFO]: [WhoWM: Summoned new Slime]
-[14:32:06] [Server thread/INFO]: [WhoWM: Successfully filled 1439 blocks]
-[14:33:26] [Server thread/INFO]: [WhoWM: Successfully filled 394 blocks]
-[14:33:43] [Server thread/INFO]: [WhoWM: Successfully filled 785 blocks]
-[14:34:34] [Server thread/INFO]: [WhoWM: Successfully filled 1085 blocks]
-[14:35:37] [Server thread/INFO]: [WhoWM: Successfully filled 1176 blocks]
-[14:37:14] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:37:37] [Server thread/INFO]: [WhoWM: Removed every effect from WhoWM]
-[14:37:38] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:38:06] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:38:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:39:22] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:39:27] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:39:55] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:40:32] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:40:37] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:40:53] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:41:28] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[14:41:29] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[14:41:33] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:09:25] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:09:51] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[15:09:52] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[15:09:57] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[16:19:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:19:40] [ServerMain/INFO]: Loaded 7 recipes
+[16:19:40] [ServerMain/INFO]: Loaded 1179 advancements
+[16:19:41] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[16:19:41] [Server thread/INFO]: Loading properties
+[16:19:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:19:41] [Server thread/INFO]: Generating keypair
+[16:19:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:19:41] [Server thread/INFO]: Using default channel type
+[16:19:42] [Server thread/INFO]: Preparing level "world"
+[16:19:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:19:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[16:19:50] [Worker-Main-5/INFO]: Preparing spawn area: 50%
+[16:19:50] [Worker-Main-4/INFO]: Preparing spawn area: 96%
+[16:19:50] [Server thread/INFO]: Time elapsed: 6053 ms
+[16:19:50] [Server thread/INFO]: Done (8.377s)! For help, type "help"
+[18:52:06] [Server thread/INFO]: Stopping the server
+[18:52:06] [Server thread/INFO]: Stopping server
+[18:52:06] [Server thread/INFO]: Saving players
+[18:52:06] [Server thread/INFO]: Saving worlds
+[18:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[18:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[18:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[18:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:52:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
