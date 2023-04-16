@@ -3337,15 +3337,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2023-04-15 14:09:54 +0900"
-    },
-    "done": true
-  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2023-04-15 14:04:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-15 14:09:54 +0900"
     },
     "done": true
   },
@@ -3358,6 +3358,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-04-15 14:09:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2023-04-16 15:45:01 +0900"
     },
     "done": true
   },
