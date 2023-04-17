@@ -1,123 +1,87 @@
-[15:58:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:58:45] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
-[15:58:48] [ServerMain/INFO]: Loaded 7 recipes
-[15:58:48] [ServerMain/INFO]: Loaded 1179 advancements
-[15:58:49] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[15:58:49] [Server thread/INFO]: Loading properties
-[15:58:49] [Server thread/INFO]: Default game type: SURVIVAL
-[15:58:49] [Server thread/INFO]: Generating keypair
-[15:58:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:58:50] [Server thread/INFO]: Using default channel type
-[15:58:50] [Server thread/INFO]: Preparing level "world"
-[15:58:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:59:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:59:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:59:02] [Worker-Main-6/INFO]: Preparing spawn area: 21%
-[15:59:02] [Worker-Main-4/INFO]: Preparing spawn area: 48%
-[15:59:03] [Worker-Main-7/INFO]: Preparing spawn area: 92%
-[15:59:03] [Server thread/INFO]: Time elapsed: 8586 ms
-[15:59:03] [Server thread/INFO]: Done (12.987s)! For help, type "help"
-[15:59:07] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[15:59:07] [Server thread/ERROR]: Tried to load unrecognized recipe: crafting:iron_block removed now.
-[15:59:07] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:53492] logged in with entity id 266 at (-31.57046080365456, 106.5625, -0.454157456719284)
-[15:59:07] [Server thread/INFO]: Mwolbwa1130 joined the game
-[15:59:12] [Server thread/INFO]: Executed 1 command(s) from function 'cmd:nightvision'
-[15:59:24] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[15:59:24] [Server thread/ERROR]: Tried to load unrecognized recipe: crafting:diamond removed now.
-[15:59:24] [Server thread/ERROR]: Tried to load unrecognized recipe: crafting:iron_block removed now.
-[15:59:24] [Server thread/INFO]: WhoWM[/192.168.0.1:51271] logged in with entity id 613 at (96.39879134087685, 65.0, 75.76399506795934)
-[15:59:24] [Server thread/INFO]: WhoWM joined the game
-[15:59:39] [Server thread/INFO]: [WhoWM: Executed 1 command(s) from function 'cmd:nightvision']
-[16:00:02] [Server thread/INFO]: [WhoWM: Executed 1 command(s) from function 'cmd:nightvision']
-[16:00:41] [Server thread/WARN]: Missing metadata in pack file/datapack.zip
-[16:00:41] [Server thread/INFO]: [WhoWM: Reloading!]
-[16:00:41] [Server thread/INFO]: Loaded 7 recipes
-[16:00:42] [Server thread/INFO]: Loaded 1179 advancements
-[16:02:45] [Server thread/INFO]: <Mwolbwa1130> 야양 너 어디냐?
-[16:04:13] [Server thread/INFO]: <WhoWM> 니집
-[16:04:14] [Server thread/INFO]: <Mwolbwa1130> ㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇㄷㅇ
-[16:04:30] [Server thread/WARN]: Missing metadata in pack file/datapack.zip
-[16:04:30] [Server thread/INFO]: [WhoWM: Reloading!]
-[16:04:30] [Server thread/INFO]: Loaded 7 recipes
-[16:04:30] [Server thread/INFO]: Loaded 1179 advancements
-[16:04:59] [Server thread/WARN]: Missing metadata in pack file/datapack.zip
-[16:04:59] [Server thread/INFO]: [WhoWM: Reloading!]
-[16:04:59] [Server thread/INFO]: Loaded 7 recipes
-[16:05:00] [Server thread/INFO]: Loaded 1179 advancements
-[16:05:54] [Server thread/WARN]: Missing metadata in pack file/datapack.zip
-[16:05:54] [Server thread/INFO]: [WhoWM: Reloading!]
-[16:05:54] [Server thread/INFO]: Loaded 7 recipes
-[16:05:54] [Server thread/INFO]: Loaded 1179 advancements
-[16:06:04] [Server thread/INFO]: <WhoWM> 야야
-[16:06:10] [Server thread/INFO]: <Mwolbwa1130> ㅇㅇ
-[16:06:16] [Server thread/INFO]: <WhoWM> 너 야간투시 있는지 봐봐라
-[16:06:21] [Server thread/INFO]: <Mwolbwa1130> 있음
-[16:06:25] [Server thread/INFO]: <WhoWM> 오키
-[16:06:30] [Server thread/INFO]: <WhoWM> 이제야투달라하지마
-[16:06:42] [Server thread/INFO]: <Mwolbwa1130> 오랫만에 피빕 ㄱ 폭죽안스고
-[16:06:45] [Server thread/INFO]: <Mwolbwa1130> 시
-[16:06:47] [Server thread/INFO]: <Mwolbwa1130> 작
-[16:06:49] [Server thread/INFO]: <WhoWM> ㅇㅋ
-[16:06:57] [Server thread/INFO]: <Mwolbwa1130> 타임
-[16:07:01] [Server thread/INFO]: <Mwolbwa1130> 정비시간 1분
-[16:07:47] [Server thread/INFO]: <WhoWM> 시이이이이이이이이이이이잉
-[16:07:51] [Server thread/INFO]: <WhoWM> 이이이이이이이이이이
-[16:07:52] [Server thread/INFO]: <Mwolbwa1130> 잗
-[16:08:20] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무한 짱짱 쎈 활 보다 더 쎈 활]
-[16:08:29] [Server thread/INFO]: <Mwolbwa1130> 너 갑옷 제대로 입고 ㄱ
-[16:08:34] [Server thread/INFO]: <WhoWM> ㅇ벗어
-[16:08:41] [Server thread/INFO]: <Mwolbwa1130> 외
-[16:08:49] [Server thread/INFO]: <WhoWM> 파123괴
-[16:08:49] [Server thread/INFO]: <Mwolbwa1130> 치트로 복구해
-[16:08:59] [Server thread/INFO]: <Mwolbwa1130> 원래 인첸으로
-[16:09:55] [Server thread/INFO]: <Mwolbwa1130> ㅇㄷ
-[16:10:01] [Server thread/INFO]: <Mwolbwa1130> 복구중?
-[16:11:22] [Server thread/INFO]: [WhoWM: Gave 1 [Diamond Helmet] to WhoWM]
-[16:11:44] [Server thread/INFO]: Mwolbwa1130 was shot by WhoWM using [무한 짱짱짱쎈 활]
-[16:11:48] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[16:11:48] [Server thread/INFO]: WhoWM left the game
-[16:14:01] [Server thread/INFO]: <Mwolbwa1130> 빵빵
-[16:23:07] [Server thread/INFO]: No entity was found
-[16:24:06] [Server thread/INFO]: Killed 156 entities
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=-2} gt{x=57, y=36, z=-3}
-[16:24:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=36, z=2} gt{x=58, y=33, z=0}
-[16:26:12] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[16:29:14] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[16:58:23] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[16:58:23] [Server thread/INFO]: Mwolbwa1130 left the game
-[17:28:49] [Server thread/INFO]: Stopping the server
-[17:28:49] [Server thread/INFO]: Stopping server
-[17:28:49] [Server thread/INFO]: Saving players
-[17:28:49] [Server thread/INFO]: Saving worlds
-[17:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[17:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[17:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[17:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:23:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:23:15] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
+[22:23:17] [ServerMain/INFO]: Loaded 7 recipes
+[22:23:17] [ServerMain/INFO]: Loaded 1179 advancements
+[22:23:18] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:23:18] [Server thread/INFO]: Loading properties
+[22:23:18] [Server thread/INFO]: Default game type: SURVIVAL
+[22:23:18] [Server thread/INFO]: Generating keypair
+[22:23:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:23:18] [Server thread/INFO]: Using default channel type
+[22:23:18] [Server thread/INFO]: Preparing level "world"
+[22:23:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:23:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:23:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:23:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:23:28] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[22:23:29] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[22:23:29] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[22:23:30] [Server thread/INFO]: Time elapsed: 8246 ms
+[22:23:30] [Server thread/INFO]: Done (11.322s)! For help, type "help"
+[22:28:53] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[22:28:54] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:50320] logged in with entity id 166 at (88.5, 67.0, 85.5)
+[22:28:54] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:33:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=13, y=34, z=-2} gt{x=14, y=33, z=-3}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:34:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=26, y=26, z=-23} gt{x=25, y=27, z=-23}
+[22:35:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=23, z=-7} gt{x=20, y=23, z=-8}
+[22:35:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=23, z=-7} gt{x=20, y=23, z=-8}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=27, z=-18} gt{x=24, y=26, z=-18}
+[22:36:54] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[22:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[22:39:37] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[22:40:17] [Server thread/INFO]: [Not Secure] [Server] how about night vision?
+[22:40:49] [Server thread/INFO]: <Mwolbwa1130> GI MO TTI
+[22:41:10] [Server thread/INFO]: <Mwolbwa1130> 근데 원래 엔드에서 천둥이 쳣나
+[22:41:13] [Server thread/INFO]: <Mwolbwa1130> ㅋㅋ
+[22:41:20] [Server thread/INFO]: <Mwolbwa1130> 버그걸린듯
+[22:42:53] [Server thread/INFO]: Mwolbwa1130 fell out of the world
+[22:45:48] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:45:48] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:55:47] [Server thread/INFO]: Stopping the server
+[22:55:47] [Server thread/INFO]: Stopping server
+[22:55:47] [Server thread/INFO]: Saving players
+[22:55:47] [Server thread/INFO]: Saving worlds
+[22:55:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[22:55:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[22:55:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[22:55:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:55:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:55:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:55:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
