@@ -3978,5 +3978,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2023-04-22 00:00:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2023-04-22 00:00:34 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
