@@ -1,21 +1,132 @@
-[00:04:45] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava to escape Zombie
-[00:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:24:26] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[00:25:56] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
-[00:46:51] [Server thread/WARN]: Mwolbwa1130 moved wrongly!
-[00:48:34] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[00:52:26] [Server thread/INFO]: Mwolbwa1130 drowned
-[00:52:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[00:55:17] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[00:55:17] [Server thread/INFO]: Mwolbwa1130 left the game
-[00:59:48] [Server thread/INFO]: Stopping the server
-[00:59:48] [Server thread/INFO]: Stopping server
-[00:59:48] [Server thread/INFO]: Saving players
-[00:59:48] [Server thread/INFO]: Saving worlds
-[00:59:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[00:59:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[00:59:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[00:59:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:59:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:59:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:59:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:20:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:20:32] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
+[13:20:32] [ServerMain/INFO]: Found new data pack file/gundatapack.zip, loading it automatically
+[13:20:34] [ServerMain/INFO]: Loaded 7 recipes
+[13:20:34] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1311) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1840) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
+	at dm.a(SourceFile:63) ~[server-1.19.4.jar:?]
+	at adq.a(SourceFile:83) ~[server-1.19.4.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[13:20:34] [ServerMain/INFO]: Loaded 1179 advancements
+[13:20:35] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[13:20:35] [Server thread/INFO]: Loading properties
+[13:20:35] [Server thread/INFO]: Default game type: SURVIVAL
+[13:20:35] [Server thread/INFO]: Generating keypair
+[13:20:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:20:35] [Server thread/INFO]: Using default channel type
+[13:20:35] [Server thread/INFO]: Preparing level "world"
+[13:20:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:20:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:20:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:20:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:20:44] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[13:20:45] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[13:20:45] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[13:20:46] [Server thread/INFO]: Time elapsed: 7885 ms
+[13:20:46] [Server thread/INFO]: Done (10.346s)! For help, type "help"
+[13:21:41] [User Authenticator #1/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[13:21:41] [Server thread/INFO]: WhoWM[/192.168.0.1:50982] logged in with entity id 187 at (88.17982565451545, 67.0, 80.2838366359855)
+[13:21:41] [Server thread/INFO]: WhoWM joined the game
+[13:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[13:23:16] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[13:23:16] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:63017] logged in with entity id 1127 at (86.5743044150755, 68.0, 86.11443747433051)
+[13:23:16] [Server thread/INFO]: Mwolbwa1130 joined the game
+[13:23:24] [Server thread/INFO]: <WhoWM> ed
+[13:23:26] [Server thread/INFO]: <WhoWM> de
+[13:23:33] [Server thread/INFO]: <Mwolbwa1130> zim
+[13:23:39] [Server thread/INFO]: <Mwolbwa1130> 디코 건디
+[13:23:46] [Server thread/INFO]: <WhoWM> 가만히이써봐
+[13:24:00] [Server thread/INFO]: <Mwolbwa1130> 받아바
+[13:24:33] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:25:16] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:25:28] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [나무 괭이 인척하는 총]
+[13:26:13] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[13:26:19] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[13:26:28] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[13:26:36] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[13:27:24] [Server thread/INFO]: WhoWM was burnt to a crisp whilst fighting Mwolbwa1130
+[13:28:31] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[13:28:34] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[13:28:52] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:29:03] [Server thread/WARN]: WhoWM moved wrongly!
+[13:29:14] [Server thread/WARN]: WhoWM moved wrongly!
+[13:30:49] [Server thread/INFO]: Mwolbwa1130 was shot by WhoWM using [무한 짱짱짱쎈 활]
+[13:31:09] [Server thread/INFO]: Mwolbwa1130 was burnt to a crisp whilst fighting WhoWM
+[13:31:28] [Server thread/INFO]: WhoWM was shot by Mwolbwa1130 using [무한 짱짱 쎈 활 보다 더 쎈 활]
+[13:31:40] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130 using [엔더맨 뚜까뚜까 용]
+[13:33:02] [Server thread/INFO]: <Mwolbwa1130> 밥머꼬옴
+[13:33:13] [Server thread/INFO]: Mwolbwa1130 was slain by Mwolbwa1130 using [나무 괭이 인척하는 총]
+[13:34:11] [Server thread/INFO]: [WhoWM: Gave 1 [Wooden Hoe] to WhoWM]
+[13:34:16] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:34:50] [Server thread/INFO]: [WhoWM: Gave 1 [Wooden Hoe] to WhoWM]
+[13:35:04] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:35:15] [Server thread/INFO]: [WhoWM: Gave 1 [Wooden Hoe] to WhoWM]
+[13:35:16] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:35:27] [Server thread/INFO]: [WhoWM: Gave 1 [Wooden Hoe] to WhoWM]
+[13:35:31] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:35:36] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[13:35:36] [Server thread/INFO]: WhoWM left the game
+[13:46:17] [Server thread/INFO]: Mwolbwa1130 was doomed to fall by Mwolbwa1130 using [나무 괭이 인척하는 총]
+[13:46:50] [Server thread/INFO]: Mwolbwa1130 was doomed to fall by Mwolbwa1130 using [나무 괭이 인척하는 총]
+[13:47:11] [Server thread/WARN]: Couldn't set damage of loot item 1 air
+[13:54:42] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 17.509070321191984,-6.2601557031635195,-3.89955286593937
+[13:55:53] [Server thread/INFO]: [Not Secure] [Server] I think Gun is one use
+[13:56:02] [Server thread/INFO]: [Not Secure] [Server] GUN IS BUG
+[13:56:23] [Server thread/INFO]: Villager bxz['Villager'/33432, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=1972.30, y=69.00, z=-351.30] died, message: 'Villager was slain by Zombie'
+[13:56:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:56:31] [Server thread/INFO]: say<--[HERE]
+[13:56:33] [Server thread/INFO]: [Not Secure] [Server] hey
+[13:56:35] [Server thread/INFO]: <Mwolbwa1130> D
+[13:56:38] [Server thread/INFO]: [Not Secure] [Server] zombie kill villager
+[13:56:40] [Server thread/INFO]: [Not Secure] [Server] what
+[13:56:45] [Server thread/INFO]: <Mwolbwa1130> ?
+[13:57:37] [Server thread/INFO]: Gave 5 [Wooden Hoe] to Mwolbwa1130
+[13:57:49] [Server thread/INFO]: <Mwolbwa1130> !
+[13:58:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:58:33] [Server thread/INFO]:  say shot gun please<--[HERE]
+[13:58:38] [Server thread/INFO]: [Not Secure] [Server] shot gun please
+[13:59:49] [Server thread/INFO]: [Not Secure] [Server] hey
+[13:59:50] [Server thread/INFO]: [Not Secure] [Server] hey
+[13:59:52] [Server thread/INFO]: [Not Secure] [Server] hey
+[13:59:55] [Server thread/INFO]: <Mwolbwa1130> 야스
+[13:59:59] [Server thread/INFO]: [Not Secure] [Server] chd dlfghldyddlsi?
+[14:00:02] [Server thread/INFO]: [Not Secure] [Server] dkslsi
+[14:01:13] [Server thread/INFO]: [Not Secure] [Server] server Rjdigka
+[14:01:16] [Server thread/INFO]: [Not Secure] [Server] dlEKzuwna
+[14:01:30] [Server thread/INFO]: <Mwolbwa1130> 꺼야ㅑ함
+[14:01:42] [Server thread/INFO]: <Mwolbwa1130> 이따켜줌
+[14:01:44] [Server thread/INFO]: <Mwolbwa1130> ㅇㅋ
+[14:01:45] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[14:01:45] [Server thread/INFO]: Mwolbwa1130 left the game
+[14:01:49] [Server thread/INFO]: Stopping the server
+[14:01:49] [Server thread/INFO]: Stopping server
+[14:01:49] [Server thread/INFO]: Saving players
+[14:01:49] [Server thread/INFO]: Saving worlds
+[14:01:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[14:01:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[14:01:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[14:01:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:01:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:01:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:01:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
