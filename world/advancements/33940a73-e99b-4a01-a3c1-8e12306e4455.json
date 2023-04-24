@@ -3421,5 +3421,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2023-04-24 21:47:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/bullseye": {
+    "criteria": {
+      "bullseye": "2023-04-24 21:51:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2023-04-24 21:58:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade_at_world_height": {
+    "criteria": {
+      "trade_at_world_height": "2023-04-24 22:39:09 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
