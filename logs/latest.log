@@ -1,7 +1,7 @@
-[19:32:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:32:20] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
-[19:32:21] [ServerMain/INFO]: Loaded 7 recipes
-[19:32:21] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
+[22:04:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:04:05] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
+[22:04:07] [ServerMain/INFO]: Loaded 7 recipes
+[22:04:07] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -17,287 +17,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 	at adq.a(SourceFile:83) ~[server-1.19.4.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[19:32:22] [ServerMain/INFO]: Loaded 1179 advancements
-[19:32:22] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[19:32:22] [Server thread/INFO]: Loading properties
-[19:32:22] [Server thread/INFO]: Default game type: SURVIVAL
-[19:32:22] [Server thread/INFO]: Generating keypair
-[19:32:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:32:22] [Server thread/INFO]: Using default channel type
-[19:32:22] [Server thread/INFO]: Preparing level "world"
-[19:32:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:32:27] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[19:32:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:32:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:32:30] [Worker-Main-7/INFO]: Preparing spawn area: 44%
-[19:32:31] [Server thread/INFO]: Time elapsed: 5485 ms
-[19:32:31] [Server thread/INFO]: Done (8.127s)! For help, type "help"
-[19:32:31] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:59932] logged in with entity id 170 at (40.35268121570463, 219.5, -26.322614181542143)
-[19:32:31] [Server thread/INFO]: Mwolbwa1130 joined the game
-[19:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[19:52:27] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:00:00] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[20:13:09] [Server thread/INFO]: Mwolbwa1130 was slain by Zombie
-[20:13:19] [Server thread/INFO]: <Mwolbwa1130> Mwolbwa1130
-[20:15:57] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[20:15:57] [Server thread/INFO]: Mwolbwa1130 left the game
-[20:16:14] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[20:16:14] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:63686] logged in with entity id 16486 at (-24.420614374010565, 106.5, 4.677107755876099)
-[20:16:15] [Server thread/INFO]: Mwolbwa1130 joined the game
-[20:16:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=75, z=18}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:16:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-28, y=76, z=15} gt{x=-29, y=76, z=16}
-[20:18:27] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:22:44] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
-[20:23:52] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
-[20:25:27] [Server thread/INFO]: Mwolbwa1130 has completed the challenge [Sniper Duel]
-[20:27:50] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:28:36] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:29:06] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:29:23] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:32:26] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:33:22] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:33:46] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:39:42] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[20:40:22] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[21:02:47] [Server thread/INFO]: Mwolbwa1130 was slain by Enderman
-[21:29:15] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[21:29:15] [Server thread/INFO]: WhoWM[/192.168.0.1:58448] logged in with entity id 31961 at (-28.23750001192093, 107.0, -2.671417304138119)
-[21:29:15] [Server thread/INFO]: WhoWM joined the game
-[21:29:28] [Server thread/INFO]: <Mwolbwa1130> 디꼬
-[21:29:36] [Server thread/INFO]: <Mwolbwa1130> 디꼬
-[21:31:18] [Server thread/INFO]: WhoWM hit the ground too hard whilst trying to escape Mwolbwa1130
-[21:32:03] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [네더라이트 검]
-[21:37:05] [Server thread/INFO]: WhoWM was burnt to a crisp whilst fighting Mwolbwa1130
-[21:38:18] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:38:21] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:41:43] [Server thread/INFO]: [WhoWM: Applied effect Resistance to WhoWM]
-[21:41:56] [Server thread/INFO]: [WhoWM: Applied effect Resistance to WhoWM]
-[21:42:08] [Server thread/INFO]: [WhoWM: Applied effect Resistance to WhoWM]
-[21:44:05] [Server thread/INFO]: [WhoWM: Gave 1 [Redstone Torch] to WhoWM]
-[21:50:41] [Server thread/INFO]: [WhoWM: Banned Mwolbwa1130: Banned by an operator.]
-[21:50:41] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[21:50:41] [Server thread/INFO]: Mwolbwa1130 left the game
-[21:50:41] [Server thread/WARN]: handleDisconnection() called twice
-[21:50:46] [User Authenticator #4/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:50:46] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4d8da9ab[id=286e69f8-1970-4808-9098-acadeb431bcf,name=Mwolbwa1130,properties={textures=[com.mojang.authlib.properties.Property@65cc0849]},legacy=false] (/116.34.106.192:61297): You are banned from this server.
-Reason: Banned by an operator.
-[21:50:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d8da9ab[id=286e69f8-1970-4808-9098-acadeb431bcf,name=Mwolbwa1130,properties={textures=[com.mojang.authlib.properties.Property@65cc0849]},legacy=false] (/116.34.106.192:61297) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[21:50:46] [Server thread/WARN]: handleDisconnection() called twice
-[21:50:49] [User Authenticator #5/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:50:49] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@377cb744[id=286e69f8-1970-4808-9098-acadeb431bcf,name=Mwolbwa1130,properties={textures=[com.mojang.authlib.properties.Property@74a51d0]},legacy=false] (/116.34.106.192:61299): You are banned from this server.
-Reason: Banned by an operator.
-[21:50:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@377cb744[id=286e69f8-1970-4808-9098-acadeb431bcf,name=Mwolbwa1130,properties={textures=[com.mojang.authlib.properties.Property@74a51d0]},legacy=false] (/116.34.106.192:61299) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[21:50:49] [Server thread/WARN]: handleDisconnection() called twice
-[21:50:50] [User Authenticator #6/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:50:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7585eb77[id=286e69f8-1970-4808-9098-acadeb431bcf,name=Mwolbwa1130,properties={textures=[com.mojang.authlib.properties.Property@435b45f1]},legacy=false] (/116.34.106.192:61300): You are banned from this server.
-Reason: Banned by an operator.
-[21:50:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@7585eb77[id=286e69f8-1970-4808-9098-acadeb431bcf,name=Mwolbwa1130,properties={textures=[com.mojang.authlib.properties.Property@435b45f1]},legacy=false] (/116.34.106.192:61300) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[21:50:50] [Server thread/WARN]: handleDisconnection() called twice
-[21:50:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d2ada73[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61301) lost connection: Disconnected
-[21:50:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a891a15[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61302) lost connection: Disconnected
-[21:50:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@78183bc3[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61303) lost connection: Disconnected
-[21:50:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d3bb192[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61304) lost connection: Disconnected
-[21:50:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@62f925ef[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61305) lost connection: Disconnected
-[21:50:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@4174fb9d[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61306) lost connection: Disconnected
-[21:50:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ccef9fd[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61307) lost connection: Disconnected
-[21:50:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e957d59[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61308) lost connection: Disconnected
-[21:50:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@24240e17[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61309) lost connection: Disconnected
-[21:50:56] [Server thread/INFO]: [WhoWM: Unbanned Mwolbwa1130]
-[21:50:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ac92db0[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61310) lost connection: Disconnected
-[21:50:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c6646fe[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61311) lost connection: Disconnected
-[21:50:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@a177403[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:61312) lost connection: Disconnected
-[21:50:58] [User Authenticator #7/INFO]: Disconnecting /116.34.106.192:61313: Failed to verify username!
-[21:50:58] [User Authenticator #7/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:50:58] [Server thread/INFO]: /116.34.106.192:61313 lost connection: Failed to verify username!
-[21:50:58] [User Authenticator #8/INFO]: Disconnecting /116.34.106.192:61314: Failed to verify username!
-[21:50:58] [User Authenticator #8/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:50:58] [Server thread/INFO]: /116.34.106.192:61314 lost connection: Failed to verify username!
-[21:50:59] [User Authenticator #9/INFO]: Disconnecting /116.34.106.192:61315: Failed to verify username!
-[21:50:59] [User Authenticator #9/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:50:59] [Server thread/INFO]: /116.34.106.192:61315 lost connection: Failed to verify username!
-[21:51:00] [User Authenticator #10/INFO]: Disconnecting /116.34.106.192:61316: Failed to verify username!
-[21:51:00] [User Authenticator #10/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:00] [Server thread/INFO]: /116.34.106.192:61316 lost connection: Failed to verify username!
-[21:51:01] [User Authenticator #11/INFO]: Disconnecting /116.34.106.192:61317: Failed to verify username!
-[21:51:01] [User Authenticator #11/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:01] [Server thread/INFO]: /116.34.106.192:61317 lost connection: Failed to verify username!
-[21:51:01] [User Authenticator #12/INFO]: Disconnecting /116.34.106.192:61318: Failed to verify username!
-[21:51:01] [User Authenticator #12/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:01] [Server thread/INFO]: /116.34.106.192:61318 lost connection: Failed to verify username!
-[21:51:02] [User Authenticator #13/INFO]: Disconnecting /116.34.106.192:61319: Failed to verify username!
-[21:51:02] [User Authenticator #13/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:02] [Server thread/INFO]: /116.34.106.192:61319 lost connection: Failed to verify username!
-[21:51:03] [User Authenticator #14/INFO]: Disconnecting /116.34.106.192:61320: Failed to verify username!
-[21:51:03] [User Authenticator #14/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:03] [Server thread/INFO]: /116.34.106.192:61320 lost connection: Failed to verify username!
-[21:51:04] [User Authenticator #15/INFO]: Disconnecting /116.34.106.192:61321: Failed to verify username!
-[21:51:04] [User Authenticator #15/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:04] [Server thread/INFO]: /116.34.106.192:61321 lost connection: Failed to verify username!
-[21:51:06] [User Authenticator #16/INFO]: Disconnecting /116.34.106.192:61322: Failed to verify username!
-[21:51:06] [User Authenticator #16/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:06] [Server thread/INFO]: /116.34.106.192:61322 lost connection: Failed to verify username!
-[21:51:10] [User Authenticator #17/INFO]: Disconnecting /116.34.106.192:61758: Failed to verify username!
-[21:51:10] [User Authenticator #17/ERROR]: Username 'Mwolbwa1130' tried to join with an invalid session
-[21:51:10] [Server thread/INFO]: /116.34.106.192:61758 lost connection: Failed to verify username!
-[21:51:11] [User Authenticator #18/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:51:11] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:61759] logged in with entity id 40176 at (-40.30000001192093, 78.0, 27.55861603780599)
-[21:51:11] [Server thread/INFO]: Mwolbwa1130 joined the game
-[21:51:26] [Server thread/INFO]: WhoWM has completed the challenge [Bullseye]
-[21:52:12] [Server thread/INFO]: Mwolbwa1130 has completed the challenge [Bullseye]
-[21:52:54] [Server thread/INFO]: [WhoWM: Gave 1 [Redstone Repeater] to WhoWM]
-[21:54:13] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:54:17] [Server thread/INFO]: [WhoWM: Summoned new Skeleton]
-[21:54:18] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[21:54:22] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:55:06] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[21:55:07] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:55:16] [Server thread/INFO]: [WhoWM: Summoned new Skeleton]
-[21:55:17] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[21:55:19] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:55:49] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[21:55:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:56:34] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[21:56:36] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:56:41] [Server thread/INFO]: [WhoWM: Summoned new Skeleton]
-[21:56:42] [Server thread/INFO]: [WhoWM: Summoned new Skeleton]
-[21:56:43] [Server thread/INFO]: [WhoWM: Summoned new Skeleton]
-[21:56:45] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[21:56:52] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:58:26] [Server thread/INFO]: Mwolbwa1130 went up in flames
-[21:58:51] [Server thread/INFO]: WhoWM has completed the challenge [Sniper Duel]
-[21:59:12] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:01:10] [Server thread/INFO]: Mwolbwa1130 was doomed to fall by Skeleton
-[22:02:20] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
-[22:02:21] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[22:02:31] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
-[22:02:33] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:02:35] [Server thread/INFO]: [WhoWM: Removed every effect from WhoWM]
-[22:02:43] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:02:47] [Server thread/INFO]: WhoWM suffocated in a wall
-[22:04:01] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:04:15] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:05:38] [Server thread/INFO]: WhoWM burned to death
-[22:05:51] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 15.247454702224218,-9.31424817174058,-0.16558398071256875
-[22:06:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:06:13] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:06:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=65, y=33, z=-13} gt{x=65, y=33, z=-12}
-[22:06:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=65, y=33, z=-13} gt{x=65, y=33, z=-12}
-[22:06:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=65, y=33, z=-13} gt{x=65, y=33, z=-12}
-[22:06:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=65, y=33, z=-13} gt{x=65, y=33, z=-12}
-[22:06:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=65, y=33, z=-13} gt{x=65, y=33, z=-12}
-[22:06:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=68, y=38, z=-7} gt{x=69, y=36, z=-7}
-[22:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=56, y=29, z=-15} gt{x=57, y=29, z=-15}
-[22:08:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=52, y=28, z=-21} gt{x=53, y=28, z=-21}
-[22:08:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=53, y=28, z=-20} gt{x=53, y=28, z=-21}
-[22:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=53, y=28, z=-27} gt{x=52, y=25, z=-31}
-[22:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=53, y=28, z=-27} gt{x=52, y=25, z=-31}
-[22:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=53, y=28, z=-27} gt{x=52, y=25, z=-31}
-[22:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=53, y=28, z=-27} gt{x=52, y=25, z=-31}
-[22:08:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=47, y=24, z=-22} gt{x=45, y=24, z=-20}
-[22:08:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=47, y=24, z=-22} gt{x=45, y=24, z=-20}
-[22:08:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=47, y=24, z=-22} gt{x=45, y=24, z=-20}
-[22:08:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=54, y=26, z=-16} gt{x=55, y=25, z=-16}
-[22:08:53] [Server thread/INFO]: WhoWM tried to swim in lava
-[22:13:46] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:14:10] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[22:14:10] [Server thread/INFO]: WhoWM left the game
-[22:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[22:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
-[22:17:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@58dee7dd[id=<null>,name=WhoWM,properties={},legacy=false] (/192.168.0.1:58744) lost connection: Disconnected
-[22:17:03] [User Authenticator #19/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[22:17:03] [Server thread/INFO]: WhoWM[/192.168.0.1:58747] logged in with entity id 55872 at (586.1019436408661, 66.5545935369717, -749.6954082136709)
-[22:17:03] [Server thread/INFO]: WhoWM joined the game
-[22:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[22:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[22:18:11] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:20:14] [Server thread/INFO]: [WhoWM: Changed the block at 609, 61, -740]
-[22:20:31] [Server thread/INFO]: [WhoWM: Gave 1 [Oak Sign] to WhoWM]
-[22:20:34] [Server thread/INFO]: [WhoWM: Gave 1 [Oak Sign] to WhoWM]
-[22:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[22:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
-[22:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8113ms or 162 ticks behind
-[22:22:49] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[22:23:27] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:24:42] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:26:05] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:26:18] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[22:29:47] [Server thread/INFO]: [WhoWM: Successfully filled 85 blocks]
-[22:30:14] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Light as a Rabbit]
-[22:30:18] [Server thread/INFO]: [WhoWM: Successfully filled 86 blocks]
-[22:31:07] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:32:50] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:33:50] [Server thread/INFO]: WhoWM drowned
-[22:33:57] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[22:34:46] [Server thread/INFO]: [WhoWM: Applied effect Resistance to WhoWM]
-[22:36:00] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:37:09] [Server thread/INFO]: [WhoWM: Changed the block at 610, 318, -738]
-[22:37:51] [Server thread/INFO]: [WhoWM: Changed the block at 609, 58, -747]
-[22:38:08] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:39:00] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:39:07] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:39:09] [Server thread/INFO]: WhoWM has made the advancement [Star Trader]
-[22:39:48] [Server thread/INFO]: <WhoWM> de
-[22:40:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:40:50] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[22:40:50] [Server thread/WARN]: WhoWM moved too quickly! -19.100300137549993,-22.0,-20.044324019464284
-[22:40:57] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:42:40] [Server thread/INFO]: [WhoWM: Gave 16 [String] to Mwolbwa1130]
-[22:43:05] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:43:19] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:43:25] [Server thread/INFO]: [WhoWM: Gave 4 [String] to Mwolbwa1130]
-[22:43:28] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Star Trader]
-[22:44:01] [Server thread/INFO]: Mwolbwa1130 was slain by WhoWM using [네더라이트 검]
-[22:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[22:44:08] [Server thread/INFO]: WhoWM fell out of the world
-[22:44:08] [Server thread/INFO]: [WhoWM: Killed WhoWM]
-[22:45:11] [Server thread/INFO]: Stopping the server
-[22:45:11] [Server thread/INFO]: Stopping server
-[22:45:11] [Server thread/INFO]: Saving players
-[22:45:11] [Server thread/INFO]: Mwolbwa1130 lost connection: Server closed
-[22:45:11] [Server thread/INFO]: Mwolbwa1130 left the game
-[22:45:11] [Server thread/INFO]: Saving worlds
-[22:45:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[22:45:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[22:45:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[22:45:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:45:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:45:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:45:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:04:07] [ServerMain/INFO]: Loaded 1179 advancements
+[22:04:07] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:04:07] [Server thread/INFO]: Loading properties
+[22:04:07] [Server thread/INFO]: Default game type: SURVIVAL
+[22:04:07] [Server thread/INFO]: Generating keypair
+[22:04:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:04:08] [Server thread/INFO]: Using default channel type
+[22:04:08] [Server thread/INFO]: Preparing level "world"
+[22:04:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:04:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:04:14] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[22:04:14] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[22:04:15] [Server thread/INFO]: Time elapsed: 4901 ms
+[22:04:15] [Server thread/INFO]: Done (6.894s)! For help, type "help"
+[22:16:32] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[22:16:32] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:53520] logged in with entity id 185 at (-32.006126356752546, 106.0, -2.956358560785707)
+[22:16:32] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:25:20] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:34:50] [Server thread/INFO]: [Not Secure] [Server] A heh
+[22:35:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:35:36] [Server thread/INFO]: say<--[HERE]
+[22:35:39] [Server thread/INFO]: [Not Secure] [Server] Hey
+[22:35:51] [Server thread/INFO]: [Not Secure] [Server] Minecraft Korean font change at 1.20
+[22:35:53] [Server thread/INFO]: <Mwolbwa1130> 온칼로 만들고 싶은데 만드는 법을 못름
+[22:36:04] [Server thread/INFO]: [Not Secure] [Server] New korean font is very bad
+[22:36:11] [Server thread/INFO]: <Mwolbwa1130> 1.20나옴?
+[22:36:31] [Server thread/INFO]: [Not Secure] [Server] snapshot
+[22:36:35] [Server thread/INFO]: [Not Secure] [Server] not release
+[22:38:58] [Server thread/INFO]: Mwolbwa1130 was slain by Enderman
+[22:41:00] [Server thread/INFO]: Mwolbwa1130 burned to death
+[22:41:20] [Server thread/INFO]: Mwolbwa1130 burned to death
+[22:42:39] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:45:20] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:47:10] [Server thread/INFO]: Mwolbwa1130 burned to death
+[22:47:34] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:48:54] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:48:54] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:50:32] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[22:50:32] [Server thread/INFO]: WhoWM[/192.168.0.1:50981] logged in with entity id 10666 at (-33.79249880300555, 92.50591476436827, -5.744826679287118)
+[22:50:32] [Server thread/INFO]: WhoWM joined the game
+[22:50:38] [Server thread/INFO]: WhoWM fell from a high place
+[22:54:31] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[22:55:00] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[22:55:00] [Server thread/INFO]: WhoWM left the game
+[23:10:38] [Server thread/INFO]: Stopping the server
+[23:10:38] [Server thread/INFO]: Stopping server
+[23:10:38] [Server thread/INFO]: Saving players
+[23:10:38] [Server thread/INFO]: Saving worlds
+[23:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[23:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[23:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
