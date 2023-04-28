@@ -1,81 +1,61 @@
-[22:04:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:04:05] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
-[22:04:07] [ServerMain/INFO]: Loaded 7 recipes
-[22:04:07] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
-	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1311) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1840) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
-	at dm.a(SourceFile:63) ~[server-1.19.4.jar:?]
-	at adq.a(SourceFile:83) ~[server-1.19.4.jar:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 6 more
-[22:04:07] [ServerMain/INFO]: Loaded 1179 advancements
-[22:04:07] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[22:04:07] [Server thread/INFO]: Loading properties
-[22:04:07] [Server thread/INFO]: Default game type: SURVIVAL
-[22:04:07] [Server thread/INFO]: Generating keypair
-[22:04:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:04:08] [Server thread/INFO]: Using default channel type
-[22:04:08] [Server thread/INFO]: Preparing level "world"
-[22:04:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:04:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:04:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:04:14] [Worker-Main-4/INFO]: Preparing spawn area: 9%
-[22:04:14] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[22:04:15] [Server thread/INFO]: Time elapsed: 4901 ms
-[22:04:15] [Server thread/INFO]: Done (6.894s)! For help, type "help"
-[22:16:32] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[22:16:32] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:53520] logged in with entity id 185 at (-32.006126356752546, 106.0, -2.956358560785707)
-[22:16:32] [Server thread/INFO]: Mwolbwa1130 joined the game
-[22:25:20] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:34:50] [Server thread/INFO]: [Not Secure] [Server] A heh
-[22:35:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:35:36] [Server thread/INFO]: say<--[HERE]
-[22:35:39] [Server thread/INFO]: [Not Secure] [Server] Hey
-[22:35:51] [Server thread/INFO]: [Not Secure] [Server] Minecraft Korean font change at 1.20
-[22:35:53] [Server thread/INFO]: <Mwolbwa1130> 온칼로 만들고 싶은데 만드는 법을 못름
-[22:36:04] [Server thread/INFO]: [Not Secure] [Server] New korean font is very bad
-[22:36:11] [Server thread/INFO]: <Mwolbwa1130> 1.20나옴?
-[22:36:31] [Server thread/INFO]: [Not Secure] [Server] snapshot
-[22:36:35] [Server thread/INFO]: [Not Secure] [Server] not release
-[22:38:58] [Server thread/INFO]: Mwolbwa1130 was slain by Enderman
-[22:41:00] [Server thread/INFO]: Mwolbwa1130 burned to death
-[22:41:20] [Server thread/INFO]: Mwolbwa1130 burned to death
-[22:42:39] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:45:20] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:47:10] [Server thread/INFO]: Mwolbwa1130 burned to death
-[22:47:34] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:48:54] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[22:48:54] [Server thread/INFO]: Mwolbwa1130 left the game
-[22:50:32] [User Authenticator #2/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[22:50:32] [Server thread/INFO]: WhoWM[/192.168.0.1:50981] logged in with entity id 10666 at (-33.79249880300555, 92.50591476436827, -5.744826679287118)
-[22:50:32] [Server thread/INFO]: WhoWM joined the game
-[22:50:38] [Server thread/INFO]: WhoWM fell from a high place
-[22:54:31] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:55:00] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[22:55:00] [Server thread/INFO]: WhoWM left the game
-[23:10:38] [Server thread/INFO]: Stopping the server
-[23:10:38] [Server thread/INFO]: Stopping server
-[23:10:38] [Server thread/INFO]: Saving players
-[23:10:38] [Server thread/INFO]: Saving worlds
-[23:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[23:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[23:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:10:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:07] [Server thread/INFO]: [WhoWM: Successfully filled 18 blocks]
+[00:01:09] [Server thread/INFO]: [WhoWM: Successfully filled 18 blocks]
+[00:01:40] [Server thread/INFO]: [WhoWM: Changed the block at -1173, 49, 932]
+[00:01:57] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:03:29] [Server thread/INFO]: <WhoWM> -1171 49 933
+[00:03:34] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 60.000000, 0.500000]
+[00:03:34] [Server thread/WARN]: WhoWM moved too quickly! 1171.800000011921,11.0,-933.1999999880791
+[00:03:37] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:03:39] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:03:55] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:04:22] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:04:24] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:08:37] [Server thread/INFO]: WhoWM was slain by Zombie
+[00:10:14] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:10:16] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:11:50] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -1172.500000, 49.000000, 932.500000]
+[00:11:50] [Server thread/WARN]: WhoWM moved too quickly! -1141.5567181195552,-57.0,931.0179926394599
+[00:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[00:12:37] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:12:42] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:13:29] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:13:31] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:13:35] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:13:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:14:02] [Server thread/INFO]: [WhoWM: Changed the block at -1168, 48, 928]
+[00:14:15] [Server thread/INFO]: Villager bxz['Villager'/48453, l='ServerLevel[야생임ㅋㅋㄹㅃㅃ]', x=228.02, y=70.00, z=-845.40] died, message: 'Villager was slain by Mwolbwa1130 using [엔더맨 뚜까뚜까 용]'
+[00:14:28] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[00:18:52] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:20:33] [Server thread/INFO]: Mwolbwa1130 has made the advancement [Sneak 100]
+[00:23:14] [Server thread/INFO]: Mwolbwa1130 was slain by Warden
+[00:23:27] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -1172.500000, 49.000000, 932.500000]
+[00:23:33] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
+[00:23:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[00:24:20] [Server thread/INFO]: [WhoWM: Applied effect Night Vision to WhoWM]
+[00:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:24:54] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[00:24:54] [Server thread/INFO]: WhoWM left the game
+[00:24:54] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.585818577002,53.39260454995134,504.31583084247285
+[00:24:54] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.585818577002,53.39260454995134,504.31583084247285
+[00:24:54] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.585818577002,53.39260454995134,504.31583084247285
+[00:26:06] [User Authenticator #4/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[00:26:06] [Server thread/INFO]: WhoWM[/192.168.0.1:52286] logged in with entity id 57951 at (-1178.8489441450558, 53.292840858828455, 934.1411700213239)
+[00:26:06] [Server thread/INFO]: WhoWM joined the game
+[00:26:08] [Server thread/WARN]: Mwolbwa1130 moved too quickly! 14.337614440150421,-0.8369984155167032,-10.280390259182631
+[00:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[00:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8730ms or 174 ticks behind
+[00:28:14] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[00:28:14] [Server thread/INFO]: WhoWM left the game
+[00:28:16] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[00:28:16] [Server thread/INFO]: Mwolbwa1130 left the game
+[00:28:18] [Server thread/INFO]: Stopping the server
+[00:28:18] [Server thread/INFO]: Stopping server
+[00:28:18] [Server thread/INFO]: Saving players
+[00:28:18] [Server thread/INFO]: Saving worlds
+[00:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[00:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[00:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[00:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
