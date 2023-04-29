@@ -3,11 +3,11 @@ git pull "https://github.com/hanjae0205/server.git"
 echo "server started">./serverstart.txt
 git init
 git add .
-git commit -m "@everyone ì„œë²„ì—´ë¦¼"
+git commit -m "@everyone ¼­¹ö¿­¸²"
 git push -u origin main
 java -Xmx2G -Xms512M -jar server.jar nogui
 del serverstart.txt
 git init
 git add .
-git commit -m "@everyone ì„œë²„ë‹«í˜&ì €ì¥ì¤‘"
+git commit -m "@everyone ¼­¹ö´İÈû&ÀúÀåÁß"
 git push -u origin main
