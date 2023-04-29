@@ -68,6 +68,7 @@
       "minecraft:piglin": "2023-02-26 16:59:06 +0900",
       "minecraft:enderman": "2023-02-13 22:24:57 +0900",
       "minecraft:silverfish": "2023-02-24 13:16:29 +0900",
+      "minecraft:endermite": "2023-04-29 18:57:50 +0900",
       "minecraft:zombie": "2023-02-11 23:14:43 +0900",
       "minecraft:drowned": "2023-03-19 17:40:02 +0900",
       "minecraft:zombie_villager": "2023-02-15 12:14:43 +0900"
@@ -4060,15 +4061,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-04-29 00:15:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2023-04-29 00:20:33 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_snowball": "2023-04-29 00:15:34 +0900"
+      "kill_mob_near_sculk_catalyst": "2023-04-29 14:38:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-04-29 17:16:20 +0900"
     },
     "done": true
   },

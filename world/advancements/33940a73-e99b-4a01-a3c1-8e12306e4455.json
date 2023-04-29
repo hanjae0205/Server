@@ -33,6 +33,7 @@
       "minecraft:warm_ocean": "2023-04-04 22:36:13 +0900",
       "minecraft:frozen_peaks": "2023-04-01 00:16:21 +0900",
       "minecraft:old_growth_birch_forest": "2023-02-20 12:52:31 +0900",
+      "minecraft:deep_dark": "2023-04-29 17:42:39 +0900",
       "minecraft:meadow": "2023-02-20 12:56:14 +0900",
       "minecraft:savanna": "2023-04-04 22:35:48 +0900",
       "minecraft:plains": "2023-02-11 22:44:28 +0900"
@@ -3442,6 +3443,36 @@
   "minecraft:adventure/trade_at_world_height": {
     "criteria": {
       "trade_at_world_height": "2023-04-24 22:39:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-04-29 15:50:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2023-04-29 17:47:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-04-29 17:44:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-04-29 15:50:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-04-29 16:58:34 +0900"
     },
     "done": true
   },
