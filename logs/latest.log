@@ -1,7 +1,7 @@
-[21:20:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:20:09] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
-[21:20:10] [ServerMain/INFO]: Loaded 7 recipes
-[21:20:10] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
+[22:06:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:06:57] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
+[22:06:58] [ServerMain/INFO]: Loaded 7 recipes
+[22:06:58] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -17,58 +17,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 	at adq.a(SourceFile:83) ~[server-1.19.4.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[21:20:11] [ServerMain/INFO]: Loaded 1179 advancements
-[21:20:11] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[21:20:11] [Server thread/INFO]: Loading properties
-[21:20:11] [Server thread/INFO]: Default game type: SURVIVAL
-[21:20:11] [Server thread/INFO]: Generating keypair
-[21:20:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:20:11] [Server thread/INFO]: Using default channel type
-[21:20:12] [Server thread/INFO]: Preparing level "world"
-[21:20:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:20:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:20:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:20:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:20:18] [Worker-Main-4/INFO]: Preparing spawn area: 23%
-[21:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 79%
-[21:20:19] [Server thread/INFO]: Time elapsed: 5108 ms
-[21:20:19] [Server thread/INFO]: Done (7.107s)! For help, type "help"
-[21:20:40] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@3a8ccd69[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:53919): Authentication servers are down. Please try again later, sorry!
-[21:20:40] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
-[21:20:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a8ccd69[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:53919) lost connection: Authentication servers are down. Please try again later, sorry!
-[21:20:43] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@28028714[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:53922): Authentication servers are down. Please try again later, sorry!
-[21:20:43] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
-[21:20:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@28028714[id=<null>,name=Mwolbwa1130,properties={},legacy=false] (/116.34.106.192:53922) lost connection: Authentication servers are down. Please try again later, sorry!
-[21:20:44] [User Authenticator #3/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:20:44] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:53924] logged in with entity id 84 at (247.8535412315314, 1.0, 1.699999988079071)
-[21:20:44] [Server thread/INFO]: Mwolbwa1130 joined the game
-[21:23:37] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[21:24:31] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[21:27:25] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[21:38:24] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:15:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:15:07] [Server thread/INFO]: say<--[HERE]
-[22:15:10] [Server thread/INFO]: [Not Secure] [Server] sorry
-[22:15:17] [Server thread/INFO]: [Not Secure] [Server] but I must shut server
-[22:15:19] [Server thread/INFO]: [Not Secure] [Server] 5
-[22:15:21] [Server thread/INFO]: [Not Secure] [Server] 4
-[22:15:23] [Server thread/INFO]: [Not Secure] [Server] 3
-[22:15:25] [Server thread/INFO]: [Not Secure] [Server] 2
-[22:15:26] [Server thread/INFO]: [Not Secure] [Server] 1
-[22:15:28] [Server thread/INFO]: Stopping the server
-[22:15:28] [Server thread/INFO]: Stopping server
-[22:15:28] [Server thread/INFO]: Saving players
-[22:15:28] [Server thread/INFO]: Saving worlds
-[22:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[22:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[22:15:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[22:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:15:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:06:58] [ServerMain/INFO]: Loaded 1179 advancements
+[22:06:59] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:06:59] [Server thread/INFO]: Loading properties
+[22:06:59] [Server thread/INFO]: Default game type: SURVIVAL
+[22:06:59] [Server thread/INFO]: Generating keypair
+[22:06:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:06:59] [Server thread/INFO]: Using default channel type
+[22:06:59] [Server thread/INFO]: Preparing level "world"
+[22:07:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:05] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:07:05] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:07:06] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[22:07:06] [Server thread/INFO]: Time elapsed: 4932 ms
+[22:07:06] [Server thread/INFO]: Done (6.829s)! For help, type "help"
+[22:08:54] [User Authenticator #1/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[22:08:54] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:63089] logged in with entity id 126 at (130.30268996645145, 75.0, -205.69999998807907)
+[22:08:54] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:09:14] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
+[22:11:57] [Server thread/INFO]: Mwolbwa1130 was slain by Piglin
+[22:20:32] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
+[22:22:54] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:26:04] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:26:04] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:26:08] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
+[22:26:08] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:63514] logged in with entity id 9703 at (32.318854314069895, 36.0, -1.0951267883654547)
+[22:26:08] [Server thread/INFO]: Mwolbwa1130 joined the game
+[22:28:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
+[22:28:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=10, y=77, z=-9}
+[22:28:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=11, y=77, z=-9}
+[22:32:58] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
+[22:38:51] [Server thread/INFO]: Mwolbwa1130 fell from a high place
+[22:38:54] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
+[22:38:54] [Server thread/INFO]: Mwolbwa1130 left the game
+[22:59:59] [User Authenticator #3/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
+[22:59:59] [Server thread/INFO]: WhoWM[/192.168.0.1:50677] logged in with entity id 17266 at (37.55129518083422, 128.0, -25.32591833311588)
+[22:59:59] [Server thread/INFO]: WhoWM joined the game
+[23:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[23:01:04] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:01:08] [Server thread/WARN]: WhoWM moved too quickly! -1.7852895196285488,0.0,10.60526183320681
+[23:02:13] [Server thread/INFO]: [WhoWM: Gave 1 [Trident] to WhoWM]
+[23:02:16] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:02:31] [Server thread/INFO]: [WhoWM: Teleported Trident to 196.163761, 65.000000, -0.113657]
+[23:02:40] [Server thread/INFO]: [WhoWM: Killed Trident]
+[23:03:50] [Server thread/INFO]: [WhoWM: Applied enchantment Mending to WhoWM's item]
+[23:04:44] [Server thread/INFO]: [WhoWM: Applied enchantment Impaling III to WhoWM's item]
+[23:04:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:05:33] [Server thread/INFO]: [WhoWM: Applied enchantment Impaling III to WhoWM's item]
+[23:05:42] [Server thread/INFO]: [WhoWM: Applied enchantment Loyalty II to WhoWM's item]
+[23:05:46] [Server thread/INFO]: [WhoWM: Applied enchantment Mending to WhoWM's item]
+[23:05:52] [Server thread/INFO]: [WhoWM: Applied enchantment Unbreaking III to WhoWM's item]
+[23:05:56] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:11:04] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:11:23] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:11:24] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:11:41] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:11:42] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
+[23:12:44] [Server thread/INFO]: [WhoWM: Set own game mode to Adventure Mode]
+[23:12:46] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
+[23:15:00] [Server thread/INFO]: WhoWM lost connection: Disconnected
+[23:15:00] [Server thread/INFO]: WhoWM left the game
+[23:18:04] [Server thread/INFO]: Stopping the server
+[23:18:04] [Server thread/INFO]: Stopping server
+[23:18:04] [Server thread/INFO]: Saving players
+[23:18:04] [Server thread/INFO]: Saving worlds
+[23:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[23:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[23:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[23:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
