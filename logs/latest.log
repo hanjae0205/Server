@@ -1,7 +1,7 @@
-[20:50:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:50:05] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
-[20:50:06] [ServerMain/INFO]: Loaded 7 recipes
-[20:50:06] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
+[14:12:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:12:15] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
+[14:12:16] [ServerMain/INFO]: Loaded 7 recipes
+[14:12:16] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -17,310 +17,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 	at adq.a(SourceFile:83) ~[server-1.19.4.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[20:50:07] [ServerMain/INFO]: Loaded 1179 advancements
-[20:50:07] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[20:50:07] [Server thread/INFO]: Loading properties
-[20:50:07] [Server thread/INFO]: Default game type: SURVIVAL
-[20:50:07] [Server thread/INFO]: Generating keypair
-[20:50:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:50:07] [Server thread/INFO]: Using default channel type
-[20:50:08] [Server thread/INFO]: Preparing level "world"
-[20:50:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:50:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:50:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:50:15] [Worker-Main-5/INFO]: Preparing spawn area: 36%
-[20:50:15] [Worker-Main-6/INFO]: Preparing spawn area: 87%
-[20:50:16] [Server thread/INFO]: Time elapsed: 5663 ms
-[20:50:16] [Server thread/INFO]: Done (7.924s)! For help, type "help"
-[20:52:45] [User Authenticator #1/INFO]: UUID of player WhoWM is 33940a73-e99b-4a01-a3c1-8e12306e4455
-[20:52:45] [Server thread/INFO]: WhoWM[/192.168.0.1:50363] logged in with entity id 183 at (88.5, 67.0, 85.5)
-[20:52:45] [Server thread/INFO]: WhoWM joined the game
-[20:52:58] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[20:56:46] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[20:57:37] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[20:59:22] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:00:24] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 2250.378870, 108.015542, 1832.401569]
-[21:00:32] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 3250.378870, 108.015542, -167.598431]
-[21:00:38] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 4250.378870, 108.015542, -67.598431]
-[21:00:38] [Server thread/WARN]: WhoWM moved too quickly! 1000.0,0.0,100.0
-[21:00:43] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 5250.378870, 108.015542, -1067.598431]
-[21:00:46] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 6250.378870, 108.015542, -2067.598431]
-[21:00:52] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 7250.378870, 108.015542, -3067.598431]
-[21:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6180ms or 123 ticks behind
-[21:00:56] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 5250.378870, 108.015542, -4067.598431]
-[21:01:01] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 3250.378870, 108.015542, -5067.598431]
-[21:01:01] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 1250.378870, 108.015542, -6067.598431]
-[21:01:01] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -749.621130, 108.015542, -7067.598431]
-[21:01:09] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -2749.621130, 108.015542, -67.598431]
-[21:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15002ms or 300 ticks behind
-[21:01:28] [Server thread/INFO]: [WhoWM: Teleported WhoWM to -49.621130, 108.015542, -67.598431]
-[21:01:53] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:02:03] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:02:17] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:03:22] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:04:29] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 0.500000, 100.000000, 0.500000]
-[21:04:29] [Server thread/WARN]: WhoWM moved too quickly! 727.0231050315915,15.467398596675935,-1192.9885749919727
-[21:05:53] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:11:34] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:11:53] [Server thread/INFO]: [WhoWM: Teleported 20 entities to 249.688734, 67.875642, -46.198181]
-[21:12:01] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:14:41] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:14:47] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:15:30] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:15:56] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:16:00] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:16:36] [Server thread/INFO]: [WhoWM: Teleported 14 entities to 132.651448, 58.682159, -35.053107]
-[21:17:37] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:17:58] [Server thread/INFO]: [WhoWM: Teleported Trident to 157.995887, 277.816549, -64.740016]
-[21:18:07] [Server thread/INFO]: [WhoWM: Teleported Trident to 161.922313, 303.371429, -67.095883]
-[21:18:43] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:18:52] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:19:02] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:19:38] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:19:47] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:20:02] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:20:06] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:20:50] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:22:39] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:22:52] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:23:24] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[21:26:02] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[21:28:44] [Server thread/INFO]: [WhoWM: Gave 64 [Book] to WhoWM]
-[21:30:06] [User Authenticator #2/INFO]: UUID of player Mwolbwa1130 is 286e69f8-1970-4808-9098-acadeb431bcf
-[21:30:06] [Server thread/INFO]: Mwolbwa1130[/116.34.106.192:55090] logged in with entity id 17192 at (67.09595744056021, -49.0, 715.2786247443986)
-[21:30:06] [Server thread/INFO]: Mwolbwa1130 joined the game
-[21:30:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
-[21:30:16] [Server thread/INFO]: <Mwolbwa1130> where
-[21:30:47] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[21:30:51] [Server thread/INFO]: <WhoWM> HEllo
-[21:30:58] [Server thread/INFO]: <WhoWM> I'm buying mending
-[21:31:13] [Server thread/INFO]: <WhoWM> I have 8 mending books
-[21:31:23] [Server thread/INFO]: <Mwolbwa1130> 옹 말 개 빨라
-[21:31:31] [Server thread/INFO]: <WhoWM> A horse which in front of your house is mine
-[21:31:38] [Server thread/WARN]: Horse (vehicle of Mwolbwa1130) moved wrongly! 0.5348558239126966
-[21:31:54] [Server thread/INFO]: <WhoWM> But diamond horse ~~ and Anjang is yours
-[21:32:04] [Server thread/INFO]: <Mwolbwa1130> ok
-[21:32:22] [Server thread/INFO]: <WhoWM> I have 3 Badae shimjang
-[21:32:44] [Server thread/INFO]: <Mwolbwa1130> 1 gae man
-[21:33:10] [Server thread/INFO]: WhoWM experienced kinetic energy
-[21:33:56] [Server thread/INFO]: <Mwolbwa1130> 야 내 행운곡 너한테 이ㅆ냐?
-[21:34:10] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[21:34:22] [Server thread/INFO]: <WhoWM> I dont have diamond pickaxe
-[21:34:36] [Server thread/INFO]: Mwolbwa1130 burned to death
-[21:34:46] [Server thread/INFO]: <Mwolbwa1130> ?
-[21:35:20] [Server thread/INFO]: <Mwolbwa1130> 그는 좋은 라마 였읍니다..
-[21:35:25] [Server thread/INFO]: <WhoWM> U been trolled
-[21:35:35] [Server thread/INFO]: <Mwolbwa1130> 마이크 ㄱ?
-[21:36:57] [Server thread/INFO]: Mwolbwa1130 was doomed to fall
-[21:39:04] [Server thread/WARN]: Mwolbwa1130 moved wrongly!
-[21:41:11] [Server thread/INFO]: Mwolbwa1130 hit the ground too hard
-[21:43:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=8, y=32, z=-3} gt{x=7, y=32, z=-2}
-[21:43:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=8, y=32, z=-3} gt{x=7, y=32, z=-2}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=17, y=14, z=-10} gt{x=18, y=13, z=-9}
-[21:44:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=23, y=15, z=-10} gt{x=24, y=15, z=-9}
-[21:44:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=23, y=15, z=-10} gt{x=23, y=14, z=-9}
-[21:45:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=18, z=-2} gt{x=34, y=18, z=-2}
-[21:45:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=18, z=-2} gt{x=34, y=18, z=-2}
-[21:45:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=18, z=-2} gt{x=34, y=18, z=-2}
-[21:45:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=18, z=-2} gt{x=34, y=18, z=-2}
-[21:45:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=18, z=-2} gt{x=34, y=18, z=-2}
-[21:45:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=53, y=15, z=21} gt{x=52, y=15, z=21}
-[21:47:40] [Server thread/INFO]: WhoWM burned to death
-[21:47:49] [Server thread/INFO]: Mwolbwa1130 tried to swim in lava
-[21:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[21:52:46] [Server thread/INFO]: WhoWM tried to swim in lava
-[21:53:15] [Server thread/INFO]: <WhoWM> di
-[21:53:16] [Server thread/INFO]: <WhoWM> hey
-[21:53:24] [Server thread/INFO]: <WhoWM> U cant listen?
-[21:53:30] [Server thread/INFO]: <WhoWM> O NO
-[21:56:06] [Server thread/WARN]: Mwolbwa1130 moved too quickly! -1695.8661396128132,53.39260454995134,504.0745190460841
-[21:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
-[21:56:12] [Server thread/WARN]: WhoWM moved too quickly! -1696.8682303992564,53.26590000152588,503.4296418897797
-[21:56:23] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[21:56:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:00:10] [Server thread/INFO]: WhoWM fell out of the world
-[22:00:12] [Server thread/INFO]: Mwolbwa1130 fell out of the world
-[22:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[22:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[22:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
-[22:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
-[22:07:41] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:08:07] [Server thread/INFO]: <Mwolbwa1130> 239 -100
-[22:08:45] [Server thread/INFO]: <Mwolbwa1130> 마이크 켜
-[22:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[22:10:31] [Server thread/INFO]: [WhoWM: Set the weather to clear]
-[22:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=19, y=76, z=-24} gt{x=19, y=75, z=-24}
-[22:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:15:27] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:15:42] [Server thread/INFO]: [WhoWM: Gave 1 [Redstone Dust] to WhoWM]
-[22:16:40] [Server thread/INFO]: [WhoWM: Gave 1 [Stone] to WhoWM]
-[22:16:47] [Server thread/INFO]: [WhoWM: Gave 1 [Stone] to WhoWM]
-[22:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[22:21:06] [Server thread/INFO]: [WhoWM: Gave 1 [Sticky Piston] to WhoWM]
-[22:21:09] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:21:45] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:21:51] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:22:23] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:23:08] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:23:53] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:24:02] [Server thread/INFO]: <Mwolbwa1130> WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-[22:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:25:30] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:26:26] [Server thread/INFO]: [WhoWM: Changed the block at 335, 58, 24]
-[22:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
-[22:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[22:28:53] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:28:54] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:40:33] [Server thread/INFO]: [WhoWM: Changed the block at 335, 59, 21]
-[22:40:34] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[22:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
-[22:43:55] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[22:46:39] [Server thread/INFO]: [WhoWM: Changed the block at 337, 60, -55]
-[22:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[22:52:11] [Server thread/INFO]: Mwolbwa1130 was slain by Zombie
-[22:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:54:22] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:54:24] [Server thread/INFO]: Locating element minecraft:nether_wastes took 15 ms
-[22:54:27] [Server thread/INFO]: [WhoWM: Teleported WhoWM to 464.500000, 62.000000, -138.500000]
-[22:54:27] [Server thread/WARN]: WhoWM moved too quickly! 127.65913905108482,-0.49049767996029203,63.869053919986754
-[22:54:35] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[22:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[22:54:48] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:55:03] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[22:55:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:55:11] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[22:55:12] [Server thread/INFO]: WhoWM suffocated in a wall
-[22:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[22:57:17] [Server thread/INFO]: Mwolbwa1130 experienced kinetic energy
-[22:57:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=0, y=77, z=4}
-[22:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
-[22:57:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[22:58:06] [Server thread/INFO]: [WhoWM: Teleported 3 entities to 350.888773, 76.644828, -17.873883]
-[22:58:10] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[22:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[22:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
-[23:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[23:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
-[23:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[23:03:50] [Server thread/INFO]: [WhoWM: Gave 1 [Tr1dent] to WhoWM]
-[23:04:20] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[23:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[23:06:17] [Server thread/INFO]: Mwolbwa1130 fell from a high place
-[23:06:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=0, y=79, z=6}
-[23:08:18] [Server thread/INFO]: Mwolbwa1130 was slain by Zombie
-[23:09:01] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[23:09:41] [Server thread/INFO]: <WhoWM> 할게없다
-[23:09:53] [Server thread/INFO]: <Mwolbwa1130> 하
-[23:09:57] [Server thread/INFO]: <WhoWM> 너 마이크
-[23:10:00] [Server thread/INFO]: <Mwolbwa1130> 철 공징 안ㅁ난들러
-[23:10:04] [Server thread/INFO]: <WhoWM> de
-[23:10:07] [Server thread/INFO]: <Mwolbwa1130> 누나 현실갱옴 ㅋ
-[23:10:14] [Server thread/INFO]: <WhoWM> 맞아
-[23:10:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=8, y=78, z=-14}
-[23:10:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=6, y=79, z=-16}
-[23:10:30] [Server thread/INFO]: <Mwolbwa1130> 뭐하지 이잔
-[23:11:04] [Server thread/INFO]: <WhoWM> 야야
-[23:11:12] [Server thread/INFO]: <WhoWM> 나 아이디어 떠오름 그거 쇼츠
-[23:11:17] [Server thread/INFO]: Mwolbwa1130 was slain by Zombie
-[23:15:34] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[23:15:38] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[23:16:45] [Server thread/INFO]: <WhoWM> ㅇㄷ
-[23:16:50] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[23:17:57] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[23:18:00] [Server thread/INFO]: [WhoWM: Teleported WhoWM to Mwolbwa1130]
-[23:18:00] [Server thread/WARN]: WhoWM moved too quickly! 49.51528244836876,-15.809486741892087,45.2684516359752
-[23:18:26] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[23:19:49] [Server thread/INFO]: <WhoWM> 뭐해
-[23:21:01] [Server thread/WARN]: WhoWM moved wrongly!
-[23:21:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-6, y=78, z=5}
-[23:21:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-8, y=78, z=8}
-[23:21:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-8, y=77, z=9}
-[23:21:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-8, y=77, z=10}
-[23:21:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-9, y=77, z=11}
-[23:21:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-9, y=77, z=12}
-[23:21:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-10, y=77, z=13}
-[23:21:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-11, y=77, z=15}
-[23:21:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-12, y=77, z=16}
-[23:21:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-12, y=77, z=16}
-[23:21:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-13, y=77, z=16}
-[23:21:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-13, y=79, z=17} gt{x=-14, y=77, z=13}
-[23:21:53] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[23:21:55] [Server thread/INFO]: [WhoWM: Set own game mode to Creative Mode]
-[23:23:08] [Server thread/INFO]: <Mwolbwa1130> WHERE
-[23:23:14] [Server thread/INFO]: [WhoWM: Teleported Mwolbwa1130 to 8.276941, 78.000000, 2.075095]
-[23:23:16] [Server thread/INFO]: [WhoWM: Set own game mode to Spectator Mode]
-[23:23:18] [Server thread/INFO]: [WhoWM: Set own game mode to Survival Mode]
-[23:23:39] [Server thread/INFO]: <WhoWM> IQ -1972
-[23:23:57] [Server thread/INFO]: <WhoWM> IQ 19721121
-[23:24:22] [Server thread/INFO]: <Mwolbwa1130> ㅇㅎㅇ
-[23:24:28] [Server thread/INFO]: <WhoWM> 이거써야지
-[23:24:45] [Server thread/INFO]: <WhoWM> 이거 쇼츠 1번째에 쓸까?
-[23:25:40] [Server thread/INFO]: <WhoWM> 오카이 이거 써야지
-[23:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-13, y=79, z=17} gt{x=8, y=79, z=-7}
-[23:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-13, y=79, z=17} gt{x=8, y=79, z=-7}
-[23:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-13, y=79, z=17} gt{x=8, y=79, z=-7}
-[23:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-13, y=79, z=17} gt{x=8, y=79, z=-7}
-[23:25:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-13, y=79, z=17} gt{x=8, y=79, z=-7}
-[23:26:08] [Server thread/INFO]: <WhoWM> 1. 먼 거리 발판 손으로 ㅇ열기
-[23:26:20] [Server thread/INFO]: <WhoWM> 2. 모래 tnt 점프
-[23:26:31] [Server thread/INFO]: <WhoWM> 3번째 추천좀
-[23:27:04] [Server thread/INFO]: Mwolbwa1130 was impaled by WhoWM
-[23:27:44] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
-[23:30:56] [Server thread/INFO]: WhoWM was slain by Mwolbwa1130
-[23:33:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-26, y=108, z=3} gt{x=-14, y=78, z=-3}
-[23:33:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-26, y=108, z=3} gt{x=-13, y=79, z=-3}
-[23:33:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-26, y=108, z=3} gt{x=-10, y=80, z=-3}
-[23:33:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-26, y=108, z=3} gt{x=-11, y=80, z=-3}
-[23:33:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-26, y=108, z=3} gt{x=-12, y=80, z=-5}
-[23:33:08] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-26, y=108, z=3} gt{x=-12, y=80, z=-5}
-[23:33:10] [Server thread/INFO]: WhoWM was burnt to a crisp whilst fighting Mwolbwa1130
-[23:33:12] [Server thread/INFO]: Mwolbwa1130 lost connection: Disconnected
-[23:33:12] [Server thread/INFO]: Mwolbwa1130 left the game
-[23:33:18] [Server thread/INFO]: WhoWM lost connection: Disconnected
-[23:33:18] [Server thread/INFO]: WhoWM left the game
-[23:33:49] [Server thread/INFO]: Stopping the server
-[23:33:49] [Server thread/INFO]: Stopping server
-[23:33:49] [Server thread/INFO]: Saving players
-[23:33:49] [Server thread/INFO]: Saving worlds
-[23:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[23:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[23:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[23:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:12:16] [ServerMain/INFO]: Loaded 1179 advancements
+[14:12:17] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[14:12:17] [Server thread/INFO]: Loading properties
+[14:12:17] [Server thread/INFO]: Default game type: SURVIVAL
+[14:12:17] [Server thread/INFO]: Generating keypair
+[14:12:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:12:17] [Server thread/INFO]: Using default channel type
+[14:12:17] [Server thread/INFO]: Preparing level "world"
+[14:12:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:12:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:12:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:12:25] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[14:12:25] [Worker-Main-1/INFO]: Preparing spawn area: 41%
+[14:12:26] [Worker-Main-4/INFO]: Preparing spawn area: 73%
+[14:12:26] [Server thread/INFO]: Time elapsed: 6304 ms
+[14:12:26] [Server thread/INFO]: Done (8.489s)! For help, type "help"
+[14:14:20] [Server thread/INFO]: The difficulty has been set to Normal
+[14:14:29] [Server thread/INFO]: The difficulty has been set to Easy
+[14:14:40] [Server thread/INFO]: Stopping the server
+[14:14:40] [Server thread/INFO]: Stopping server
+[14:14:40] [Server thread/INFO]: Saving players
+[14:14:40] [Server thread/INFO]: Saving worlds
+[14:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[14:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[14:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
