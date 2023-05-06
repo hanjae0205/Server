@@ -11,3 +11,4 @@ git init
 git add .
 git commit -m "@everyone ¼­¹ö´İÈû&ÀúÀåÁß"
 git push -u origin main
+pause
