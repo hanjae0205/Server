@@ -1,7 +1,7 @@
-[14:12:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:12:15] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
-[14:12:16] [ServerMain/INFO]: Loaded 7 recipes
-[14:12:16] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
+[21:37:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:37:44] [ServerMain/WARN]: Missing metadata in pack file/datapack.zip
+[21:37:46] [ServerMain/INFO]: Loaded 7 recipes
+[21:37:46] [ServerMain/ERROR]: Failed to load function gun:shotmiddle
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Only one entity is allowed, but the provided selector allows more than one at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -17,40 +17,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 	at adq.a(SourceFile:83) ~[server-1.19.4.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[14:12:16] [ServerMain/INFO]: Loaded 1179 advancements
-[14:12:17] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[14:12:17] [Server thread/INFO]: Loading properties
-[14:12:17] [Server thread/INFO]: Default game type: SURVIVAL
-[14:12:17] [Server thread/INFO]: Generating keypair
-[14:12:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:12:17] [Server thread/INFO]: Using default channel type
-[14:12:17] [Server thread/INFO]: Preparing level "world"
-[14:12:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:12:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:12:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:12:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:12:25] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[14:12:25] [Worker-Main-1/INFO]: Preparing spawn area: 41%
-[14:12:26] [Worker-Main-4/INFO]: Preparing spawn area: 73%
-[14:12:26] [Server thread/INFO]: Time elapsed: 6304 ms
-[14:12:26] [Server thread/INFO]: Done (8.489s)! For help, type "help"
-[14:14:20] [Server thread/INFO]: The difficulty has been set to Normal
-[14:14:29] [Server thread/INFO]: The difficulty has been set to Easy
-[14:14:40] [Server thread/INFO]: Stopping the server
-[14:14:40] [Server thread/INFO]: Stopping server
-[14:14:40] [Server thread/INFO]: Saving players
-[14:14:40] [Server thread/INFO]: Saving worlds
-[14:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
-[14:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
-[14:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
-[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:37:46] [ServerMain/INFO]: Loaded 1179 advancements
+[21:37:47] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[21:37:47] [Server thread/INFO]: Loading properties
+[21:37:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:37:47] [Server thread/INFO]: Generating keypair
+[21:37:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:37:47] [Server thread/INFO]: Using default channel type
+[21:37:47] [Server thread/INFO]: Preparing level "world"
+[21:37:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:37:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:37:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:37:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:37:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:37:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:37:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:37:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:37:53] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:37:53] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:37:54] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[21:37:54] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[21:37:54] [Server thread/INFO]: Time elapsed: 5314 ms
+[21:37:54] [Server thread/INFO]: Done (7.418s)! For help, type "help"
+[21:43:45] [Server thread/INFO]: Stopping the server
+[21:43:45] [Server thread/INFO]: Stopping server
+[21:43:45] [Server thread/INFO]: Saving players
+[21:43:45] [Server thread/INFO]: Saving worlds
+[21:43:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:overworld
+[21:43:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_nether
+[21:43:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[야생임ㅋㅋㄹㅃㅃ]'/minecraft:the_end
+[21:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
